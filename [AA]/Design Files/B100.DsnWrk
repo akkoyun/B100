@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=B100AA\B100\B100.PrjPcb
+[Project2]
+ProjectPath=..\..\..\Ovoo_Library\Ovoo_Library.LibPkg
