@@ -54,6 +54,100 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNDWDZAH
 
+[Document2]
+DocumentPath=Schematics\Buck Boost Converter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HDLVNMUN
+
+[Document3]
+DocumentPath=BOM List.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=2162BB0E-A0D1-4638-B684-3CD484C72361
+Description=Prototype
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=5BA3E35C-1B71-48AA-B952-4A9518B3F2F2
+Description=Bulk Production
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
+[Parameter1]
+Name=Revision_
+Value=B100AA
+
+[Parameter2]
+Name=Organization_
+Value=Ovoo Electronics
+
+[Parameter3]
+Name=link
+Value=http://www.ovoo.me
+
+[Parameter4]
+Name=Engineer_
+Value=Mehmet Günce Akkoyun
+
+[Parameter5]
+Name=DocumentNumber_Prototype_
+Value=AA001_Prototype
+
+[Parameter6]
+Name=DocumentNumber_Bulk_
+Value=AA001_Bulk
+
+[Parameter7]
+Name=DocumentNumber_
+Value=AA001
+
+[Parameter8]
+Name=Address4_
+Value=Turkiye
+
+[Parameter9]
+Name=Address3_
+Value=Meram / Konya
+
+[Parameter10]
+Name=Address2_
+Value=Birgül Apt. No: 19/6
+
+[Parameter11]
+Name=Address1_
+Value=Necip Fazýl Mah. Ortaýrmak Sok.
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -241,6 +335,8 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType11=SimView Print
 OutputName11=SimView Prints
 OutputDocumentPath11=
@@ -1054,6 +1150,10 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=3V8|NetColor=$000099FF
+Net2=NetName=GND|NetColor=$00B0B0B0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
