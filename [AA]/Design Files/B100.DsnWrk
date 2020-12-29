@@ -4,17 +4,3 @@ Version=1.0
 ProjectPath=..\..\..\Ovoo_Library\Ovoo_Library.LibPkg
 [Project2]
 ProjectPath=B100AA\B100.PrjPcb
-[Project3]
-ProjectPath=..\..\..\P101CA\Modules\Electronic\[B106AA]\Design Files\Altium\B106AA.PrjPcb
-[Project4]
-ProjectPath=..\..\..\P511AA\Modules\Electronic\P511AA.PrjMbd
-[Project5]
-ProjectPath=..\..\..\P511AA\Modules\Electronic\[B104AA]\Design Files\Altium\B104AA.PrjPcb
-[Project6]
-ProjectPath=..\..\..\P511AA\Modules\Electronic\[B151AA]\Design Files\Altium\B151AA.PrjPcb
-[Project7]
-ProjectPath=..\..\..\P511AA\Modules\Electronic\[B181AA]\Design Files\Altium\B181AA.PrjPcb
-[Project8]
-ProjectPath=..\..\..\P511AA\Modules\Electronic\[B402AA]\Design Files\Altium\B402AA.PrjPcb
-[Project9]
-ProjectPath=..\..\..\P511AA\Modules\Electronic\[B801AA]\Design Files\Altium\B801AA.PrjPcb
