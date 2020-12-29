@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=..\..\..\Ovoo_Library\Ovoo_Library.LibPkg
 [Project2]
 ProjectPath=B100AA\B100.PrjPcb
+[Project3]
+ProjectPath=..\..\..\P101CA\Modules\Electronic\[B106AA]\Design Files\Altium\B106AA.PrjPcb
