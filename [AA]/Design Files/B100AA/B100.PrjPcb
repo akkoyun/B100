@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Schematics\B100AA - Block Diagram.SchDoc
+DocumentPath=Schematics\Power Source.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -88,6 +88,142 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=Schematics\GSM Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UPZHBRJO
+
+[Document5]
+DocumentPath=Schematics\Main Power Switch.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IJVSJTHL
+
+[Document6]
+DocumentPath=Schematics\3V3 LDO Regulator.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AAJXMSUG
+
+[Document7]
+DocumentPath=Schematics\GSM IoT.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EWNSUNHV
+
+[Document8]
+DocumentPath=Schematics\GE910QUAD Modem.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JWLAOAMK
+
+[Document9]
+DocumentPath=Schematics\GE910QUAD Modem.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=Schematics\B100 Block Diagram.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LFFMGMAY
+
+[Document11]
+DocumentPath=Schematics\GSM Signal Control.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LHHYKMAR
+
 [ProjectVariant1]
 UniqueID=2162BB0E-A0D1-4638-B684-3CD484C72361
 Description=Prototype
@@ -105,48 +241,48 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=Revision_
-Value=B100AA
+Name=Address1_
+Value=Necip Fazýl Mah. Ortaýrmak Sok.
 
 [Parameter2]
-Name=Organization_
-Value=Ovoo Electronics
+Name=Address2_
+Value=Birgül Apt. No: 19/6
 
 [Parameter3]
-Name=link
-Value=http://www.ovoo.me
+Name=Address3_
+Value=Meram / Konya
 
 [Parameter4]
-Name=Engineer_
-Value=Mehmet Günce Akkoyun
+Name=Address4_
+Value=Turkiye
 
 [Parameter5]
-Name=DocumentNumber_Prototype_
-Value=AA001_Prototype
+Name=DocumentNumber_
+Value=AA001
 
 [Parameter6]
 Name=DocumentNumber_Bulk_
 Value=AA001_Bulk
 
 [Parameter7]
-Name=DocumentNumber_
-Value=AA001
+Name=DocumentNumber_Prototype_
+Value=AA001_Prototype
 
 [Parameter8]
-Name=Address4_
-Value=Turkiye
+Name=Engineer_
+Value=Mehmet Günce Akkoyun
 
 [Parameter9]
-Name=Address3_
-Value=Meram / Konya
+Name=link
+Value=http://www.ovoo.me
 
 [Parameter10]
-Name=Address2_
-Value=Birgül Apt. No: 19/6
+Name=Organization_
+Value=Ovoo Electronics
 
 [Parameter11]
-Name=Address1_
-Value=Necip Fazýl Mah. Ortaýrmak Sok.
+Name=Revision_
+Value=B100AA
 
 [Configuration1]
 Name=Sources
@@ -1152,8 +1288,26 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=3V8|NetColor=$000099FF
-Net2=NetName=GND|NetColor=$00B0B0B0
+Net1=NetName=3V3|NetColor=$000099FF
+Net2=NetName=3V8|NetColor=$000099FF
+Net3=NetName=GND|NetColor=$00B0B0B0
+Net4=NetName=GSM_1V8_ONOFF|NetColor=clBlue
+Net5=NetName=GSM_1V8_SDOWN|NetColor=clBlue
+Net6=NetName=GSM_3V3_ONOFF|NetColor=clBlue
+Net7=NetName=GSM_3V3_SDOWN|NetColor=clBlue
+Net8=NetName=NetQ1_3|NetColor=clBlue
+Net9=NetName=NetQ2_3|NetColor=clBlue
+Net10=NetName=NetR11_2|NetColor=clBlue
+Net11=NetName=NetR12_2|NetColor=clBlue
+Net12=NetName=NetU5_R12|NetColor=clBlue
+Net13=NetName=NetU5_R13|NetColor=clBlue
+Net14=NetName=SIGNAL_IOT_POWER_EN|NetColor=clBlue
+Net15=NetName=SIGNAL_MCU_POWER_EN|NetColor=clBlue
+Net16=NetName=VCC|NetColor=$000099FF
+Net17=NetName=VIOT|NetColor=$000099FF
+Net18=NetName=VIOT1|NetColor=$000099FF
+Net19=NetName=VIOT2|NetColor=$000099FF
+Net20=NetName=VMCU|NetColor=$000099FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
