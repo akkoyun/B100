@@ -106,23 +106,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UPZHBRJO
 
 [Document5]
-DocumentPath=Schematics\Main Power Switch.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IJVSJTHL
-
-[Document6]
 DocumentPath=Schematics\3V3 LDO Regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,6 +121,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAJXMSUG
+
+[Document6]
+DocumentPath=Schematics\Main Power Switch.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IJVSJTHL
 
 [Document7]
 DocumentPath=Schematics\GSM IoT.SchDoc
@@ -276,6 +276,40 @@ GenerateClassCluster=0
 DocumentUniqueId=SHJECLOT
 
 [Document15]
+DocumentPath=Schematics\Master MicroController.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=45
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JWCRJWQJ
+
+[Document16]
+DocumentPath=Schematics\Master MicroController LED.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=47
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DQUBBBMG
+
+[Document17]
 DocumentPath=Schematics\MicroController.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,40 +325,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZSXUCQWH
-
-[Document16]
-DocumentPath=Schematics\Master MicroController.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=12
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EINCTCES
-
-[Document17]
-DocumentPath=Schematics\MicroController Module Output Ports.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=13
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JPIEFZYF
 
 [Document18]
 DocumentPath=Schematics\MicroController Module Output Ports.Harness
@@ -344,7 +344,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=Schematics\FOTA MicroController Power Trigger.SchDoc
+DocumentPath=Schematics\Module Output Sockets.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=48
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VYDIUNMA
+
+[Document20]
+DocumentPath=Schematics\FOTA MicroController Power Switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -359,23 +376,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INSLSUQO
-
-[Document20]
-DocumentPath=Schematics\FOTA MicroController Power Switch.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=15
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RZFOISAD
 
 [Document21]
 DocumentPath=Schematics\FOTA MicroController.SchDoc
@@ -446,40 +446,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GLKRNDBB
 
 [Document25]
-DocumentPath=Schematics\FOTA Status LED.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=19
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YHCETMZT
-
-[Document26]
-DocumentPath=Schematics\Master MicroController.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document27]
 DocumentPath=Schematics\ICSP Burn Buffer.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document26]
 DocumentPath=Schematics\SD Card.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,92 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
-DocumentPath=Schematics\MCU Status LED.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=20
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XKDQVBGK
-
-[Document30]
-DocumentPath=Schematics\I2C Network.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=21
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PTXKZJZE
-
-[Document31]
-DocumentPath=Schematics\I2C Multiplexer.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=22
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HILYFOHT
-
-[Document32]
-DocumentPath=Schematics\I2C Multiplexer.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document33]
-DocumentPath=Schematics\Serial ID EEPROM.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=23
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ONFJFYYV
-
-[Document34]
+[Document27]
 DocumentPath=Schematics\Serial ID EEPROM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,41 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
-DocumentPath=Schematics\Real Time Clock.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=24
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IXSTWRZX
-
-[Document36]
-DocumentPath=Schematics\EEPROM.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=25
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZVUWVGMP
-
-[Document37]
+[Document28]
 DocumentPath=Schematics\EEPROM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document29]
 DocumentPath=Schematics\Real Time Clock.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document30]
 DocumentPath=Schematics\Buzzer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,8 +547,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UFXGICOH
 
-[Document40]
-DocumentPath=Schematics\Module Output Sockets.SchDoc
+[Document31]
+DocumentPath=Schematics\GSM IoT.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -715,10 +562,486 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DUOAZDNM
+DocumentUniqueId=
+
+[Document32]
+DocumentPath=Schematics\I2C Network.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=32
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BBXRGYST
+
+[Document33]
+DocumentPath=Schematics\I2C Network.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document34]
+DocumentPath=Schematics\Master MicroController Core.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=33
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FVWGUDTC
+
+[Document35]
+DocumentPath=Schematics\Master MicroController 1.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document36]
+DocumentPath=Schematics\Master MicroController Port A.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=34
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CBNIQKMK
+
+[Document37]
+DocumentPath=Schematics\Master MicroController Port B.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=35
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GTGTOSLJ
+
+[Document38]
+DocumentPath=Schematics\Master MicroController Port C.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=36
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VAHQSZNB
+
+[Document39]
+DocumentPath=Schematics\Master MicroController Port D.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=37
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SOPBEJZE
+
+[Document40]
+DocumentPath=Schematics\Master MicroController Port E.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=38
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GLEHMNBX
 
 [Document41]
+DocumentPath=Schematics\Master MicroController Port F.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=39
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NVKBGRUV
+
+[Document42]
+DocumentPath=Schematics\Master MicroController Port G.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=40
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RJNAWJPJ
+
+[Document43]
+DocumentPath=Schematics\Master MicroController Port H.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=41
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PSGXRAIT
+
+[Document44]
+DocumentPath=Schematics\Master MicroController Port J.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=42
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OCHKIXQF
+
+[Document45]
+DocumentPath=Schematics\Master MicroController Port K.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=43
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PDYMHFSZ
+
+[Document46]
+DocumentPath=Schematics\Master MicroController Port L.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=44
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QYVGNALN
+
+[Document47]
+DocumentPath=Schematics\Master MicroController Port J.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document48]
+DocumentPath=Schematics\Master MicroController Serial Communication Port.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=46
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LHKALNER
+
+[Document49]
+DocumentPath=Schematics\Master MicroController Serial Communication Port.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document50]
+DocumentPath=Schematics\Master MicroController Port A.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document51]
+DocumentPath=Schematics\Master MicroController Port C.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document52]
+DocumentPath=Schematics\Master MicroController Port F.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document53]
+DocumentPath=Schematics\Master MicroController Port K.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document54]
+DocumentPath=Schematics\Master MicroController Port L.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document55]
+DocumentPath=Schematics\Master MicroController I2C Communication Port.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=49
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VNWRQHZB
+
+[Document56]
+DocumentPath=Schematics\Master MicroController I2C Communication Port.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document57]
 DocumentPath=Schematics\Module Output Sockets.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document58]
+DocumentPath=Schematics\Master MicroController Core.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document59]
+DocumentPath=Schematics\Master MicroController Port H.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document60]
+DocumentPath=PDF Export.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -738,9 +1061,13 @@ DocumentUniqueId=
 UniqueID=2162BB0E-A0D1-4638-B684-3CD484C72361
 Description=Prototype
 AllowFabrication=0
-ParameterCount=0
+ParameterCount=1
 VariationCount=0
 ParamVariationCount=0
+
+[Parameter2_1]
+Name=Revision_
+Value=B100_Prototype
 
 [ProjectVariant2]
 UniqueID=5BA3E35C-1B71-48AA-B952-4A9518B3F2F2
@@ -1779,16 +2106,34 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Ovoo_Library.IntLib
-ComponentDesignItemID0=Buzzer - PKMCS0909E4000-R1
-ComponentSymbolReference0=Buzzer - PKMCS0909E4000-R1
+ComponentDesignItemID0=IC - ATMEGA2560V-8AU
+ComponentSymbolReference0=IC - ATMEGA2560V-8AU
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Ovoo_Schematic.SchLib
-ComponentDesignItemID1=Capacitor - 100nF [0402-6V3]
-ComponentSymbolReference1=Capacitor - 100nF [0402-6V3]
+ComponentLibraryIdentifier1=Ovoo_Library.IntLib
+ComponentDesignItemID1=IC - TLV75533PDBVR
+ComponentSymbolReference1=IC - TLV75533PDBVR
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Ovoo_Schematic.SchLib
+ComponentDesignItemID2=Capacitor - 100nF [0402-6V3]
+ComponentSymbolReference2=Capacitor - 100nF [0402-6V3]
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Ovoo_Schematic.SchLib
+ComponentDesignItemID3=Capacitor - 10uF [0603-6V3] (Tantalium)
+ComponentSymbolReference3=Capacitor - 10uF [0603-6V3] (Tantalium)
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Ovoo_Schematic.SchLib
+ComponentDesignItemID4=Capacitor - 33pF [0402-6V3]
+ComponentSymbolReference4=Capacitor - 33pF [0402-6V3]
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1818,17 +2163,17 @@ ParameterName6=ComponentLink2URL
 ParameterUpdate6=1
 ParameterName7=Description
 ParameterUpdate7=1
-ParameterName8=Device_Type
+ParameterName8=Dielectric
 ParameterUpdate8=1
-ParameterName9=Dielectric
+ParameterName9=Dropout Voltage - Max
 ParameterUpdate9=1
-ParameterName10=Frequency
+ParameterName10=ESR
 ParameterUpdate10=1
 ParameterName11=Height
 ParameterUpdate11=1
-ParameterName12=Library Reference
+ParameterName12=Leakage Current
 ParameterUpdate12=1
-ParameterName13=Manufacturer Name
+ParameterName13=Library Reference
 ParameterUpdate13=1
 ParameterName14=Manufacturer_Name
 ParameterUpdate14=1
@@ -1840,426 +2185,66 @@ ParameterName17=Minimum Operating Temperature
 ParameterUpdate17=1
 ParameterName18=Mouser_Part_Number
 ParameterUpdate18=1
-ParameterName19=ROHS
+ParameterName19=Output Current
 ParameterUpdate19=1
-ParameterName20=Sound Level
+ParameterName20=Output Voltage
 ParameterUpdate20=1
-ParameterName21=Supplier 1
+ParameterName21=ROHS
 ParameterUpdate21=1
-ParameterName22=Supplier 2
+ParameterName22=Supplier 1
 ParameterUpdate22=1
-ParameterName23=Supplier 3
+ParameterName23=Supplier 2
 ParameterUpdate23=1
-ParameterName24=Supplier 4
+ParameterName24=Supplier 3
 ParameterUpdate24=1
-ParameterName25=Supplier 5
+ParameterName25=Supplier 4
 ParameterUpdate25=1
-ParameterName26=Supplier 6
+ParameterName26=Supplier 5
 ParameterUpdate26=1
-ParameterName27=Supplier 7
+ParameterName27=Supplier 6
 ParameterUpdate27=1
-ParameterName28=Supplier 8
+ParameterName28=Supplier Part Number 1
 ParameterUpdate28=1
-ParameterName29=Supplier 9
+ParameterName29=Supplier Part Number 2
 ParameterUpdate29=1
-ParameterName30=Supplier Part Number 1
+ParameterName30=Supplier Part Number 3
 ParameterUpdate30=1
-ParameterName31=Supplier Part Number 2
+ParameterName31=Supplier Part Number 4
 ParameterUpdate31=1
-ParameterName32=Supplier Part Number 3
+ParameterName32=Supplier Part Number 5
 ParameterUpdate32=1
-ParameterName33=Supplier Part Number 4
+ParameterName33=Supplier Part Number 6
 ParameterUpdate33=1
-ParameterName34=Supplier Part Number 5
+ParameterName34=Supply Voltage - Max
 ParameterUpdate34=1
-ParameterName35=Supplier Part Number 6
+ParameterName35=Supply Voltage - Min
 ParameterUpdate35=1
-ParameterName36=Supplier Part Number 7
+ParameterName36=Tolerance
 ParameterUpdate36=1
-ParameterName37=Supplier Part Number 8
+ParameterName37=Value
 ParameterUpdate37=1
-ParameterName38=Supplier Part Number 9
+ParameterName38=Voltage
 ParameterUpdate38=1
-ParameterName39=Tolerance
-ParameterUpdate39=1
-ParameterName40=Value
-ParameterUpdate40=1
-ParameterName41=Voltage
-ParameterUpdate41=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
 ModelName0=CAPACITOR_0402
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=Murata Piezzo Buzzer
+ModelName1=CAPACITOR_0603 - TANTALUM
 ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=SOT-23-5
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=TQFP100
+ModelUpdate3=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-
-[NetInfos]
-Net1=NetName=1V8|NetColor=$000033FF
-Net2=NetName=3V3|NetColor=$000099FF
-Net3=NetName=3V8|NetColor=$000099FF
-Net4=NetName=CH0_I2C.CH0_SCL|NetColor=$0033CC33
-Net5=NetName=CH0_I2C.CH0_SDA|NetColor=$0033CC33
-Net6=NetName=CH1_I2C.CH1_SCL|NetColor=$0033CC33
-Net7=NetName=CH1_I2C.CH1_SDA|NetColor=$0033CC33
-Net8=NetName=CH2_I2C.CH2_SCL|NetColor=$0033CC33
-Net9=NetName=CH2_I2C.CH2_SDA|NetColor=$0033CC33
-Net10=NetName=CH3_I2C|NetColor=$0033CC33
-Net11=NetName=CH3_I2C.CH3_SCL|NetColor=$0033CC33
-Net12=NetName=CH3_I2C.CH3_SDA|NetColor=$0033CC33
-Net13=NetName=FOTA_DIGITAL_ICSP.FOTA_DIGITAL_MISO|NetColor=$0033CC33
-Net14=NetName=FOTA_DIGITAL_ICSP.FOTA_DIGITAL_MOSI|NetColor=$0033CC33
-Net15=NetName=FOTA_DIGITAL_ICSP.FOTA_DIGITAL_RESET|NetColor=$0033CC33
-Net16=NetName=FOTA_DIGITAL_ICSP.FOTA_DIGITAL_SCK|NetColor=$0033CC33
-Net17=NetName=FOTA_DIGITAL_MISO|NetColor=$0033CC33
-Net18=NetName=FOTA_DIGITAL_MOSI|NetColor=$0033CC33
-Net19=NetName=FOTA_DIGITAL_RESET|NetColor=$0033CC33
-Net20=NetName=FOTA_DIGITAL_SCK|NetColor=$0033CC33
-Net21=NetName=FOTA_ICSP.FOTA_MISO|NetColor=$0033CC33
-Net22=NetName=FOTA_ICSP.FOTA_MOSI|NetColor=$0033CC33
-Net23=NetName=FOTA_ICSP.FOTA_RESET|NetColor=$0033CC33
-Net24=NetName=FOTA_ICSP.FOTA_SCK|NetColor=$0033CC33
-Net25=NetName=FOTA_ICSP.FOTA_SS|NetColor=$0033CC33
-Net26=NetName=FOTA_MISO|NetColor=$0033CC33
-Net27=NetName=FOTA_MOSI|NetColor=$0033CC33
-Net28=NetName=FOTA_RESET|NetColor=$0033CC33
-Net29=NetName=FOTA_SCK|NetColor=$0033CC33
-Net30=NetName=FOTA_SS|NetColor=$0033CC33
-Net31=NetName=GND|NetColor=$00B0B0B0
-Net32=NetName=GSM_1V8_CTS|NetColor=$006EA300
-Net33=NetName=GSM_1V8_DCD|NetColor=$006EA300
-Net34=NetName=GSM_1V8_DSR|NetColor=$006EA300
-Net35=NetName=GSM_1V8_DTR|NetColor=$006EA300
-Net36=NetName=GSM_1V8_ONOFF|NetColor=clBlue
-Net37=NetName=GSM_1V8_PMON|NetColor=$000033FF
-Net38=NetName=GSM_1V8_RING|NetColor=$006EA300
-Net39=NetName=GSM_1V8_RTS|NetColor=$006EA300
-Net40=NetName=GSM_1V8_RX|NetColor=$006EA300
-Net41=NetName=GSM_1V8_SDOWN|NetColor=clBlue
-Net42=NetName=GSM_1V8_TX|NetColor=$006EA300
-Net43=NetName=GSM_1V8_UART.GSM_1V8_CTS|NetColor=$0033CC33
-Net44=NetName=GSM_1V8_UART.GSM_1V8_DCD|NetColor=$0033CC33
-Net45=NetName=GSM_1V8_UART.GSM_1V8_DSR|NetColor=$0033CC33
-Net46=NetName=GSM_1V8_UART.GSM_1V8_DTR|NetColor=$0033CC33
-Net47=NetName=GSM_1V8_UART.GSM_1V8_RING|NetColor=$0033CC33
-Net48=NetName=GSM_1V8_UART.GSM_1V8_RTS|NetColor=$0033CC33
-Net49=NetName=GSM_1V8_UART.GSM_1V8_RX|NetColor=$0033CC33
-Net50=NetName=GSM_1V8_UART.GSM_1V8_TX|NetColor=$0033CC33
-Net51=NetName=GSM_3V3_ONOFF|NetColor=clBlue
-Net52=NetName=GSM_3V3_PMON|NetColor=clBlue
-Net53=NetName=GSM_3V3_RX|NetColor=$0033CC33
-Net54=NetName=GSM_3V3_SDOWN|NetColor=clBlue
-Net55=NetName=GSM_3V3_TX|NetColor=$0033CC33
-Net56=NetName=GSM_3V3_UART.GSM_3V3_CTS|NetColor=$0033CC33
-Net57=NetName=GSM_3V3_UART.GSM_3V3_DCD|NetColor=$0033CC33
-Net58=NetName=GSM_3V3_UART.GSM_3V3_DSR|NetColor=$0033CC33
-Net59=NetName=GSM_3V3_UART.GSM_3V3_DTR|NetColor=$0033CC33
-Net60=NetName=GSM_3V3_UART.GSM_3V3_RING|NetColor=$0033CC33
-Net61=NetName=GSM_3V3_UART.GSM_3V3_RTS|NetColor=$0033CC33
-Net62=NetName=GSM_3V3_UART.GSM_3V3_RX|NetColor=$0033CC33
-Net63=NetName=GSM_3V3_UART.GSM_3V3_TX|NetColor=$0033CC33
-Net64=NetName=MASTER_I2C|NetColor=$0033CC33
-Net65=NetName=MASTER_I2C.MASTER_SCL|NetColor=$0033CC33
-Net66=NetName=MASTER_I2C.MASTER_SDA|NetColor=$0033CC33
-Net67=NetName=MASTER_ICSP.MASTER_MISO|NetColor=$0033CC33
-Net68=NetName=MASTER_ICSP.MASTER_MOSI|NetColor=$0033CC33
-Net69=NetName=MASTER_ICSP.MASTER_RESET|NetColor=$0033CC33
-Net70=NetName=MASTER_ICSP.MASTER_SCK|NetColor=$0033CC33
-Net71=NetName=MASTER_ICSP.MASTER_SS|NetColor=$0033CC33
-Net72=NetName=MASTER_RESET|NetColor=$0033CC33
-Net73=NetName=MASTER_SCL|NetColor=$0033CC33
-Net74=NetName=MASTER_SDA|NetColor=$0033CC33
-Net75=NetName=N00000|NetColor=$00CA9C00
-Net76=NetName=NetC100_2|NetColor=$00CA9C00
-Net77=NetName=NetC101_2|NetColor=$00CA9C00
-Net78=NetName=NetC102_2|NetColor=$00CA9C00
-Net79=NetName=NetC103_2|NetColor=$00CA9C00
-Net80=NetName=NetC104_2|NetColor=$00CA9C00
-Net81=NetName=NetC105_2|NetColor=$00CA9C00
-Net82=NetName=NetC107_2|NetColor=$00CA9C00
-Net83=NetName=NetC109_2|NetColor=$00CA9C00
-Net84=NetName=NetC118_1|NetColor=$00CA9C00
-Net85=NetName=NetC120_1|NetColor=$00CA9C00
-Net86=NetName=NetC121_1|NetColor=$00CA9C00
-Net87=NetName=NetC122_1|NetColor=$00CA9C00
-Net88=NetName=NetC123_1|NetColor=$00CA9C00
-Net89=NetName=NetC124_1|NetColor=$00CA9C00
-Net90=NetName=NetC125_1|NetColor=$00CA9C00
-Net91=NetName=NetC129_2|NetColor=$00CA9C00
-Net92=NetName=NetC130_1|NetColor=$00CA9C00
-Net93=NetName=NetC131_1|NetColor=$00CA9C00
-Net94=NetName=NetC132_1|NetColor=$00CA9C00
-Net95=NetName=NetC133_1|NetColor=$00CA9C00
-Net96=NetName=NetC134_1|NetColor=$00CA9C00
-Net97=NetName=NetC135_1|NetColor=$00CA9C00
-Net98=NetName=NetC146_1|NetColor=$00CA9C00
-Net99=NetName=NetC147_1|NetColor=$00CA9C00
-Net100=NetName=NetC15_1|NetColor=$000099FF
-Net101=NetName=NetC38_2|NetColor=$0033CC33
-Net102=NetName=NetC39_2|NetColor=$0033CC33
-Net103=NetName=NetC40_2|NetColor=$0033CC33
-Net104=NetName=NetC41_2|NetColor=$0033CC33
-Net105=NetName=NetC42_2|NetColor=$0033CC33
-Net106=NetName=NetC43_2|NetColor=$0033CC33
-Net107=NetName=NetC44_2|NetColor=$0033CC33
-Net108=NetName=NetC45_2|NetColor=$0033CC33
-Net109=NetName=NetC47_2|NetColor=$0033CC33
-Net110=NetName=NetC48_2|NetColor=$0033CC33
-Net111=NetName=NetC49_2|NetColor=$0033CC33
-Net112=NetName=NetC50_2|NetColor=$0033CC33
-Net113=NetName=NetC51_2|NetColor=$0033CC33
-Net114=NetName=NetC52_2|NetColor=$0033CC33
-Net115=NetName=NetC53_2|NetColor=$0033CC33
-Net116=NetName=NetC54_2|NetColor=$0033CC33
-Net117=NetName=NetC57_2|NetColor=$00CA9C00
-Net118=NetName=NetC59_1|NetColor=$00CA9C00
-Net119=NetName=NetC61_1|NetColor=$00CA9C00
-Net120=NetName=NetC63_1|NetColor=$00CA9C00
-Net121=NetName=NetC65_1|NetColor=$00CA9C00
-Net122=NetName=NetC66_2|NetColor=$00CA9C00
-Net123=NetName=NetC67_2|NetColor=$00CA9C00
-Net124=NetName=NetC68_2|NetColor=$00CA9C00
-Net125=NetName=NetC69_2|NetColor=$00CA9C00
-Net126=NetName=NetC70_2|NetColor=$00CA9C00
-Net127=NetName=NetC71_2|NetColor=$00CA9C00
-Net128=NetName=NetC72_2|NetColor=$00CA9C00
-Net129=NetName=NetC73_2|NetColor=$00CA9C00
-Net130=NetName=NetC74_2|NetColor=$00CA9C00
-Net131=NetName=NetC75_2|NetColor=$00CA9C00
-Net132=NetName=NetC76_2|NetColor=$00CA9C00
-Net133=NetName=NetC77_2|NetColor=$00CA9C00
-Net134=NetName=NetC78_2|NetColor=$00CA9C00
-Net135=NetName=NetC79_2|NetColor=$00CA9C00
-Net136=NetName=NetC80_2|NetColor=$00CA9C00
-Net137=NetName=NetC81_2|NetColor=$00CA9C00
-Net138=NetName=NetC82_2|NetColor=$00CA9C00
-Net139=NetName=NetC83_2|NetColor=$00CA9C00
-Net140=NetName=NetC84_2|NetColor=$00CA9C00
-Net141=NetName=NetC85_2|NetColor=$00CA9C00
-Net142=NetName=NetC86_2|NetColor=$00CA9C00
-Net143=NetName=NetC87_2|NetColor=$00CA9C00
-Net144=NetName=NetC88_2|NetColor=$00CA9C00
-Net145=NetName=NetC89_2|NetColor=$00CA9C00
-Net146=NetName=NetC9_1|NetColor=$000099FF
-Net147=NetName=NetC90_2|NetColor=$00CA9C00
-Net148=NetName=NetC91_2|NetColor=$00CA9C00
-Net149=NetName=NetC92_2|NetColor=$00CA9C00
-Net150=NetName=NetC93_2|NetColor=$00CA9C00
-Net151=NetName=NetC94_2|NetColor=$00CA9C00
-Net152=NetName=NetC95_2|NetColor=$00CA9C00
-Net153=NetName=NetC96_2|NetColor=$00CA9C00
-Net154=NetName=NetC97_2|NetColor=$00CA9C00
-Net155=NetName=NetC98_2|NetColor=$00CA9C00
-Net156=NetName=NetC99_2|NetColor=$00CA9C00
-Net157=NetName=NetD1_1|NetColor=$00CA9C00
-Net158=NetName=NetD1_2|NetColor=$00CA9C00
-Net159=NetName=NetD1_3|NetColor=$00CA9C00
-Net160=NetName=NetD2_1|NetColor=$00CA9C00
-Net161=NetName=NetD2_2|NetColor=$00CA9C00
-Net162=NetName=NetD2_3|NetColor=$00CA9C00
-Net163=NetName=NetD3_1|NetColor=$00CA9C00
-Net164=NetName=NetD3_2|NetColor=$00CA9C00
-Net165=NetName=NetD3_3|NetColor=$00CA9C00
-Net166=NetName=NetQ1_3|NetColor=clBlue
-Net167=NetName=NetQ2_3|NetColor=clBlue
-Net168=NetName=NetQ4_1|NetColor=$00CA9C00
-Net169=NetName=NetR11_2|NetColor=$00CA9C00
-Net170=NetName=NetR12_2|NetColor=$00CA9C00
-Net171=NetName=NetR23_2|NetColor=$00CA9C00
-Net172=NetName=NetR47_1|NetColor=$0033CC33
-Net173=NetName=NetR48_1|NetColor=$0033CC33
-Net174=NetName=NetR49_1|NetColor=$0033CC33
-Net175=NetName=NetR50_1|NetColor=$0033CC33
-Net176=NetName=NetR51_1|NetColor=$0033CC33
-Net177=NetName=NetR52_1|NetColor=$0033CC33
-Net178=NetName=NetR53_1|NetColor=$0033CC33
-Net179=NetName=NetR54_1|NetColor=$0033CC33
-Net180=NetName=NetR55_1|NetColor=$0033CC33
-Net181=NetName=NetR56_1|NetColor=$0033CC33
-Net182=NetName=NetU?_5|NetColor=$0033CC33
-Net183=NetName=NetU?_6|NetColor=$0033CC33
-Net184=NetName=NetU10_5|NetColor=$00CA9C00
-Net185=NetName=NetU12_12|NetColor=$00CA9C00
-Net186=NetName=NetU12_13|NetColor=$00CA9C00
-Net187=NetName=NetU12_23|NetColor=$00CA9C00
-Net188=NetName=NetU12_24|NetColor=$00CA9C00
-Net189=NetName=NetU12_25|NetColor=$00CA9C00
-Net190=NetName=NetU13_12|NetColor=$0033CC33
-Net191=NetName=NetU13_13|NetColor=$0033CC33
-Net192=NetName=NetU13_14|NetColor=$0033CC33
-Net193=NetName=NetU13_15|NetColor=$0033CC33
-Net194=NetName=NetU13_6|NetColor=$0033CC33
-Net195=NetName=NetU13_7|NetColor=$0033CC33
-Net196=NetName=NetU13_8|NetColor=$0033CC33
-Net197=NetName=NetU13_9|NetColor=$0033CC33
-Net198=NetName=NetU14_10|NetColor=$0033CC33
-Net199=NetName=NetU14_11|NetColor=$0033CC33
-Net200=NetName=NetU14_13|NetColor=$0033CC33
-Net201=NetName=NetU14_14|NetColor=$0033CC33
-Net202=NetName=NetU14_2|NetColor=$0033CC33
-Net203=NetName=NetU14_3|NetColor=$0033CC33
-Net204=NetName=NetU14_5|NetColor=$0033CC33
-Net205=NetName=NetU14_6|NetColor=$0033CC33
-Net206=NetName=NetU16_3|NetColor=$0033CC33
-Net207=NetName=NetU16_4|NetColor=$0033CC33
-Net208=NetName=NetU19_3|NetColor=$00CA9C00
-Net209=NetName=NetU5_L14|NetColor=$0033CC33
-Net210=NetName=NetU5_M01|NetColor=$000099FF
-Net211=NetName=NetU5_M14|NetColor=$0033CC33
-Net212=NetName=NetU5_M15|NetColor=$0033CC33
-Net213=NetName=NetU5_N01|NetColor=$000099FF
-Net214=NetName=NetU5_N14|NetColor=$0033CC33
-Net215=NetName=NetU5_N15|NetColor=$0033CC33
-Net216=NetName=NetU5_P14|NetColor=$0033CC33
-Net217=NetName=NetU5_P15|NetColor=$0033CC33
-Net218=NetName=NetU5_R11|NetColor=$000033FF
-Net219=NetName=NetU5_R12|NetColor=clBlue
-Net220=NetName=NetU5_R13|NetColor=clBlue
-Net221=NetName=NetU5_R14|NetColor=$0033CC33
-Net222=NetName=NetU9_1|NetColor=$00B0B0B0
-Net223=NetName=NetU9_12|NetColor=$0033CC33
-Net224=NetName=NetU9_13|NetColor=$0033CC33
-Net225=NetName=NetU9_14|NetColor=$00CA9C00
-Net226=NetName=NetU9_15|NetColor=$00CA9C00
-Net227=NetName=NetU9_16|NetColor=$00CA9C00
-Net228=NetName=NetU9_17|NetColor=$00CA9C00
-Net229=NetName=NetU9_18|NetColor=$00CA9C00
-Net230=NetName=NetU9_19|NetColor=$0033CC33
-Net231=NetName=NetU9_2|NetColor=$0033CC33
-Net232=NetName=NetU9_20|NetColor=$0033CC33
-Net233=NetName=NetU9_21|NetColor=$0033CC33
-Net234=NetName=NetU9_22|NetColor=$0033CC33
-Net235=NetName=NetU9_23|NetColor=$00CA9C00
-Net236=NetName=NetU9_24|NetColor=$00CA9C00
-Net237=NetName=NetU9_25|NetColor=$00CA9C00
-Net238=NetName=NetU9_26|NetColor=$00CA9C00
-Net239=NetName=NetU9_27|NetColor=$00CA9C00
-Net240=NetName=NetU9_28|NetColor=$00B0B0B0
-Net241=NetName=NetU9_29|NetColor=$00B0B0B0
-Net242=NetName=NetU9_3|NetColor=$0033CC33
-Net243=NetName=NetU9_4|NetColor=$00B0B0B0
-Net244=NetName=NetU9_43|NetColor=$0033CC33
-Net245=NetName=NetU9_44|NetColor=$0033CC33
-Net246=NetName=NetU9_45|NetColor=$0033CC33
-Net247=NetName=NetU9_46|NetColor=$0033CC33
-Net248=NetName=NetU9_47|NetColor=$00CA9C00
-Net249=NetName=NetU9_48|NetColor=$00CA9C00
-Net250=NetName=NetU9_49|NetColor=$00CA9C00
-Net251=NetName=NetU9_5|NetColor=$00B0B0B0
-Net252=NetName=NetU9_50|NetColor=$00CA9C00
-Net253=NetName=NetU9_51|NetColor=$00B0B0B0
-Net254=NetName=NetU9_52|NetColor=$00B0B0B0
-Net255=NetName=NetU9_6|NetColor=$00B0B0B0
-Net256=NetName=NetU9_65|NetColor=$0033CC33
-Net257=NetName=NetU9_66|NetColor=$0033CC33
-Net258=NetName=NetU9_67|NetColor=$0033CC33
-Net259=NetName=NetU9_68|NetColor=$0033CC33
-Net260=NetName=NetU9_69|NetColor=$0033CC33
-Net261=NetName=NetU9_7|NetColor=$00B0B0B0
-Net262=NetName=NetU9_70|NetColor=$00B0B0B0
-Net263=NetName=NetU9_79|NetColor=$0033CC33
-Net264=NetName=NetU9_8|NetColor=$00B0B0B0
-Net265=NetName=NetU9_9|NetColor=$00B0B0B0
-Net266=NetName=PORT_A|NetColor=$00CA9C00
-Net267=NetName=PORT_A.PA0|NetColor=$00CA9C00
-Net268=NetName=PORT_A.PA1|NetColor=$00CA9C00
-Net269=NetName=PORT_A.PA2|NetColor=$00CA9C00
-Net270=NetName=PORT_A.PA3|NetColor=$00CA9C00
-Net271=NetName=PORT_A.PA4|NetColor=$00CA9C00
-Net272=NetName=PORT_A.PA5|NetColor=$00CA9C00
-Net273=NetName=PORT_A.PA6|NetColor=$00CA9C00
-Net274=NetName=PORT_A.PA7|NetColor=$00CA9C00
-Net275=NetName=PORT_C|NetColor=$00CA9C00
-Net276=NetName=PORT_C.PC0|NetColor=$00CA9C00
-Net277=NetName=PORT_C.PC1|NetColor=$00CA9C00
-Net278=NetName=PORT_C.PC2|NetColor=$00CA9C00
-Net279=NetName=PORT_C.PC3|NetColor=$00CA9C00
-Net280=NetName=PORT_C.PC4|NetColor=$00CA9C00
-Net281=NetName=PORT_C.PC5|NetColor=$00CA9C00
-Net282=NetName=PORT_C.PC6|NetColor=$00CA9C00
-Net283=NetName=PORT_C.PC7|NetColor=$00CA9C00
-Net284=NetName=PORT_F|NetColor=$00CA9C00
-Net285=NetName=PORT_F.PF0|NetColor=$00CA9C00
-Net286=NetName=PORT_F.PF1|NetColor=$00CA9C00
-Net287=NetName=PORT_F.PF2|NetColor=$00CA9C00
-Net288=NetName=PORT_F.PF3|NetColor=$00CA9C00
-Net289=NetName=PORT_F.PF4|NetColor=$00CA9C00
-Net290=NetName=PORT_F.PF5|NetColor=$00CA9C00
-Net291=NetName=PORT_F.PF6|NetColor=$00CA9C00
-Net292=NetName=PORT_F.PF7|NetColor=$00CA9C00
-Net293=NetName=PORT_K|NetColor=$00CA9C00
-Net294=NetName=PORT_K.PK0|NetColor=$00CA9C00
-Net295=NetName=PORT_K.PK1|NetColor=$00CA9C00
-Net296=NetName=PORT_K.PK2|NetColor=$00CA9C00
-Net297=NetName=PORT_K.PK3|NetColor=$00CA9C00
-Net298=NetName=PORT_K.PK4|NetColor=$00CA9C00
-Net299=NetName=PORT_K.PK5|NetColor=$00CA9C00
-Net300=NetName=PORT_K.PK6|NetColor=$00CA9C00
-Net301=NetName=PORT_K.PK7|NetColor=$00CA9C00
-Net302=NetName=PORT_L|NetColor=$00CA9C00
-Net303=NetName=PORT_L.PL0|NetColor=$00CA9C00
-Net304=NetName=PORT_L.PL1|NetColor=$00CA9C00
-Net305=NetName=PORT_L.PL2|NetColor=$00CA9C00
-Net306=NetName=PORT_L.PL3|NetColor=$00CA9C00
-Net307=NetName=PORT_L.PL4|NetColor=$00CA9C00
-Net308=NetName=PORT_L.PL5|NetColor=$00CA9C00
-Net309=NetName=PORT_L.PL6|NetColor=$00CA9C00
-Net310=NetName=PORT_L.PL7|NetColor=$00CA9C00
-Net311=NetName=SD_MISO|NetColor=$0033CC33
-Net312=NetName=SD_MOSI|NetColor=$0033CC33
-Net313=NetName=SD_SCK|NetColor=$0033CC33
-Net314=NetName=SD_SS|NetColor=$0033CC33
-Net315=NetName=SIGNAL_FOTA_BURN_EN|NetColor=$00CA9C00
-Net316=NetName=SIGNAL_FOTA_LED_01|NetColor=$00CA9C00
-Net317=NetName=SIGNAL_FOTA_LED_02|NetColor=$00CA9C00
-Net318=NetName=SIGNAL_FOTA_LED_03|NetColor=$00CA9C00
-Net319=NetName=SIGNAL_FOTA_POWER_DONE|NetColor=$00CA9C00
-Net320=NetName=SIGNAL_FOTA_POWER_DRV|NetColor=$00CA9C00
-Net321=NetName=SIGNAL_FOTA_POWER_EN|NetColor=$00CA9C00
-Net322=NetName=SIGNAL_IOT_3V3_ONOFF|NetColor=$00CA9C00
-Net323=NetName=SIGNAL_IOT_3V3_PMON|NetColor=$00CA9C00
-Net324=NetName=SIGNAL_IOT_3V3_SDOWN|NetColor=$00CA9C00
-Net325=NetName=SIGNAL_IOT_COM_EN|NetColor=$00CA9C00
-Net326=NetName=SIGNAL_IOT_LED_EN|NetColor=$00CA9C00
-Net327=NetName=SIGNAL_IOT_POWER_EN|NetColor=$00CA9C00
-Net328=NetName=SIGNAL_MCU_LED_01|NetColor=$00CA9C00
-Net329=NetName=SIGNAL_MCU_LED_02|NetColor=$00CA9C00
-Net330=NetName=SIGNAL_MCU_LED_03|NetColor=$00CA9C00
-Net331=NetName=SIGNAL_MCU_POWER_EN|NetColor=clBlue
-Net332=NetName=SIGNAL_POWER_DONE|NetColor=$00CA9C00
-Net333=NetName=SIGNAL_PWM_BUZZER|NetColor=$00CA9C00
-Net334=NetName=SIGNAL_RTC_INTERUPT|NetColor=$00CA9C00
-Net335=NetName=SIGNAL_SD_MUX_DIRECTION|NetColor=$00CA9C00
-Net336=NetName=SIM_CLK|NetColor=$0033CC33
-Net337=NetName=SIM_IO|NetColor=$0033CC33
-Net338=NetName=SIM_RST|NetColor=$0033CC33
-Net339=NetName=SIM_SIGNAL|NetColor=$0033CC33
-Net340=NetName=SIM_SIGNAL.SIM_CLK|NetColor=$0033CC33
-Net341=NetName=SIM_SIGNAL.SIM_IO|NetColor=$0033CC33
-Net342=NetName=SIM_SIGNAL.SIM_RST|NetColor=$0033CC33
-Net343=NetName=UART0|NetColor=$0033CC33
-Net344=NetName=UART0.RXD0|NetColor=$0033CC33
-Net345=NetName=UART0.TXD0|NetColor=$0033CC33
-Net346=NetName=UART1|NetColor=$0033CC33
-Net347=NetName=UART1.RXD1|NetColor=$0033CC33
-Net348=NetName=UART1.TXD1|NetColor=$0033CC33
-Net349=NetName=UART2|NetColor=$0033CC33
-Net350=NetName=UART2.RXD2|NetColor=$0033CC33
-Net351=NetName=UART2.TXD2|NetColor=$0033CC33
-Net352=NetName=VCC|NetColor=$000099FF
-Net353=NetName=VFOTA|NetColor=$000099FF
-Net354=NetName=VIOT|NetColor=$000099FF
-Net355=NetName=VIOT1|NetColor=$000099FF
-Net356=NetName=VIOT2|NetColor=$000099FF
-Net357=NetName=VMCU|NetColor=$000099FF
-Net358=NetName=VRTC|NetColor=$000099FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
