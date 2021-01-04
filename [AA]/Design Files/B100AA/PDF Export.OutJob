@@ -58,12 +58,52 @@ OutputEnabled2_OutputMedium2=2
 OutputEnabled2_OutputMedium3=0
 OutputEnabled2_OutputMedium4=0
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration2_Name1=ColumnNameFormat
+Configuration2_Item1=CaptionAsName
+Configuration2_Name2=General
+Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=6|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration2_Name3=GroupOrder
+Configuration2_Item3=Designator=True
+Configuration2_Name4=SortOrder
+Configuration2_Item4=Designator=Down
+Configuration2_Name5=VisibleOrder
+Configuration2_Item5=Description=120|Designator=120|Quantity=120|Case=100|Mouser_Part_Number=100|Tolerance=100|Value=100|Manufacturer Part Number=100|Manufacturer_Part_Number=100
+Configuration2_Name6=VisibleOrder_Flat
+Configuration2_Item6=Description=120|Designator=120|Quantity=120|Case=100|Mouser_Part_Number=100|Tolerance=100|Value=100|Manufacturer Part Number=100|Manufacturer_Part_Number=100
+OutputType3=BOM_PartType
+OutputName3=Copy of Bill of Materials
+OutputCategory3=Report
+OutputDocumentPath3=[ActiveBOM Document]
+OutputVariantName3=
+OutputEnabled3=0
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=0
+OutputEnabled3_OutputMedium3=0
+OutputEnabled3_OutputMedium4=0
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration3_Name1=ColumnNameFormat
+Configuration3_Item1=CaptionAsName
+Configuration3_Name2=General
+Configuration3_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1200|FormHeight=710|SupplierProdQty=100|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration3_Name3=GroupOrder
+Configuration3_Item3=
+Configuration3_Name4=SortOrder
+Configuration3_Item4=Supplier Unit Price 1=Up
+Configuration3_Name5=VisibleOrder
+Configuration3_Item5=Line #=54|Comment=54|Description=81|Designator=79|Quantity=67|Manufacturer 1=146|Manufacturer Part Number 1=165|Manufacturer Lifecycle 1=147|Supplier 1=123|Supplier Part Number 1=143|Supplier Unit Price 1=127|Supplier Subtotal 1=120|Quantity@Prototype=103|Price@Prototype=109|Quantity@Bulk Production=133|Price@Bulk Production=140
+Configuration3_Name6=VisibleOrder_Base
+Configuration3_Item6=Line #=54|Comment=54|Description=81|Designator=79|Quantity=67|Manufacturer 1=146|Manufacturer Part Number 1=165|Manufacturer Lifecycle 1=147|Supplier 1=123|Supplier Part Number 1=143|Supplier Unit Price 1=127|Supplier Subtotal 1=120|Quantity@Prototype=103|Price@Prototype=109|Quantity@Bulk Production=133|Price@Bulk Production=140
+Configuration3_Name7=VisibleOrder_Consolidated
+Configuration3_Item7=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=146|Manufacturer Part Number 1=165|Manufacturer Lifecycle 1=147|Supplier 1=123|Supplier Part Number 1=143|Supplier Unit Price 1=127|Supplier Subtotal 1=120|Quantity@Prototype=100|Price@Prototype=100|Quantity@Bulk Production=100|Price@Bulk Production=100
+Configuration3_Name8=VisibleOrder_Flat
+Configuration3_Item8=Line #=100|Comment=100|Description=100|Designator=100|Manufacturer 1=146|Manufacturer Part Number 1=165|Manufacturer Lifecycle 1=147|Supplier 1=123|Supplier Part Number 1=143|Supplier Unit Price 1=127|Supplier Subtotal 1=120
 
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\PDF\PDF Export.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Free Documents
+OutputBasePath2=Project Outputs for B100
 OutputPathMedia2=[Media Name]
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -90,7 +130,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=
+OutputBasePath3=Project Outputs for B100
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -103,7 +143,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for B100
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
