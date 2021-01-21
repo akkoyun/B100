@@ -55,23 +55,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PNDWDZAH
 
 [Document2]
-DocumentPath=Schematics\Buck Boost Converter.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HDLVNMUN
-
-[Document3]
 DocumentPath=BOM List.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document3]
 DocumentPath=Schematics\GSM Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPZHBRJO
 
-[Document5]
+[Document4]
 DocumentPath=Schematics\3V3 LDO Regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAJXMSUG
 
-[Document6]
+[Document5]
 DocumentPath=Schematics\Main Power Switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IJVSJTHL
 
-[Document7]
+[Document6]
 DocumentPath=Schematics\GSM IoT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWNSUNHV
 
-[Document8]
+[Document7]
 DocumentPath=Schematics\GE910QUAD Modem.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWLAOAMK
 
-[Document9]
+[Document8]
 DocumentPath=Schematics\GE910QUAD Modem.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=Schematics\B100 Block Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFFMGMAY
 
-[Document11]
+[Document10]
 DocumentPath=Schematics\GSM Signal Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LHHYKMAR
 
-[Document12]
+[Document11]
 DocumentPath=Schematics\Bidirectional Voltage Translator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDACCZGK
 
-[Document13]
+[Document12]
 DocumentPath=Schematics\GSM LED Indicators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SHJECLOT
 
-[Document14]
+[Document13]
 DocumentPath=Schematics\Master MicroController.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWCRJWQJ
 
-[Document15]
+[Document14]
 DocumentPath=Schematics\Master MicroController LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DQUBBBMG
 
-[Document16]
+[Document15]
 DocumentPath=Schematics\MicroController.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZSXUCQWH
 
-[Document17]
+[Document16]
 DocumentPath=Schematics\MicroController Module Output Ports.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=Schematics\Module Output Sockets.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYDIUNMA
 
-[Document19]
+[Document18]
 DocumentPath=Schematics\FOTA MicroController Power Switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INSLSUQO
 
-[Document20]
+[Document19]
 DocumentPath=Schematics\FOTA MicroController.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UJGQWKGV
 
-[Document21]
+[Document20]
 DocumentPath=Schematics\FOTA MicroController.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=Schematics\SD Card.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHKRGYZS
 
-[Document23]
+[Document22]
 DocumentPath=Schematics\ICSP Burn Buffer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLKRNDBB
 
-[Document24]
+[Document23]
 DocumentPath=Schematics\ICSP Burn Buffer.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=Schematics\SD Card.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document25]
 DocumentPath=Schematics\Serial ID EEPROM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=Schematics\EEPROM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=Schematics\Buzzer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UFXGICOH
 
-[Document29]
+[Document28]
 DocumentPath=Schematics\GSM IoT.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=Schematics\I2C Network.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBXRGYST
 
-[Document31]
+[Document30]
 DocumentPath=Schematics\Master MicroController Core.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVWGUDTC
 
-[Document32]
+[Document31]
 DocumentPath=Schematics\Master MicroController Port A.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CBNIQKMK
 
-[Document33]
+[Document32]
 DocumentPath=Schematics\Master MicroController Port B.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GTGTOSLJ
 
-[Document34]
+[Document33]
 DocumentPath=Schematics\Master MicroController Port C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VAHQSZNB
 
-[Document35]
+[Document34]
 DocumentPath=Schematics\Master MicroController Port D.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOPBEJZE
 
-[Document36]
+[Document35]
 DocumentPath=Schematics\Master MicroController Port E.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLEHMNBX
 
-[Document37]
+[Document36]
 DocumentPath=Schematics\Master MicroController Port F.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVKBGRUV
 
-[Document38]
+[Document37]
 DocumentPath=Schematics\Master MicroController Port G.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJNAWJPJ
 
-[Document39]
+[Document38]
 DocumentPath=Schematics\Master MicroController Port H.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSGXRAIT
 
-[Document40]
+[Document39]
 DocumentPath=Schematics\Master MicroController Port J.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCHKIXQF
 
-[Document41]
+[Document40]
 DocumentPath=Schematics\Master MicroController Port K.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDYMHFSZ
 
-[Document42]
+[Document41]
 DocumentPath=Schematics\Master MicroController Port L.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QYVGNALN
 
-[Document43]
+[Document42]
 DocumentPath=Schematics\Master MicroController Port J.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=Schematics\Master MicroController Serial Communication Port.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LHKALNER
 
-[Document45]
+[Document44]
 DocumentPath=Schematics\Master MicroController Serial Communication Port.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document45]
 DocumentPath=Schematics\Master MicroController Port A.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document46]
 DocumentPath=Schematics\Master MicroController Port C.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document47]
 DocumentPath=Schematics\Master MicroController Port F.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document48]
 DocumentPath=Schematics\Master MicroController Port K.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -870,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document49]
 DocumentPath=Schematics\Master MicroController Port L.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -887,7 +870,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document50]
 DocumentPath=Schematics\Master MicroController Core.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -904,7 +887,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document51]
 DocumentPath=Schematics\Master MicroController Port H.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -921,7 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document52]
 DocumentPath=PDF Export.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -938,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document53]
 DocumentPath=Schematics\I2C Multiplexer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -955,7 +938,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFQMZPHF
 
-[Document55]
+[Document54]
 DocumentPath=Schematics\I2C Multiplexer.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -972,7 +955,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document55]
 DocumentPath=Schematics\Real Time Clock.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -989,7 +972,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSOXRQXS
 
-[Document57]
+[Document56]
 DocumentPath=Schematics\Serial ID EEPROM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1006,7 +989,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKEUYMWA
 
-[Document58]
+[Document57]
 DocumentPath=Schematics\EEPROM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1023,7 +1006,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JILZEKUJ
 
-[Document59]
+[Document58]
 DocumentPath=Schematics\Analog Digital Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1040,7 +1023,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCSMWQYF
 
-[Document60]
+[Document59]
 DocumentPath=Schematics\Real Time Clock.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1057,7 +1040,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document60]
 DocumentPath=Schematics\Analog Digital Converter.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,7 +1057,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document61]
 DocumentPath=Schematics\Bidirectional Voltage Translator.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1091,7 +1074,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document62]
 DocumentPath=Schematics\Filter Capacitors - Port K.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1108,7 +1091,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADFDCMHL
 
-[Document64]
+[Document63]
 DocumentPath=Schematics\Filter Capacitors - Port K.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1125,7 +1108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document65]
+[Document64]
 DocumentPath=Schematics\Filter Capacitors - Master ICSP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1142,7 +1125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BGMCPXZM
 
-[Document66]
+[Document65]
 DocumentPath=Schematics\Filter Capacitors - Master ICSP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1159,7 +1142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document67]
+[Document66]
 DocumentPath=Schematics\Filter Capacitors - Port C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1176,7 +1159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CABOBYWI
 
-[Document68]
+[Document67]
 DocumentPath=Schematics\Filter Capacitors - Port C.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1193,7 +1176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document69]
+[Document68]
 DocumentPath=Schematics\Filter Capacitors - Port L.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1210,7 +1193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCIMMUDA
 
-[Document70]
+[Document69]
 DocumentPath=Schematics\Filter Capacitors - Port L.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1227,7 +1210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document71]
+[Document70]
 DocumentPath=Schematics\Filter Capacitors - FOTA ICSP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1244,7 +1227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNJAVMVJ
 
-[Document72]
+[Document71]
 DocumentPath=Schematics\Filter Capacitors - FOTA ICSP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1261,7 +1244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document73]
+[Document72]
 DocumentPath=Schematics\Filter Capacitors - External SIM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1278,7 +1261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQWGNATE
 
-[Document74]
+[Document73]
 DocumentPath=Schematics\Filter Capacitors - External SIM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1295,7 +1278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document75]
+[Document74]
 DocumentPath=Schematics\Filter Capacitors - Signal IoT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1312,7 +1295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KNQXBJWN
 
-[Document76]
+[Document75]
 DocumentPath=Schematics\Filter Capacitors - Signal IoT.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1329,7 +1312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document77]
+[Document76]
 DocumentPath=Schematics\Filter Capacitors - Port A.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1346,7 +1329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMCPUJKR
 
-[Document78]
+[Document77]
 DocumentPath=Schematics\Filter Capacitors - Port A.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1363,7 +1346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document79]
+[Document78]
 DocumentPath=Schematics\Filter Capacitors - FOTA Digital ICSP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1380,7 +1363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PRKSDUOO
 
-[Document80]
+[Document79]
 DocumentPath=Schematics\Filter Capacitors - FOTA Digital ICSP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1397,7 +1380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document81]
+[Document80]
 DocumentPath=Schematics\Filter Capacitors - IoT UART.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1414,7 +1397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TOOHLTAJ
 
-[Document82]
+[Document81]
 DocumentPath=Schematics\Filter Capacitors - IoT UART.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1431,7 +1414,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document83]
+[Document82]
 DocumentPath=Schematics\Filter Capacitors - Port F.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1448,7 +1431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOIPLQMV
 
-[Document84]
+[Document83]
 DocumentPath=Schematics\Filter Capacitors - Port F.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1465,7 +1448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document85]
+[Document84]
 DocumentPath=Schematics\Filter Capacitors - Serial Communication.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1482,7 +1465,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNKUGBMI
 
-[Document86]
+[Document85]
 DocumentPath=Schematics\Filter Capacitors - Serial Communication.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1499,7 +1482,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document87]
+[Document86]
 DocumentPath=Schematics\Filter Capacitors - ADC Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1516,7 +1499,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HCSWPDXR
 
-[Document88]
+[Document87]
 DocumentPath=Schematics\Filter Capacitors - ADC Sensor.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1533,7 +1516,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document89]
+[Document88]
 DocumentPath=Schematics\Filter Capacitors - I2C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1550,7 +1533,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FMMXMOBD
 
-[Document90]
+[Document89]
 DocumentPath=Schematics\Filter Capacitors - I2C.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1566,6 +1549,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document90]
+DocumentPath=Schematics\3V8 Buck Boost Converter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=69
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YJBVQTUO
+
+[Document91]
+DocumentPath=Schematics\5V Buck Boost Converter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=70
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QIJYMJOL
 
 [ProjectVariant1]
 UniqueID=2162BB0E-A0D1-4638-B684-3CD484C72361
@@ -1672,48 +1689,48 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=Revision_
-Value=B100AA
+Name=Address1_
+Value=Necip Fazýl Mah. Ortaýrmak Sok.
 
 [Parameter2]
-Name=Organization_
-Value=Ovoo Electronics
+Name=Address2_
+Value=Birgül Apt. No: 19/6
 
 [Parameter3]
-Name=link
-Value=http://www.ovoo.me
+Name=Address3_
+Value=Meram / Konya
 
 [Parameter4]
-Name=Engineer_
-Value=Mehmet Günce Akkoyun
+Name=Address4_
+Value=Turkiye
 
 [Parameter5]
-Name=DocumentNumber_Prototype_
-Value=AA003_Prototype
+Name=DocumentNumber_
+Value=AA003
 
 [Parameter6]
 Name=DocumentNumber_Bulk_
 Value=AA003_Bulk
 
 [Parameter7]
-Name=DocumentNumber_
-Value=AA003
+Name=DocumentNumber_Prototype_
+Value=AA003_Prototype
 
 [Parameter8]
-Name=Address4_
-Value=Turkiye
+Name=Engineer_
+Value=Mehmet Günce Akkoyun
 
 [Parameter9]
-Name=Address3_
-Value=Meram / Konya
+Name=link
+Value=http://www.ovoo.me
 
 [Parameter10]
-Name=Address2_
-Value=Birgül Apt. No: 19/6
+Name=Organization_
+Value=Ovoo Electronics
 
 [Parameter11]
-Name=Address1_
-Value=Necip Fazýl Mah. Ortaýrmak Sok.
+Name=Revision_
+Value=B100AA
 
 [Configuration1]
 Name=Sources
@@ -2329,6 +2346,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -2697,292 +2744,40 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Ovoo_Library.IntLib
-ComponentDesignItemID0=Buzzer - PKMCS0909E4000-R1
-ComponentSymbolReference0=Buzzer - PKMCS0909E4000-R1
+ComponentDesignItemID0=Diode - RGB LED (150066M153000)
+ComponentSymbolReference0=Diode - RGB LED (150066M153000)
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Ovoo_Library.IntLib
-ComponentDesignItemID1=Connector - Male Header 2x30P (1.27)
-ComponentSymbolReference1=Connector - Male Header 2x30P (1.27)
+ComponentLibraryIdentifier1=Ovoo_Schematic.SchLib
+ComponentDesignItemID1=Capacitor - 33pF [0402-6V3]
+ComponentSymbolReference1=Capacitor - 33pF [0402-6V3]
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Ovoo_Library.IntLib
-ComponentDesignItemID2=Diode - RGB LED (150066M153000)
-ComponentSymbolReference2=Diode - RGB LED (150066M153000)
+ComponentLibraryIdentifier2=Ovoo_Schematic.SchLib
+ComponentDesignItemID2=Resistor - 330R
+ComponentSymbolReference2=Resistor - 330R
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Ovoo_Library.IntLib
-ComponentDesignItemID3=IC - 24LC128
-ComponentSymbolReference3=IC - 24LC128
+ComponentLibraryIdentifier3=Ovoo_Schematic.SchLib
+ComponentDesignItemID3=Resistor - 47K
+ComponentSymbolReference3=Resistor - 47K
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=Ovoo_Library.IntLib
-ComponentDesignItemID4=IC - ATMEGA2560V-8AU
-ComponentSymbolReference4=IC - ATMEGA2560V-8AU
+ComponentLibraryIdentifier4=Ovoo_Schematic.SchLib
+ComponentDesignItemID4=Transistor - BC847
+ComponentSymbolReference4=Transistor - BC847
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=Ovoo_Library.IntLib
-ComponentDesignItemID5=IC - DS28CM00R-A00+T
-ComponentSymbolReference5=IC - DS28CM00R-A00+T
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=Ovoo_Library.IntLib
-ComponentDesignItemID6=IC - PAM8904EGPR
-ComponentSymbolReference6=IC - PAM8904EGPR
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=Ovoo_Library.IntLib
-ComponentDesignItemID7=IC - TLV75533PDBVR
-ComponentSymbolReference7=IC - TLV75533PDBVR
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=Ovoo_Library.IntLib
-ComponentDesignItemID8=IC - TXS0101DBV
-ComponentSymbolReference8=IC - TXS0101DBV
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=Ovoo_Library.IntLib
-ComponentDesignItemID9=IC - TXS0108EPW
-ComponentSymbolReference9=IC - TXS0108EPW
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=Ovoo_Library.IntLib
-ComponentDesignItemID10=PCB - Test Point
-ComponentSymbolReference10=PCB - Test Point
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=Ovoo_Library.IntLib
-ComponentDesignItemID11=Resistor - 806K
-ComponentSymbolReference11=Resistor - 806K
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=Ovoo_Schematic.SchLib
-ComponentDesignItemID12=Capacitor - 100nF [0402-6V3]
-ComponentSymbolReference12=Capacitor - 100nF [0402-6V3]
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=Ovoo_Schematic.SchLib
-ComponentDesignItemID13=Capacitor - 10uF [0603-6V3] (Tantalium)
-ComponentSymbolReference13=Capacitor - 10uF [0603-6V3] (Tantalium)
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=Ovoo_Schematic.SchLib
-ComponentDesignItemID14=Capacitor - 13pF [0402-50V)
-ComponentSymbolReference14=Capacitor - 13pF [0402-50V)
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=Ovoo_Schematic.SchLib
-ComponentDesignItemID15=Capacitor - 1nF [0402-6V3)
-ComponentSymbolReference15=Capacitor - 1nF [0402-6V3)
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=Ovoo_Schematic.SchLib
-ComponentDesignItemID16=Capacitor - 1uF [0402-6V3)
-ComponentSymbolReference16=Capacitor - 1uF [0402-6V3)
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=Ovoo_Schematic.SchLib
-ComponentDesignItemID17=Capacitor - 33pF [0402-6V3]
-ComponentSymbolReference17=Capacitor - 33pF [0402-6V3]
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=Ovoo_Schematic.SchLib
-ComponentDesignItemID18=Capacitor - 39uF [Can-16V]
-ComponentSymbolReference18=Capacitor - 39uF [Can-16V]
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=Ovoo_Schematic.SchLib
-ComponentDesignItemID19=Capacitor - 470nF [0402-6V3]
-ComponentSymbolReference19=Capacitor - 470nF [0402-6V3]
-ComponentUpdate19=1
-ComponentIsDeviceSheet19=0
-ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=Ovoo_Schematic.SchLib
-ComponentDesignItemID20=Capacitor - 47u [0603-6V3] (Tantalium)
-ComponentSymbolReference20=Capacitor - 47u [0603-6V3] (Tantalium)
-ComponentUpdate20=1
-ComponentIsDeviceSheet20=0
-ComponentLibIdentifierKind21=Library Name And Type
-ComponentLibraryIdentifier21=Ovoo_Schematic.SchLib
-ComponentDesignItemID21=Connector - MHF
-ComponentSymbolReference21=Connector - MHF
-ComponentUpdate21=1
-ComponentIsDeviceSheet21=0
-ComponentLibIdentifierKind22=Library Name And Type
-ComponentLibraryIdentifier22=Ovoo_Schematic.SchLib
-ComponentDesignItemID22=Connector - SD Slot
-ComponentSymbolReference22=Connector - SD Slot
-ComponentUpdate22=1
-ComponentIsDeviceSheet22=0
-ComponentLibIdentifierKind23=Library Name And Type
-ComponentLibraryIdentifier23=Ovoo_Schematic.SchLib
-ComponentDesignItemID23=Crystal - 7.3728 MHz (Abracon)
-ComponentSymbolReference23=Crystal - 7.3728 MHz (Abracon)
-ComponentUpdate23=1
-ComponentIsDeviceSheet23=0
-ComponentLibIdentifierKind24=Library Name And Type
-ComponentLibraryIdentifier24=Ovoo_Schematic.SchLib
-ComponentDesignItemID24=Diode - LED (0402-Blue)
-ComponentSymbolReference24=Diode - LED (0402-Blue)
-ComponentUpdate24=1
-ComponentIsDeviceSheet24=0
-ComponentLibIdentifierKind25=Library Name And Type
-ComponentLibraryIdentifier25=Ovoo_Schematic.SchLib
-ComponentDesignItemID25=Ferrite Bead - 2A [0603]
-ComponentSymbolReference25=Ferrite Bead - 2A [0603]
-ComponentUpdate25=1
-ComponentIsDeviceSheet25=0
-ComponentLibIdentifierKind26=Library Name And Type
-ComponentLibraryIdentifier26=Ovoo_Schematic.SchLib
-ComponentDesignItemID26=IC - ATMEGA328P
-ComponentSymbolReference26=IC - ATMEGA328P
-ComponentUpdate26=1
-ComponentIsDeviceSheet26=0
-ComponentLibIdentifierKind27=Library Name And Type
-ComponentLibraryIdentifier27=Ovoo_Schematic.SchLib
-ComponentDesignItemID27=IC - MCP3422
-ComponentSymbolReference27=IC - MCP3422
-ComponentUpdate27=1
-ComponentIsDeviceSheet27=0
-ComponentLibIdentifierKind28=Library Name And Type
-ComponentLibraryIdentifier28=Ovoo_Schematic.SchLib
-ComponentDesignItemID28=IC - MFF2
-ComponentSymbolReference28=IC - MFF2
-ComponentUpdate28=1
-ComponentIsDeviceSheet28=0
-ComponentLibIdentifierKind29=Library Name And Type
-ComponentLibraryIdentifier29=Ovoo_Schematic.SchLib
-ComponentDesignItemID29=IC - RV-3028-C7
-ComponentSymbolReference29=IC - RV-3028-C7
-ComponentUpdate29=1
-ComponentIsDeviceSheet29=0
-ComponentLibIdentifierKind30=Library Name And Type
-ComponentLibraryIdentifier30=Ovoo_Schematic.SchLib
-ComponentDesignItemID30=IC - SN3257QPWRQ1
-ComponentSymbolReference30=IC - SN3257QPWRQ1
-ComponentUpdate30=1
-ComponentIsDeviceSheet30=0
-ComponentLibIdentifierKind31=Library Name And Type
-ComponentLibraryIdentifier31=Ovoo_Schematic.SchLib
-ComponentDesignItemID31=IC - TCA9546APWR
-ComponentSymbolReference31=IC - TCA9546APWR
-ComponentUpdate31=1
-ComponentIsDeviceSheet31=0
-ComponentLibIdentifierKind32=Library Name And Type
-ComponentLibraryIdentifier32=Ovoo_Schematic.SchLib
-ComponentDesignItemID32=IC - Telit GE910QUAD
-ComponentSymbolReference32=IC - Telit GE910QUAD
-ComponentUpdate32=1
-ComponentIsDeviceSheet32=0
-ComponentLibIdentifierKind33=Library Name And Type
-ComponentLibraryIdentifier33=Ovoo_Schematic.SchLib
-ComponentDesignItemID33=IC - TPL5111
-ComponentSymbolReference33=IC - TPL5111
-ComponentUpdate33=1
-ComponentIsDeviceSheet33=0
-ComponentLibIdentifierKind34=Library Name And Type
-ComponentLibraryIdentifier34=Ovoo_Schematic.SchLib
-ComponentDesignItemID34=IC - TPS22917DBVR
-ComponentSymbolReference34=IC - TPS22917DBVR
-ComponentUpdate34=1
-ComponentIsDeviceSheet34=0
-ComponentLibIdentifierKind35=Library Name And Type
-ComponentLibraryIdentifier35=Ovoo_Schematic.SchLib
-ComponentDesignItemID35=IC - TPS63802DLAT
-ComponentSymbolReference35=IC - TPS63802DLAT
-ComponentUpdate35=1
-ComponentIsDeviceSheet35=0
-ComponentLibIdentifierKind36=Library Name And Type
-ComponentLibraryIdentifier36=Ovoo_Schematic.SchLib
-ComponentDesignItemID36=Inductor - 1nH [0402]
-ComponentSymbolReference36=Inductor - 1nH [0402]
-ComponentUpdate36=1
-ComponentIsDeviceSheet36=0
-ComponentLibIdentifierKind37=Library Name And Type
-ComponentLibraryIdentifier37=Ovoo_Schematic.SchLib
-ComponentDesignItemID37=Inductor - 470 nH [SMD]
-ComponentSymbolReference37=Inductor - 470 nH [SMD]
-ComponentUpdate37=1
-ComponentIsDeviceSheet37=0
-ComponentLibIdentifierKind38=Library Name And Type
-ComponentLibraryIdentifier38=Ovoo_Schematic.SchLib
-ComponentDesignItemID38=Resistor - 0R
-ComponentSymbolReference38=Resistor - 0R
-ComponentUpdate38=1
-ComponentIsDeviceSheet38=0
-ComponentLibIdentifierKind39=Library Name And Type
-ComponentLibraryIdentifier39=Ovoo_Schematic.SchLib
-ComponentDesignItemID39=Resistor - 100K
-ComponentSymbolReference39=Resistor - 100K
-ComponentUpdate39=1
-ComponentIsDeviceSheet39=0
-ComponentLibIdentifierKind40=Library Name And Type
-ComponentLibraryIdentifier40=Ovoo_Schematic.SchLib
-ComponentDesignItemID40=Resistor - 10K
-ComponentSymbolReference40=Resistor - 10K
-ComponentUpdate40=1
-ComponentIsDeviceSheet40=0
-ComponentLibIdentifierKind41=Library Name And Type
-ComponentLibraryIdentifier41=Ovoo_Schematic.SchLib
-ComponentDesignItemID41=Resistor - 249K
-ComponentSymbolReference41=Resistor - 249K
-ComponentUpdate41=1
-ComponentIsDeviceSheet41=0
-ComponentLibIdentifierKind42=Library Name And Type
-ComponentLibraryIdentifier42=Ovoo_Schematic.SchLib
-ComponentDesignItemID42=Resistor - 330R
-ComponentSymbolReference42=Resistor - 330R
-ComponentUpdate42=1
-ComponentIsDeviceSheet42=0
-ComponentLibIdentifierKind43=Library Name And Type
-ComponentLibraryIdentifier43=Ovoo_Schematic.SchLib
-ComponentDesignItemID43=Resistor - 47K
-ComponentSymbolReference43=Resistor - 47K
-ComponentUpdate43=1
-ComponentIsDeviceSheet43=0
-ComponentLibIdentifierKind44=Library Name And Type
-ComponentLibraryIdentifier44=Ovoo_Schematic.SchLib
-ComponentDesignItemID44=Resistor - 604K
-ComponentSymbolReference44=Resistor - 604K
-ComponentUpdate44=1
-ComponentIsDeviceSheet44=0
-ComponentLibIdentifierKind45=Library Name And Type
-ComponentLibraryIdentifier45=Ovoo_Schematic.SchLib
-ComponentDesignItemID45=Resistor - 91K
-ComponentSymbolReference45=Resistor - 91K
-ComponentUpdate45=1
-ComponentIsDeviceSheet45=0
-ComponentLibIdentifierKind46=Library Name And Type
-ComponentLibraryIdentifier46=Ovoo_Schematic.SchLib
-ComponentDesignItemID46=Transistor - BC847
-ComponentSymbolReference46=Transistor - BC847
-ComponentUpdate46=1
-ComponentIsDeviceSheet46=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -2996,244 +2791,104 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Card Type
+ParameterName0=Case
 ParameterUpdate0=1
-ParameterName1=Case
+ParameterName1=Comment
 ParameterUpdate1=1
-ParameterName2=Color
+ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=Comment
+ParameterName3=ComponentLink1Description
 ParameterUpdate3=1
-ParameterName4=Component Kind
+ParameterName4=ComponentLink1URL
 ParameterUpdate4=1
-ParameterName5=ComponentLink1Description
+ParameterName5=ComponentLink2Description
 ParameterUpdate5=1
-ParameterName6=ComponentLink1URL
+ParameterName6=ComponentLink2URL
 ParameterUpdate6=1
-ParameterName7=ComponentLink2Description
+ParameterName7=Datasheet Link
 ParameterUpdate7=1
-ParameterName8=ComponentLink2URL
+ParameterName8=Description
 ParameterUpdate8=1
-ParameterName9=ComponentLink3Description
+ParameterName9=Dielectric
 ParameterUpdate9=1
-ParameterName10=ComponentLink3URL
+ParameterName10=Height
 ParameterUpdate10=1
-ParameterName11=Datasheet Link
+ParameterName11=Library Reference
 ParameterUpdate11=1
-ParameterName12=Description
+ParameterName12=Manufacturer Name
 ParameterUpdate12=1
-ParameterName13=Device_Type
+ParameterName13=Manufacturer Part Number
 ParameterUpdate13=1
-ParameterName14=Dielectric
+ParameterName14=Manufacturer_Name
 ParameterUpdate14=1
-ParameterName15=Dropout Voltage - Max
+ParameterName15=Manufacturer_Part_Number
 ParameterUpdate15=1
-ParameterName16=ESR
+ParameterName16=Maximum Operating Temperature
 ParameterUpdate16=1
-ParameterName17=Frequency
+ParameterName17=Minimum Operating Temperature
 ParameterUpdate17=1
-ParameterName18=Frequency Stability
+ParameterName18=Mouser Part Number
 ParameterUpdate18=1
-ParameterName19=Height
+ParameterName19=Mouser Price/Stock
 ParameterUpdate19=1
-ParameterName20=Impedance
+ParameterName20=Mouser_Part_Number
 ParameterUpdate20=1
-ParameterName21=Leakage Current
+ParameterName21=Polarity
 ParameterUpdate21=1
-ParameterName22=Library Reference
+ParameterName22=ROHS
 ParameterUpdate22=1
-ParameterName23=Manufacturer _Part_Number
+ParameterName23=Supplier 1
 ParameterUpdate23=1
-ParameterName24=Manufacturer Name
+ParameterName24=Supplier 2
 ParameterUpdate24=1
-ParameterName25=Manufacturer Part Number
+ParameterName25=Supplier 3
 ParameterUpdate25=1
-ParameterName26=Manufacturer_Name
+ParameterName26=Supplier 4
 ParameterUpdate26=1
-ParameterName27=Manufacturer_Part_Number
+ParameterName27=Supplier 5
 ParameterUpdate27=1
-ParameterName28=Maximum DC Current
+ParameterName28=Supplier 6
 ParameterUpdate28=1
-ParameterName29=Maximum DC Resistance
+ParameterName29=Supplier 7
 ParameterUpdate29=1
-ParameterName30=Maximum Operating Temperature
+ParameterName30=Supplier 8
 ParameterUpdate30=1
-ParameterName31=Minimum Operating Temperature
+ParameterName31=Supplier Part Number 1
 ParameterUpdate31=1
-ParameterName32=Mouser Part Number
+ParameterName32=Supplier Part Number 2
 ParameterUpdate32=1
-ParameterName33=Mouser Price/Stock
+ParameterName33=Supplier Part Number 3
 ParameterUpdate33=1
-ParameterName34=Mouser_Part_Number
+ParameterName34=Supplier Part Number 4
 ParameterUpdate34=1
-ParameterName35=Mouser_Price/Stock
+ParameterName35=Supplier Part Number 5
 ParameterUpdate35=1
-ParameterName36=Operating Supply Voltage
+ParameterName36=Supplier Part Number 6
 ParameterUpdate36=1
-ParameterName37=Output Current
+ParameterName37=Supplier Part Number 7
 ParameterUpdate37=1
-ParameterName38=Output Voltage
+ParameterName38=Supplier Part Number 8
 ParameterUpdate38=1
-ParameterName39=Pitch
+ParameterName39=Tolerance
 ParameterUpdate39=1
-ParameterName40=Polarity
+ParameterName40=Value
 ParameterUpdate40=1
-ParameterName41=Position
+ParameterName41=Voltage
 ParameterUpdate41=1
-ParameterName42=ROHS
-ParameterUpdate42=1
-ParameterName43=Row
-ParameterUpdate43=1
-ParameterName44=Sound Level
-ParameterUpdate44=1
-ParameterName45=Supplier
-ParameterUpdate45=1
-ParameterName46=Supplier 1
-ParameterUpdate46=1
-ParameterName47=Supplier 10
-ParameterUpdate47=1
-ParameterName48=Supplier 2
-ParameterUpdate48=1
-ParameterName49=Supplier 3
-ParameterUpdate49=1
-ParameterName50=Supplier 4
-ParameterUpdate50=1
-ParameterName51=Supplier 5
-ParameterUpdate51=1
-ParameterName52=Supplier 6
-ParameterUpdate52=1
-ParameterName53=Supplier 7
-ParameterUpdate53=1
-ParameterName54=Supplier 8
-ParameterUpdate54=1
-ParameterName55=Supplier 9
-ParameterUpdate55=1
-ParameterName56=Supplier Part Number 1
-ParameterUpdate56=1
-ParameterName57=Supplier Part Number 10
-ParameterUpdate57=1
-ParameterName58=Supplier Part Number 2
-ParameterUpdate58=1
-ParameterName59=Supplier Part Number 3
-ParameterUpdate59=1
-ParameterName60=Supplier Part Number 4
-ParameterUpdate60=1
-ParameterName61=Supplier Part Number 5
-ParameterUpdate61=1
-ParameterName62=Supplier Part Number 6
-ParameterUpdate62=1
-ParameterName63=Supplier Part Number 7
-ParameterUpdate63=1
-ParameterName64=Supplier Part Number 8
-ParameterUpdate64=1
-ParameterName65=Supplier Part Number 9
-ParameterUpdate65=1
-ParameterName66=Supply Voltage - Max
-ParameterUpdate66=1
-ParameterName67=Supply Voltage - Min
-ParameterUpdate67=1
-ParameterName68=System
-ParameterUpdate68=1
-ParameterName69=Tolerance
-ParameterUpdate69=1
-ParameterName70=Value
-ParameterUpdate70=1
-ParameterName71=Voltage
-ParameterUpdate71=1
-ParameterName72=Weight
-ParameterUpdate72=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=6P Header
+ModelName0=CAPACITOR_0402
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=ABRACON_CRYSTAL
+ModelName1=RESISTOR_0402
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=CAPACITOR_0402
+ModelName2=SOT1215
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=CAPACITOR_0603 - TANTALUM
+ModelName3=Wurth_0606
 ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=CAPACITOR_CAN-B6
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=Connector - SD Module
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=Connector_IPEX
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=DFN-8
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=GE910 2G GSM Modem
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=INDUCATOR_0603
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=INDUCTOR_0402
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=INDUCTOR_XFL4015
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=LED_0402
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=MFF2
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=Murata Piezzo Buzzer
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=QFN2020-12
-ModelUpdate15=1
-ModelType16=PCBLIB
-ModelName16=RESISTOR_0402
-ModelUpdate16=1
-ModelType17=PCBLIB
-ModelName17=RV-3028-C7
-ModelUpdate17=1
-ModelType18=PCBLIB
-ModelName18=SOIC-8
-ModelUpdate18=1
-ModelType19=PCBLIB
-ModelName19=SOT1215
-ModelUpdate19=1
-ModelType20=PCBLIB
-ModelName20=SOT-23-5
-ModelUpdate20=1
-ModelType21=PCBLIB
-ModelName21=SOT-23-6
-ModelUpdate21=1
-ModelType22=PCBLIB
-ModelName22=Test_Pad - Hole
-ModelUpdate22=1
-ModelType23=PCBLIB
-ModelName23=Test_Point
-ModelUpdate23=1
-ModelType24=PCBLIB
-ModelName24=TQFP100
-ModelUpdate24=1
-ModelType25=PCBLIB
-ModelName25=TQFP32
-ModelUpdate25=1
-ModelType26=PCBLIB
-ModelName26=TSSOP-16
-ModelUpdate26=1
-ModelType27=PCBLIB
-ModelName27=TSSOP-20
-ModelUpdate27=1
-ModelType28=PCBLIB
-ModelName28=VSON-10
-ModelUpdate28=1
-ModelType29=PCBLIB
-ModelName29=Wurth_0606
-ModelUpdate29=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
