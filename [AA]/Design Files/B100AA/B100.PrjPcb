@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for B100
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -1722,49 +1722,53 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for B100\Generate Files\BOM\Bill of Materials-B100.csv
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Address1_
-Value=Necip Fazýl Mah. Ortaýrmak Sok.
+Name=Revision_
+Value=B100AA R4
 
 [Parameter2]
-Name=Address2_
-Value=Birgül Apt. No: 19/6
-
-[Parameter3]
-Name=Address3_
-Value=Meram / Konya
-
-[Parameter4]
-Name=Address4_
-Value=Turkiye
-
-[Parameter5]
-Name=DocumentNumber_
-Value=AA003
-
-[Parameter6]
-Name=DocumentNumber_Bulk_
-Value=AA003_Bulk
-
-[Parameter7]
-Name=DocumentNumber_Prototype_
-Value=AA003_Prototype
-
-[Parameter8]
-Name=Engineer_
-Value=Mehmet Günce Akkoyun
-
-[Parameter9]
-Name=link
-Value=http://www.ovoo.me
-
-[Parameter10]
 Name=Organization_
 Value=Ovoo Electronics
 
+[Parameter3]
+Name=link
+Value=http://www.ovoo.me
+
+[Parameter4]
+Name=Engineer_
+Value=Mehmet Günce Akkoyun
+
+[Parameter5]
+Name=DocumentNumber_Prototype_
+Value=AA004_Prototype
+
+[Parameter6]
+Name=DocumentNumber_Bulk_
+Value=AA004_Bulk
+
+[Parameter7]
+Name=DocumentNumber_
+Value=AA004
+
+[Parameter8]
+Name=Address4_
+Value=Turkiye
+
+[Parameter9]
+Name=Address3_
+Value=Meram / Konya
+
+[Parameter10]
+Name=Address2_
+Value=Birgül Apt. No: 19/6
+
 [Parameter11]
-Name=Revision_
-Value=B100AA
+Name=Address1_
+Value=Necip Fazýl Mah. Ortaýrmak Sok.
 
 [Configuration1]
 Name=Sources
@@ -1777,7 +1781,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for B100
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -2380,36 +2384,6 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -2783,23 +2757,53 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Ovoo_Schematic.SchLib
-ComponentDesignItemID0=Capacitor - 100nF [0402-6V3]
-ComponentSymbolReference0=Capacitor - 100nF [0402-6V3]
+ComponentLibraryIdentifier0=Ovoo_Library.IntLib
+ComponentDesignItemID0=Capacitor - 33pF [0402-6V3]
+ComponentSymbolReference0=Capacitor - 33pF [0402-6V3]
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Ovoo_Schematic.SchLib
-ComponentDesignItemID1=IC - MCP3422
-ComponentSymbolReference1=IC - MCP3422
+ComponentLibraryIdentifier1=Ovoo_Library.IntLib
+ComponentDesignItemID1=Diode - RGB LED (150066M153000)
+ComponentSymbolReference1=Diode - RGB LED (150066M153000)
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Ovoo_Schematic.SchLib
-ComponentDesignItemID2=Resistor - 10K
-ComponentSymbolReference2=Resistor - 10K
+ComponentLibraryIdentifier2=Ovoo_Library.IntLib
+ComponentDesignItemID2=Resistor - 22R
+ComponentSymbolReference2=Resistor - 22R
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Ovoo_Library.IntLib
+ComponentDesignItemID3=Resistor - 47K
+ComponentSymbolReference3=Resistor - 47K
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Ovoo_Library.IntLib
+ComponentDesignItemID4=Resistor - 4K7
+ComponentSymbolReference4=Resistor - 4K7
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Ovoo_Library.IntLib
+ComponentDesignItemID5=Resistor - 64R9
+ComponentSymbolReference5=Resistor - 64R9
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Ovoo_Library.IntLib
+ComponentDesignItemID6=Transistor - BC807
+ComponentSymbolReference6=Transistor - BC807
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Ovoo_Library.IntLib
+ComponentDesignItemID7=Transistor - BC847
+ComponentSymbolReference7=Transistor - BC847
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -2827,59 +2831,90 @@ ParameterName5=ComponentLink2Description
 ParameterUpdate5=1
 ParameterName6=ComponentLink2URL
 ParameterUpdate6=1
-ParameterName7=Description
+ParameterName7=Datasheet Link
 ParameterUpdate7=1
-ParameterName8=Dielectric
+ParameterName8=Description
 ParameterUpdate8=1
-ParameterName9=Height
+ParameterName9=Dielectric
 ParameterUpdate9=1
-ParameterName10=Library Reference
+ParameterName10=Height
 ParameterUpdate10=1
-ParameterName11=Manufacturer_Name
+ParameterName11=Library Reference
 ParameterUpdate11=1
-ParameterName12=Manufacturer_Part_Number
+ParameterName12=Manufacturer Name
 ParameterUpdate12=1
-ParameterName13=Maximum Operating Temperature
+ParameterName13=Manufacturer Part Number
 ParameterUpdate13=1
-ParameterName14=Minimum Operating Temperature
+ParameterName14=Manufacturer_Name
 ParameterUpdate14=1
-ParameterName15=Mouser_Part_Number
+ParameterName15=Manufacturer_Part_Number
 ParameterUpdate15=1
-ParameterName16=ROHS
+ParameterName16=Maximum Operating Temperature
 ParameterUpdate16=1
-ParameterName17=Supplier 1
+ParameterName17=Minimum Operating Temperature
 ParameterUpdate17=1
-ParameterName18=Supplier 2
+ParameterName18=Mouser Part Number
 ParameterUpdate18=1
-ParameterName19=Supplier 3
+ParameterName19=Mouser Price/Stock
 ParameterUpdate19=1
-ParameterName20=Supplier 4
+ParameterName20=Mouser_Part_Number
 ParameterUpdate20=1
-ParameterName21=Supplier Part Number 1
+ParameterName21=Polarity
 ParameterUpdate21=1
-ParameterName22=Supplier Part Number 2
+ParameterName22=ROHS
 ParameterUpdate22=1
-ParameterName23=Supplier Part Number 3
+ParameterName23=Supplier 1
 ParameterUpdate23=1
-ParameterName24=Supplier Part Number 4
+ParameterName24=Supplier 2
 ParameterUpdate24=1
-ParameterName25=Tolerance
+ParameterName25=Supplier 3
 ParameterUpdate25=1
-ParameterName26=Value
+ParameterName26=Supplier 4
 ParameterUpdate26=1
-ParameterName27=Voltage
+ParameterName27=Supplier 5
 ParameterUpdate27=1
+ParameterName28=Supplier 6
+ParameterUpdate28=1
+ParameterName29=Supplier 7
+ParameterUpdate29=1
+ParameterName30=Supplier 8
+ParameterUpdate30=1
+ParameterName31=Supplier Part Number 1
+ParameterUpdate31=1
+ParameterName32=Supplier Part Number 2
+ParameterUpdate32=1
+ParameterName33=Supplier Part Number 3
+ParameterUpdate33=1
+ParameterName34=Supplier Part Number 4
+ParameterUpdate34=1
+ParameterName35=Supplier Part Number 5
+ParameterUpdate35=1
+ParameterName36=Supplier Part Number 6
+ParameterUpdate36=1
+ParameterName37=Supplier Part Number 7
+ParameterUpdate37=1
+ParameterName38=Supplier Part Number 8
+ParameterUpdate38=1
+ParameterName39=Tolerance
+ParameterUpdate39=1
+ParameterName40=Value
+ParameterUpdate40=1
+ParameterName41=Voltage
+ParameterUpdate41=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
 ModelName0=CAPACITOR_0402
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=DFN-8
+ModelName1=RESISTOR_0402
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=RESISTOR_0402
+ModelName2=SOT1215
 ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=Wurth_0606
+ModelUpdate3=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
