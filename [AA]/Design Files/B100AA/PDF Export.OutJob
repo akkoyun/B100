@@ -74,7 +74,7 @@ Configuration2_Item6=Description=120|Designator=120|Quantity=120|Case=100|Mouser
 OutputType3=PCBDrawing
 OutputName3=Draftsman
 OutputCategory3=Documentation
-OutputDocumentPath3=
+OutputDocumentPath3=B100AA PCB R1.PCBDwf
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0

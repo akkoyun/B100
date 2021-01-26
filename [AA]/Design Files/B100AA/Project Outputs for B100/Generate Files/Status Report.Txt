@@ -1,10 +1,14 @@
-Output: Export STEP
-Type  : ExportSTEP
-From  : Variant [[No Variations]] of PCB Document [B100AA PCB R1.PcbDoc]
-   Generated File[B100AA PCB R1.step]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:38:15 On 26.01.2021
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [B100.PrjPcb]
+   Generated File[Bill of Materials-B100.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 15:03:10 On 25.01.2021
+Finished Output Generation At 16:38:15 On 26.01.2021
