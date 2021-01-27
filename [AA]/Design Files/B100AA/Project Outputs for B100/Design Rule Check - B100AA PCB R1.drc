@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Altium Projects\B100\[AA]\Design Files\B100AA\B100AA PCB R1.PcbDoc
-Date     : 26.01.2021
-Time     : 18:37:32
+Date     : 27.01.2021
+Time     : 18:34:37
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
@@ -10,178 +10,19 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad C10-1(16.57mm,21mm) on Top Layer And Pad R3-1(17.43mm,20mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net SIGNAL_RTC_INTERUPT Between Pad C113-2(14.57mm,21.905mm) on Bottom Layer And Pad U17-2(52.6mm,20.45mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad R59-2(47.86mm,20.57mm) on Bottom Layer And Pad C132-2(50mm,20.57mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Track (34.01mm,20.94mm)(35.19mm,20.94mm) on Top Layer And Pad C135-2(42mm,21.43mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Track (42mm,16.885mm)(42.15mm,16.735mm) on Bottom Layer And Pad C135-2(42mm,21.43mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad C16-1(8mm,20.787mm) on Top Layer And Track (11.43mm,21mm)(11.455mm,20.975mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VAUX Between Pad U8-16(72.975mm,2.25mm) on Top Layer [Unplated] And Pad C17-2(74mm,16.235mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_3V3_PMON Between Via (33.38mm,30mm) from Top Layer to Mid Layer 1 And Pad C181-2(65.43mm,34.605mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 3V8 Between Pad U3-1(1.7mm,20.95mm) on Top Layer [Unplated] And Pad C225-1(6mm,33mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net 3V8 Between Pad C225-1(6mm,33mm) on Top Layer [Unplated] And Via (6.15mm,35.875mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad C230-1(6mm,7mm) on Top Layer [Unplated] And Via (6.15mm,1.585mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_POWER_5V_EN Between Pad C234-2(14.93mm,6.07mm) on Top Layer And Pad U15-9(21.35mm,7mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VAUX Between Pad U6-16(48.975mm,2.25mm) on Top Layer [Unplated] And Pad C29-2(50.57mm,1.75mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VAUX Between Pad C29-2(50.57mm,1.75mm) on Top Layer And Track (60.991mm,2.266mm)(61.575mm,2.266mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_3V3_PMON Between Via (23.5mm,15.7mm) from Mid Layer 4 to Bottom Layer And Pad C30-2(45.75mm,5.87mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad C33-2(62.57mm,4.75mm) on Top Layer And Pad R13-2(63.43mm,1.75mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VAUX Between Pad C35-2(62.57mm,2.75mm) on Top Layer And Pad U8-16(72.975mm,2.25mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_DSR Between Pad C36-2(57.75mm,5.87mm) on Top Layer And Via (73.85mm,26.985mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_TX Between Pad C46-2(70.25mm,5.87mm) on Top Layer And Via (73.85mm,33.335mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 3V8 Between Via (73.85mm,4.125mm) from Mid Layer 4 to Bottom Layer And Pad C5-1(76.5mm,17.017mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad Q3-2(36.375mm,31.05mm) on Top Layer [Unplated] And Pad C54-1(36.43mm,33mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad C60-2(43mm,16.735mm) on Bottom Layer And Pad U10-1(45.9mm,16.9mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad C61-1(47mm,16.735mm) on Bottom Layer And Pad R59-2(47.86mm,20.57mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad U10-1(45.9mm,16.9mm) on Bottom Layer [Unplated] And Pad C61-1(47mm,16.735mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VFOTA Between Pad R27-1(47mm,19.265mm) on Bottom Layer And Pad C64-2(53.6mm,11.5mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VFOTA Between Pad C66-2(56mm,0mm) on Bottom Layer And Pad U11-18(56mm,1.5mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VFOTA Between Pad C69-1(39mm,40.335mm) on Bottom Layer And Pad D2-4(40.571mm,40.17mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad C93-2(38mm,10mm) on Bottom Layer And Pad C78-1(39mm,15.275mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad C93-2(38mm,10mm) on Bottom Layer And Pad C81-2(39mm,3.725mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Via (33mm,2.244mm) from Mid Layer 4 to Bottom Layer And Pad C81-2(39mm,3.725mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad C83-2(31mm,4.57mm) on Top Layer And Pad U14-12(32.1mm,4.6mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VBUZZER Between Pad C84-2(28mm,5.43mm) on Top Layer And Pad U14-10(32.1mm,5.4mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetC86_1 Between Pad C86-1(30mm,4.57mm) on Top Layer And Pad U14-4(33.9mm,4.6mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetC86_2 Between Pad C86-2(30mm,5.43mm) on Top Layer And Pad U14-9(32.6mm,5.9mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetC87_1 Between Pad C87-1(29mm,5.43mm) on Top Layer And Pad U14-8(33mm,5.9mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetC87_2 Between Pad C87-2(29mm,4.57mm) on Top Layer And Pad U14-11(32.1mm,5mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad R45-2(24.5mm,18.86mm) on Bottom Layer And Pad C88-2(25.5mm,18mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetD2_1 Between Pad D2-1(40.571mm,38.57mm) on Bottom Layer [Unplated] And Pad R31-2(45.28mm,39.422mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetD2_2 Between Pad D2-2(41.471mm,38.57mm) on Bottom Layer [Unplated] And Pad R32-2(45.28mm,38.415mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetD2_3 Between Pad D2-3(41.471mm,40.17mm) on Bottom Layer [Unplated] And Pad R34-2(45.28mm,40.43mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VFOTA Between Pad D2-4(40.571mm,40.17mm) on Bottom Layer [Unplated] And Track (46.05mm,19.265mm)(47mm,19.265mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetD3_1 Between Pad R46-2(27.57mm,20mm) on Top Layer And Pad D3-1(36.8mm,20.95mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetD3_2 Between Pad R48-2(31.57mm,20mm) on Top Layer And Pad D3-2(36.8mm,20.05mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetD3_3 Between Pad R50-2(23.57mm,20mm) on Top Layer And Pad D3-3(35.2mm,20.05mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net SD_SS Between Pad J1-2(26.895mm,28.5mm) on Bottom Layer [Unplated] And Pad U12-12(40.1mm,12.675mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net SD_MOSI Between Pad J1-3(27.995mm,28.5mm) on Bottom Layer [Unplated] And Pad U12-4(45.9mm,13.325mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad J1-4(29.095mm,28.5mm) on Bottom Layer [Unplated] And Pad R17-2(36.43mm,30mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad J3-29(67.968mm,37.145mm) on Bottom Layer And Via (73.85mm,2.855mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VCC Between Via (66.15mm,1.585mm) from Mid Layer 4 to Bottom Layer And Pad J3-60(72.032mm,38.415mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetL4_1 Between Pad L4-1(10mm,8.815mm) on Top Layer [Unplated] And Pad U22-9(13.25mm,9.5mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetL4_2 Between Pad L4-2(10mm,11.185mm) on Top Layer [Unplated] And Pad U22-7(13.25mm,10.5mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetPZ1_1 Between Pad U14-7(33.4mm,5.9mm) on Top Layer [Unplated] And Pad PZ1-1(36.685mm,12mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetPZ1_2 Between Pad PZ1-2(27.985mm,12mm) on Top Layer [Unplated] And Pad U14-6(33.9mm,5.4mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad Q3-2(36.375mm,31.05mm) on Top Layer [Unplated] And Pad R17-2(36.43mm,30mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad Q3-2(36.375mm,31.05mm) on Top Layer [Unplated] And Pad R61-2(38.14mm,31.095mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_COM_EN Between Pad U7-15(60.25mm,1.275mm) on Top Layer [Unplated] And Pad R13-1(62.57mm,1.75mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VMCU Between Via (42.5mm,16.735mm) from Mid Layer 4 to Bottom Layer And Pad C60-2(43mm,16.735mm) on Bottom Layer 
    Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_COM_EN Between Pad R13-1(62.57mm,1.75mm) on Top Layer And Pad U8-14(71.75mm,1.275mm) on Top Layer [Unplated] 
    Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_COM_EN Between Pad R13-1(62.57mm,1.75mm) on Top Layer And Via (65mm,29.525mm) from Mid Layer 1 to Mid Layer 4 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad R13-2(63.43mm,1.75mm) on Top Layer And Via (66.15mm,2.855mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad R14-2(60.75mm,6.73mm) on Top Layer And Pad U7-1(60.975mm,3.75mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_DTR Between Pad R15-1(73.25mm,5.87mm) on Top Layer And Via (73.85mm,32.065mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Track (73.175mm,3.673mm)(73.175mm,3.725mm) on Top Layer And Pad R15-2(73.25mm,6.73mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad R15-2(73.25mm,6.73mm) on Top Layer And Via (73.85mm,37.145mm) from Mid Layer 4 to Bottom Layer 
    Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_POWER_EN Between Via (65mm,28.255mm) from Mid Layer 1 to Mid Layer 4 And Pad R2-2(77.45mm,17.017mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net SIGNAL_FOTA_POWER_EN Between Via (22.3mm,4.987mm) from Mid Layer 4 to Bottom Layer And Pad R28-2(39mm,16.735mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad R3-1(17.43mm,20mm) on Top Layer And Pad R45-2(24.5mm,18.86mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetR3_2 Between Pad U2-5(15.1mm,20mm) on Top Layer [Unplated] And Pad R3-2(16.57mm,20mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Via (13.85mm,37.145mm) from Mid Layer 4 to Bottom Layer And Pad R41-2(26.895mm,40.43mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad R54-2(55.2mm,19.55mm) on Bottom Layer And Pad R56-2(55.2mm,21.35mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad U17-7(51.4mm,20.45mm) on Bottom Layer [Unplated] And Pad R54-2(55.2mm,19.55mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad R56-2(55.2mm,21.35mm) on Bottom Layer And Pad R57-2(55.2mm,23.15mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad U16-3(45.9mm,27.975mm) on Bottom Layer [Unplated] And Pad R58-2(47.86mm,22.47mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad R61-2(38.14mm,31.095mm) on Bottom Layer And Track (38.865mm,29.025mm)(38.865mm,29.14mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 5V Between Pad R68-2(14.07mm,13.07mm) on Top Layer And Pad R62-2(23.57mm,14.5mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net 5V Between Pad R62-2(23.57mm,14.5mm) on Top Layer And Pad U20-3(24.04mm,10.55mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net 5V Between Pad R63-2(23.57mm,9.5mm) on Top Layer And Pad U20-3(24.04mm,10.55mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetR65_1 Between Pad U21-4(14.9mm,30.5mm) on Top Layer [Unplated] And Pad R65-1(14.93mm,33.07mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR68_1 Between Pad U22-4(14.9mm,10.5mm) on Top Layer [Unplated] And Pad R68-1(14.93mm,13.07mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetTP1_1 Between Pad TP1-1(45mm,1mm) on Bottom Layer And Via (52.7mm,9.935mm) from Top Layer to Mid Layer 1 
-   Violation between Un-Routed Net Constraint: Net NetTP2_1 Between Pad TP2-1(47mm,1mm) on Bottom Layer And Via (54.5mm,9.935mm) from Top Layer to Mid Layer 1 
-   Violation between Un-Routed Net Constraint: Net NetTP3_1 Between Pad TP3-1(43mm,1mm) on Bottom Layer And Via (49.1mm,9.935mm) from Top Layer to Mid Layer 1 
-   Violation between Un-Routed Net Constraint: Net NetTP4_1 Between Pad TP4-1(41mm,1mm) on Bottom Layer And Via (50.9mm,9.935mm) from Top Layer to Mid Layer 1 
-   Violation between Un-Routed Net Constraint: Net NetTP5_1 Between Pad TP5-1(39mm,1mm) on Bottom Layer And Pad U4-A13(46.4mm,12.635mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net 3V8 Between Via (66.15mm,35.875mm) from Mid Layer 4 to Bottom Layer And Pad U1-1(76.5mm,18.487mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VFOTA Between Pad U11-6(55.2mm,10mm) on Bottom Layer [Unplated] And Pad U11-18(56mm,1.5mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VFOTA Between Pad U13-19(45.9mm,3.725mm) on Bottom Layer [Unplated] And Pad U11-18(56mm,1.5mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VFOTA Between Pad U11-4(53.6mm,10mm) on Bottom Layer [Unplated] And Pad U11-6(55.2mm,10mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net XTAL1_FOTA Between Track (50mm,16.63mm)(51.37mm,16.63mm) on Bottom Layer And Pad U11-7(56mm,10mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net XTAL2_FOTA Between Track (56.63mm,14.23mm)(58mm,14.23mm) on Bottom Layer And Pad U11-8(56.8mm,10mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_sD_MUX_DIRECTION Between Track (19.2mm,4.5mm)(21.307mm,4.5mm) on Bottom Layer And Pad U12-1(45.9mm,15.275mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net MASTER_ICSP.MASTER_SCK Between Via (22.3mm,12.5mm) from Mid Layer 4 to Bottom Layer And Pad U12-10(40.1mm,11.375mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net FOTA_SCK Between Pad U12-11(40.1mm,12.025mm) on Bottom Layer [Unplated] And Via (56.8mm,2.45mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net FOTA_SS Between Pad U12-14(40.1mm,13.975mm) on Bottom Layer [Unplated] And Via (57.3mm,4.55mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad U12-16(40.1mm,15.275mm) on Bottom Layer [Unplated] And Track (42.15mm,16.735mm)(43mm,16.735mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net FOTA_MOSI Between Pad U12-2(45.9mm,14.625mm) on Bottom Layer [Unplated] And Via (57.3mm,3.75mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net FOTA_MISO Between Pad U12-5(45.9mm,12.675mm) on Bottom Layer [Unplated] And Via (57.3mm,2.95mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net SD_MISO Between Track (32.095mm,29.15mm)(32.395mm,28.85mm) on Bottom Layer And Pad U12-7(45.9mm,11.375mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net SD_SCK Between Track (30.175mm,28.52mm)(30.175mm,39.55mm) on Bottom Layer And Pad U12-9(40.1mm,10.725mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VFOTA Between Track (6.15mm,4.125mm)(7.968mm,4.125mm) on Bottom Layer And Pad U13-19(45.9mm,3.725mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad U13-2(40.1mm,3.725mm) on Bottom Layer [Unplated] And Track (50.57mm,3.75mm)(50.57mm,3.775mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net MASTER_RESET Between Via (25mm,15.7mm) from Mid Layer 4 to Bottom Layer And Pad U13-9(40.1mm,8.275mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad U14-12(32.1mm,4.6mm) on Top Layer [Unplated] And Pad U14-1(32.6mm,4.1mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad U14-1(32.6mm,4.1mm) on Top Layer [Unplated] And Pad U14-2(33mm,4.1mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U14-13(33mm,5mm) on Top Layer [Unplated] And Pad U14-5(33.9mm,5mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Via (33mm,2.244mm) from Mid Layer 4 to Bottom Layer And Pad U14-2(33mm,4.1mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_PWM_BUZZER Between Pad U15-6(21.35mm,5.5mm) on Bottom Layer And Pad U14-3(33.4mm,4.1mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad U15-10(21.35mm,7.5mm) on Bottom Layer And Track (23mm,1.35mm)(23mm,2.3mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad U15-10(21.35mm,7.5mm) on Bottom Layer And Via (25.5mm,15.201mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Via (6.15mm,2.855mm) from Mid Layer 4 to Bottom Layer And Pad U15-100(23mm,1.35mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_3V3_PMON Between Pad U15-27(23.5mm,16.65mm) on Bottom Layer And Via (33.38mm,30mm) from Top Layer to Mid Layer 1 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad U16-16(40.1mm,29.275mm) on Bottom Layer [Unplated] And Pad U16-3(45.9mm,27.975mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetR54_1 Between Via (44.95mm,26.675mm) from Mid Layer 4 to Bottom Layer And Pad U17-3(52.6mm,19.55mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetR55_1 Between Via (44.95mm,27.325mm) from Mid Layer 4 to Bottom Layer And Pad U17-4(52.6mm,18.65mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetR58_1 Between Pad U18-1(45.74mm,22.47mm) on Bottom Layer [Unplated] And Track (44.95mm,25.375mm)(45.9mm,25.375mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetR59_1 Between Via (44.95mm,26.025mm) from Mid Layer 4 to Bottom Layer And Pad U18-3(45.74mm,20.57mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetR61_1 Between Pad U19-5(40.3mm,31.095mm) on Bottom Layer [Unplated] And Via (41.05mm,24.725mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetR60_1 Between Pad U19-6(40.3mm,32.365mm) on Bottom Layer [Unplated] And Via (41.05mm,25.375mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetC219_2 Between Via (13.85mm,16.825mm) from Mid Layer 4 to Bottom Layer And Pad U20-1(23.04mm,10.55mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetC218_2 Between Via (13.85mm,18.095mm) from Mid Layer 4 to Bottom Layer And Pad U20-2(23.54mm,10.55mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetC217_2 Between Via (13.85mm,14.285mm) from Mid Layer 4 to Bottom Layer And Pad U20-7(23.54mm,13.45mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetC216_2 Between Via (13.85mm,15.555mm) from Mid Layer 4 to Bottom Layer And Pad U20-8(23.04mm,13.45mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VCC Between Track (13.25mm,27.728mm)(13.25mm,28.9mm) on Top Layer And Pad U21-1(14.9mm,29mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net 3V8 Between Pad U3-3(1.7mm,19.05mm) on Top Layer [Unplated] And Pad U3-1(1.7mm,20.95mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net 3V8 Between Pad U3-3(1.7mm,19.05mm) on Top Layer [Unplated] And Via (13.85mm,4.125mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ANTENNA_GSM Between Track (58.56mm,38.581mm)(60.794mm,38.581mm) on Top Layer And Pad U4-K01(62.6mm,34.235mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetC41_2 Between Pad U7-13(59.25mm,1.275mm) on Top Layer [Unplated] And Pad U4-L14(64.4mm,10.835mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VAUX Between Pad U6-10(45.75mm,1.275mm) on Top Layer [Unplated] And Pad U6-16(48.975mm,2.25mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetC32_2 Between Pad U6-11(46.25mm,1.275mm) on Top Layer [Unplated] And Via (72.5mm,11.735mm) from Top Layer to Mid Layer 1 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_COM_EN Between Pad U6-14(47.75mm,1.275mm) on Top Layer [Unplated] And Pad U6-15(48.25mm,1.275mm) on Top Layer [Unplated] 
    Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_COM_EN Between Pad U6-15(48.25mm,1.275mm) on Top Layer [Unplated] And Pad U7-14(59.75mm,1.275mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_RING Between Via (33.5mm,2.799mm) from Mid Layer 4 to Bottom Layer And Pad U6-6(46.25mm,4.725mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Track (51.295mm,4.5mm)(51.295mm,4.615mm) on Top Layer And Pad U7-1(60.975mm,3.75mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetC40_2 Between Pad U7-11(58.25mm,1.275mm) on Top Layer [Unplated] And Via (68.9mm,11.735mm) from Top Layer to Mid Layer 1 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_COM_EN Between Pad U7-14(59.75mm,1.275mm) on Top Layer [Unplated] And Pad U7-15(60.25mm,1.275mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_RTS Between Via (35.201mm,7mm) from Mid Layer 4 to Bottom Layer And Pad U7-4(59.25mm,4.725mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_DCD Between Via (35.7mm,6.5mm) from Mid Layer 4 to Bottom Layer And Pad U7-6(58.25mm,4.725mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_DSR Between Via (35.201mm,6mm) from Mid Layer 4 to Bottom Layer And Pad U7-7(57.75mm,4.725mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_COM_EN Between Pad U8-14(71.75mm,1.275mm) on Top Layer [Unplated] And Pad U8-15(72.25mm,1.275mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_DTR Between Via (35.201mm,8mm) from Mid Layer 4 to Bottom Layer And Pad U8-4(71.25mm,4.725mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_RX Between Via (35.7mm,8.5mm) from Mid Layer 4 to Bottom Layer And Pad U8-5(70.75mm,4.725mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_TX Between Via (35.201mm,9mm) from Mid Layer 4 to Bottom Layer And Pad U8-6(70.25mm,4.725mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_CTS Between Via (35.7mm,7.513mm) from Mid Layer 4 to Bottom Layer And Pad U8-7(69.75mm,4.725mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_MCU_POWER_EN Between Track (11.455mm,19.025mm)(12.875mm,19.025mm) on Top Layer And Via (73.85mm,15.555mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (11.455mm,20.975mm)(12.875mm,20.975mm) on Top Layer And Via (13.85mm,2.855mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 5V Between Track (13.25mm,11.1mm)(13.25mm,12.131mm) on Top Layer And Via (13.85mm,5.395mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VCC Between Track (13.25mm,7.728mm)(13.25mm,8.9mm) on Top Layer And Track (13.25mm,27.728mm)(13.25mm,28.9mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VCC Between Track (13.25mm,27.728mm)(13.25mm,28.9mm) on Top Layer And Via (13.85mm,38.415mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetR63_1 Between Track (24.515mm,10.525mm)(24.54mm,10.55mm) on Top Layer And Via (41.05mm,26.025mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetR62_1 Between Track (24.515mm,13.475mm)(24.54mm,13.45mm) on Top Layer And Via (41.05mm,26.675mm) from Mid Layer 4 to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VMCU Between Pad U9-1(42mm,16.9mm) on Bottom Layer [Unplated] And Via (42.5mm,16.735mm) from Mid Layer 4 to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net SIGNAL_sD_MUX_DIRECTION Between Track (21.307mm,4.5mm)(21.328mm,4.478mm) on Bottom Layer And Via (44.95mm,15.275mm) from Mid Layer 4 to Bottom Layer 
    Violation between Un-Routed Net Constraint: Net SIGNAL_FOTA_POWER_DONE Between Track (39.95mm,19.265mm)(40.1mm,19.115mm) on Bottom Layer And Via (57.3mm,6.15mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (4.3mm,20.95mm)(5.837mm,20.95mm) on Top Layer And Via (6.15mm,37.145mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_RING Between Track (46.25mm,5.395mm)(46.725mm,5.87mm) on Top Layer And Via (73.85mm,25.715mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (51.39mm,19.56mm)(51.4mm,19.55mm) on Bottom Layer And Via (66.15mm,37.145mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetC39_2 Between Track (57.75mm,1.275mm)(57.75mm,1.275mm) on Top Layer And Via (70.7mm,11.735mm) from Top Layer to Mid Layer 1 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_DCD Between Track (58.25mm,5.395mm)(58.725mm,5.87mm) on Top Layer And Via (73.85mm,28.255mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_RTS Between Track (59.25mm,5.395mm)(59.725mm,5.87mm) on Top Layer And Via (73.85mm,30.795mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 5V Between Via (13.85mm,5.395mm) from Mid Layer 4 to Bottom Layer And Track (65.43mm,4.125mm)(65.43mm,4.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Track (66.15mm,2.855mm)(67.968mm,2.855mm) on Bottom Layer And Track (73.175mm,3.673mm)(73.175mm,3.725mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_CTS Between Track (69.275mm,5.87mm)(69.75mm,5.395mm) on Top Layer And Via (73.85mm,29.525mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GSM_3V3_UART.GSM_3V3_RX Between Track (70.75mm,5.395mm)(71.225mm,5.87mm) on Top Layer And Via (73.85mm,34.605mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (13.85mm,2.855mm) from Mid Layer 4 to Bottom Layer And Via (73.85mm,2.855mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 3V8 Between Via (13.85mm,4.125mm) from Mid Layer 4 to Bottom Layer And Via (73.85mm,4.125mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net MASTER_ICSP.MASTER_MISO Between Via (22.3mm,13.5mm) from Mid Layer 4 to Bottom Layer And Via (43.05mm,12.025mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net MASTER_ICSP.MASTER_SS Between Via (22.799mm,12mm) from Mid Layer 4 to Bottom Layer And Via (41.549mm,13.325mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net MASTER_ICSP.MASTER_MOSI Between Via (22.799mm,13mm) from Mid Layer 4 to Bottom Layer And Via (43.05mm,13.975mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetR24_2 Between Via (25.38mm,30mm) from Top Layer to Mid Layer 1 And Via (47.3mm,9.935mm) from Top Layer to Mid Layer 1 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Via (25.5mm,15.201mm) from Mid Layer 4 to Bottom Layer And Via (35.201mm,10mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetR23_2 Between Via (29.38mm,30mm) from Top Layer to Mid Layer 1 And Via (49.1mm,20.735mm) from Top Layer to Mid Layer 1 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_LED_EN Between Via (37.38mm,28mm) from Top Layer to Mid Layer 1 And Via (65mm,30.795mm) from Mid Layer 1 to Mid Layer 4 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_FOTA_BURN_EN Between Via (41.05mm,8.925mm) from Mid Layer 4 to Bottom Layer And Via (57.3mm,5.35mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VCC Between Via (6.15mm,1.585mm) from Mid Layer 4 to Bottom Layer And Via (66.15mm,1.585mm) from Mid Layer 4 to Bottom Layer 
-Rule Violations :171
+Rule Violations :12
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -221,59 +62,18 @@ Processing Rule : Silk to Silk (Clearance=0.2mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (23mm,1.35mm)(23mm,2.3mm) on Bottom Layer 
-   Violation between Net Antennae: Track (58.56mm,38.581mm)(60.794mm,38.581mm) on Top Layer 
-   Violation between Net Antennae: Via (23.5mm,15.7mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (25.38mm,30mm) from Top Layer to Mid Layer 1 
-   Violation between Net Antennae: Via (25.5mm,15.201mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (29.38mm,30mm) from Top Layer to Mid Layer 1 
-   Violation between Net Antennae: Via (33.38mm,30mm) from Top Layer to Mid Layer 1 
-   Violation between Net Antennae: Via (33.5mm,2.799mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (33mm,2.244mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (35.201mm,10mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (35.201mm,6mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (35.201mm,7mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (35.201mm,8mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (35.201mm,9mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (35.7mm,6.5mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (35.7mm,8.5mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (37.38mm,28mm) from Top Layer to Mid Layer 1 
-   Violation between Net Antennae: Via (41.05mm,24.725mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (41.05mm,25.375mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (41.05mm,26.025mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (41.05mm,26.675mm) from Mid Layer 4 to Bottom Layer 
+   Violation between Net Antennae: Track (39mm,34.905mm)(41.475mm,34.905mm) on Bottom Layer 
    Violation between Net Antennae: Via (41.05mm,8.275mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (41.05mm,8.925mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (41.549mm,13.325mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (44.95mm,25.375mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (44.95mm,26.025mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (44.95mm,26.675mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (44.95mm,27.325mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (47.3mm,9.935mm) from Top Layer to Mid Layer 1 
-   Violation between Net Antennae: Via (49.1mm,20.735mm) from Top Layer to Mid Layer 1 
-   Violation between Net Antennae: Via (49.1mm,9.935mm) from Top Layer to Mid Layer 1 
-   Violation between Net Antennae: Via (50.9mm,9.935mm) from Top Layer to Mid Layer 1 
-   Violation between Net Antennae: Via (52.7mm,9.935mm) from Top Layer to Mid Layer 1 
-   Violation between Net Antennae: Via (54.5mm,9.935mm) from Top Layer to Mid Layer 1 
-   Violation between Net Antennae: Via (65.3mm,11.735mm) from Top Layer to Mid Layer 1 
-   Violation between Net Antennae: Via (68.9mm,11.735mm) from Top Layer to Mid Layer 1 
-   Violation between Net Antennae: Via (70.7mm,11.735mm) from Top Layer to Mid Layer 1 
-   Violation between Net Antennae: Via (72.5mm,11.735mm) from Top Layer to Mid Layer 1 
-   Violation between Net Antennae: Via (73.85mm,15.555mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (73.85mm,2.855mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (73.85mm,37.145mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (73.85mm,4.125mm) from Mid Layer 4 to Bottom Layer 
-Rule Violations :42
+   Violation between Net Antennae: Via (44.95mm,15.275mm) from Mid Layer 4 to Bottom Layer 
+Rule Violations :3
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.25mm) Between Board Edge And Text "                    " (13.375mm,44.4mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.25mm) Between Board Edge And Text "Serial.ID" (12.875mm,44.4mm) on Top Overlay 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25mm) (Prefered=12.5mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 216
+Violations Detected : 16
 Waived Violations : 0
 Time Elapsed        : 00:00:05
