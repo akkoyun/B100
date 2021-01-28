@@ -1727,7 +1727,147 @@ DocumentPath=Project Outputs for B100\Generate Files\BOM\Bill of Materials-B100.
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument5]
 DocumentPath=Project Outputs for B100\Design Rule Check - B100AA PCB R1.html
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill1\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill2\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill3\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill4\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill5\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\mid_layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\mid_layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\mid_layer_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\mid_layer_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\SimulationDummy.REP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\user\SimulationDummy.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill1\tools
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill2\tools
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill3\tools
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill4\tools
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill5\tools
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Parameter1]
@@ -2055,6 +2195,8 @@ OutputName10=ODB++ Files
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Board=False|AddToAllPlots_Bottom 3D Body=False|AddToAllPlots_Bottom Assembly=False|AddToAllPlots_Bottom Courtyard=False|AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=False|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 9=False|AddToAllPlots_Top 3D Body=False|AddToAllPlots_Top Assembly=False|AddToAllPlots_Top Courtyard=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set= |MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|Plot_V7_1=True|Plot_V7_1_name=Mechanical Layer 40|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=True|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=True|PlotMechanical4Plot=True|PlotMechanical5Plot=True|PlotMechanical6Plot=True|PlotMechanical7Plot=True|PlotMechanical8Plot=True|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
 OutputType11=Plane
 OutputName11=Power-Plane Prints
 OutputDocumentPath11=
@@ -2756,316 +2898,16 @@ NetClassManualEnabled=0
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Ovoo_Library.IntLib
-ComponentDesignItemID0=Buzzer - PKMCS0909E4000-R1
-ComponentSymbolReference0=Buzzer - PKMCS0909E4000-R1
+ComponentDesignItemID0=IC - MFF2
+ComponentSymbolReference0=IC - MFF2
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Ovoo_Library.IntLib
-ComponentDesignItemID1=Capacitor - 100nF [0402-6V3]
-ComponentSymbolReference1=Capacitor - 100nF [0402-6V3]
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Ovoo_Library.IntLib
-ComponentDesignItemID2=Capacitor - 10uF [0603-6V3] (Tantalium)
-ComponentSymbolReference2=Capacitor - 10uF [0603-6V3] (Tantalium)
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Ovoo_Library.IntLib
-ComponentDesignItemID3=Capacitor - 13pF [0402-50V]
-ComponentSymbolReference3=Capacitor - 13pF [0402-50V]
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=Ovoo_Library.IntLib
-ComponentDesignItemID4=Capacitor - 1nF [0402-6V3]
-ComponentSymbolReference4=Capacitor - 1nF [0402-6V3]
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=Ovoo_Library.IntLib
-ComponentDesignItemID5=Capacitor - 1uF [0402-6V3]
-ComponentSymbolReference5=Capacitor - 1uF [0402-6V3]
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=Ovoo_Library.IntLib
-ComponentDesignItemID6=Capacitor - 33pF [0402-6V3]
-ComponentSymbolReference6=Capacitor - 33pF [0402-6V3]
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=Ovoo_Library.IntLib
-ComponentDesignItemID7=Capacitor - 39uF [Can-16V]
-ComponentSymbolReference7=Capacitor - 39uF [Can-16V]
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=Ovoo_Library.IntLib
-ComponentDesignItemID8=Capacitor - 47u [0603-6V3] (Tantalium)
-ComponentSymbolReference8=Capacitor - 47u [0603-6V3] (Tantalium)
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=Ovoo_Library.IntLib
-ComponentDesignItemID9=Connector - B100 Male Socket [A]
-ComponentSymbolReference9=Connector - B100 Male Socket [A]
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=Ovoo_Library.IntLib
-ComponentDesignItemID10=Connector - B100 Male Socket [B]
-ComponentSymbolReference10=Connector - B100 Male Socket [B]
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=Ovoo_Library.IntLib
-ComponentDesignItemID11=Connector - MHF
-ComponentSymbolReference11=Connector - MHF
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=Ovoo_Library.IntLib
-ComponentDesignItemID12=Connector - SD Slot
-ComponentSymbolReference12=Connector - SD Slot
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=Ovoo_Library.IntLib
-ComponentDesignItemID13=Crystal - 7.3728 MHz (Abracon)
-ComponentSymbolReference13=Crystal - 7.3728 MHz (Abracon)
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=Ovoo_Library.IntLib
-ComponentDesignItemID14=Diode - LED (0402-Blue)
-ComponentSymbolReference14=Diode - LED (0402-Blue)
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=Ovoo_Library.IntLib
-ComponentDesignItemID15=Diode - RGB LED (150066M153000)
-ComponentSymbolReference15=Diode - RGB LED (150066M153000)
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=Ovoo_Library.IntLib
-ComponentDesignItemID16=Ferrite Bead - 2A [0603]
-ComponentSymbolReference16=Ferrite Bead - 2A [0603]
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=Ovoo_Library.IntLib
-ComponentDesignItemID17=IC - 24LC128
-ComponentSymbolReference17=IC - 24LC128
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=Ovoo_Library.IntLib
-ComponentDesignItemID18=IC - ATMEGA2560V-8AU
-ComponentSymbolReference18=IC - ATMEGA2560V-8AU
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=Ovoo_Library.IntLib
-ComponentDesignItemID19=IC - ATMEGA328P
-ComponentSymbolReference19=IC - ATMEGA328P
-ComponentUpdate19=1
-ComponentIsDeviceSheet19=0
-ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=Ovoo_Library.IntLib
-ComponentDesignItemID20=IC - DS28CM00R-A00+T
-ComponentSymbolReference20=IC - DS28CM00R-A00+T
-ComponentUpdate20=1
-ComponentIsDeviceSheet20=0
-ComponentLibIdentifierKind21=Library Name And Type
-ComponentLibraryIdentifier21=Ovoo_Library.IntLib
-ComponentDesignItemID21=IC - MCP3422
-ComponentSymbolReference21=IC - MCP3422
-ComponentUpdate21=1
-ComponentIsDeviceSheet21=0
-ComponentLibIdentifierKind22=Library Name And Type
-ComponentLibraryIdentifier22=Ovoo_Library.IntLib
-ComponentDesignItemID22=IC - MFF2
-ComponentSymbolReference22=IC - MFF2
-ComponentUpdate22=1
-ComponentIsDeviceSheet22=0
-ComponentLibIdentifierKind23=Library Name And Type
-ComponentLibraryIdentifier23=Ovoo_Library.IntLib
-ComponentDesignItemID23=IC - PAM8904EGPR
-ComponentSymbolReference23=IC - PAM8904EGPR
-ComponentUpdate23=1
-ComponentIsDeviceSheet23=0
-ComponentLibIdentifierKind24=Library Name And Type
-ComponentLibraryIdentifier24=Ovoo_Library.IntLib
-ComponentDesignItemID24=IC - RV-3028-C7
-ComponentSymbolReference24=IC - RV-3028-C7
-ComponentUpdate24=1
-ComponentIsDeviceSheet24=0
-ComponentLibIdentifierKind25=Library Name And Type
-ComponentLibraryIdentifier25=Ovoo_Library.IntLib
-ComponentDesignItemID25=IC - SN3257QPWRQ1
-ComponentSymbolReference25=IC - SN3257QPWRQ1
-ComponentUpdate25=1
-ComponentIsDeviceSheet25=0
-ComponentLibIdentifierKind26=Library Name And Type
-ComponentLibraryIdentifier26=Ovoo_Library.IntLib
-ComponentDesignItemID26=IC - SN74AVCH4T245
-ComponentSymbolReference26=IC - SN74AVCH4T245
-ComponentUpdate26=1
-ComponentIsDeviceSheet26=0
-ComponentLibIdentifierKind27=Library Name And Type
-ComponentLibraryIdentifier27=Ovoo_Library.IntLib
-ComponentDesignItemID27=IC - TCA9546APWR
-ComponentSymbolReference27=IC - TCA9546APWR
-ComponentUpdate27=1
-ComponentIsDeviceSheet27=0
-ComponentLibIdentifierKind28=Library Name And Type
-ComponentLibraryIdentifier28=Ovoo_Library.IntLib
-ComponentDesignItemID28=IC - Telit GE910QUAD
-ComponentSymbolReference28=IC - Telit GE910QUAD
-ComponentUpdate28=1
-ComponentIsDeviceSheet28=0
-ComponentLibIdentifierKind29=Library Name And Type
-ComponentLibraryIdentifier29=Ovoo_Library.IntLib
-ComponentDesignItemID29=IC - TLV75533PDBVR
-ComponentSymbolReference29=IC - TLV75533PDBVR
-ComponentUpdate29=1
-ComponentIsDeviceSheet29=0
-ComponentLibIdentifierKind30=Library Name And Type
-ComponentLibraryIdentifier30=Ovoo_Library.IntLib
-ComponentDesignItemID30=IC - TPL5111
-ComponentSymbolReference30=IC - TPL5111
-ComponentUpdate30=1
-ComponentIsDeviceSheet30=0
-ComponentLibIdentifierKind31=Library Name And Type
-ComponentLibraryIdentifier31=Ovoo_Library.IntLib
-ComponentDesignItemID31=IC - TPS22917DBVR
-ComponentSymbolReference31=IC - TPS22917DBVR
-ComponentUpdate31=1
-ComponentIsDeviceSheet31=0
-ComponentLibIdentifierKind32=Library Name And Type
-ComponentLibraryIdentifier32=Ovoo_Library.IntLib
-ComponentDesignItemID32=IC - TPS63802DLAT
-ComponentSymbolReference32=IC - TPS63802DLAT
-ComponentUpdate32=1
-ComponentIsDeviceSheet32=0
-ComponentLibIdentifierKind33=Library Name And Type
-ComponentLibraryIdentifier33=Ovoo_Library.IntLib
-ComponentDesignItemID33=IC - TXS0108EPW
-ComponentSymbolReference33=IC - TXS0108EPW
-ComponentUpdate33=1
-ComponentIsDeviceSheet33=0
-ComponentLibIdentifierKind34=Library Name And Type
-ComponentLibraryIdentifier34=Ovoo_Library.IntLib
-ComponentDesignItemID34=Inductor - 1nH [0402]
-ComponentSymbolReference34=Inductor - 1nH [0402]
-ComponentUpdate34=1
-ComponentIsDeviceSheet34=0
-ComponentLibIdentifierKind35=Library Name And Type
-ComponentLibraryIdentifier35=Ovoo_Library.IntLib
-ComponentDesignItemID35=Inductor - 470 nH [SMD]
-ComponentSymbolReference35=Inductor - 470 nH [SMD]
-ComponentUpdate35=1
-ComponentIsDeviceSheet35=0
-ComponentLibIdentifierKind36=Library Name And Type
-ComponentLibraryIdentifier36=Ovoo_Library.IntLib
-ComponentDesignItemID36=PCB - Test Point
-ComponentSymbolReference36=PCB - Test Point
-ComponentUpdate36=1
-ComponentIsDeviceSheet36=0
-ComponentLibIdentifierKind37=Library Name And Type
-ComponentLibraryIdentifier37=Ovoo_Library.IntLib
-ComponentDesignItemID37=Resistor - 0R
-ComponentSymbolReference37=Resistor - 0R
-ComponentUpdate37=1
-ComponentIsDeviceSheet37=0
-ComponentLibIdentifierKind38=Library Name And Type
-ComponentLibraryIdentifier38=Ovoo_Library.IntLib
-ComponentDesignItemID38=Resistor - 100K
-ComponentSymbolReference38=Resistor - 100K
-ComponentUpdate38=1
-ComponentIsDeviceSheet38=0
-ComponentLibIdentifierKind39=Library Name And Type
-ComponentLibraryIdentifier39=Ovoo_Library.IntLib
-ComponentDesignItemID39=Resistor - 10K
-ComponentSymbolReference39=Resistor - 10K
-ComponentUpdate39=1
-ComponentIsDeviceSheet39=0
-ComponentLibIdentifierKind40=Library Name And Type
-ComponentLibraryIdentifier40=Ovoo_Library.IntLib
-ComponentDesignItemID40=Resistor - 22R
-ComponentSymbolReference40=Resistor - 22R
-ComponentUpdate40=1
-ComponentIsDeviceSheet40=0
-ComponentLibIdentifierKind41=Library Name And Type
-ComponentLibraryIdentifier41=Ovoo_Library.IntLib
-ComponentDesignItemID41=Resistor - 249K
-ComponentSymbolReference41=Resistor - 249K
-ComponentUpdate41=1
-ComponentIsDeviceSheet41=0
-ComponentLibIdentifierKind42=Library Name And Type
-ComponentLibraryIdentifier42=Ovoo_Library.IntLib
-ComponentDesignItemID42=Resistor - 330R
-ComponentSymbolReference42=Resistor - 330R
-ComponentUpdate42=1
-ComponentIsDeviceSheet42=0
-ComponentLibIdentifierKind43=Library Name And Type
-ComponentLibraryIdentifier43=Ovoo_Library.IntLib
-ComponentDesignItemID43=Resistor - 47K
-ComponentSymbolReference43=Resistor - 47K
-ComponentUpdate43=1
-ComponentIsDeviceSheet43=0
-ComponentLibIdentifierKind44=Library Name And Type
-ComponentLibraryIdentifier44=Ovoo_Library.IntLib
-ComponentDesignItemID44=Resistor - 4K7
-ComponentSymbolReference44=Resistor - 4K7
-ComponentUpdate44=1
-ComponentIsDeviceSheet44=0
-ComponentLibIdentifierKind45=Library Name And Type
-ComponentLibraryIdentifier45=Ovoo_Library.IntLib
-ComponentDesignItemID45=Resistor - 604K
-ComponentSymbolReference45=Resistor - 604K
-ComponentUpdate45=1
-ComponentIsDeviceSheet45=0
-ComponentLibIdentifierKind46=Library Name And Type
-ComponentLibraryIdentifier46=Ovoo_Library.IntLib
-ComponentDesignItemID46=Resistor - 64R9
-ComponentSymbolReference46=Resistor - 64R9
-ComponentUpdate46=1
-ComponentIsDeviceSheet46=0
-ComponentLibIdentifierKind47=Library Name And Type
-ComponentLibraryIdentifier47=Ovoo_Library.IntLib
-ComponentDesignItemID47=Resistor - 806K
-ComponentSymbolReference47=Resistor - 806K
-ComponentUpdate47=1
-ComponentIsDeviceSheet47=0
-ComponentLibIdentifierKind48=Library Name And Type
-ComponentLibraryIdentifier48=Ovoo_Library.IntLib
-ComponentDesignItemID48=Resistor - 91K
-ComponentSymbolReference48=Resistor - 91K
-ComponentUpdate48=1
-ComponentIsDeviceSheet48=0
-ComponentLibIdentifierKind49=Library Name And Type
-ComponentLibraryIdentifier49=Ovoo_Library.IntLib
-ComponentDesignItemID49=Transistor - BC807
-ComponentSymbolReference49=Transistor - BC807
-ComponentUpdate49=1
-ComponentIsDeviceSheet49=0
-ComponentLibIdentifierKind50=Library Name And Type
-ComponentLibraryIdentifier50=Ovoo_Library.IntLib
-ComponentDesignItemID50=Transistor - BC847
-ComponentSymbolReference50=Transistor - BC847
-ComponentUpdate50=1
-ComponentIsDeviceSheet50=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -3079,243 +2921,19 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Card Type
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Case
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Color
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Comment
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=Component Kind
-ParameterUpdate4=1
-ParameterName5=ComponentLink1Description
-ParameterUpdate5=1
-ParameterName6=ComponentLink1URL
-ParameterUpdate6=1
-ParameterName7=ComponentLink2Description
-ParameterUpdate7=1
-ParameterName8=ComponentLink2URL
-ParameterUpdate8=1
-ParameterName9=ComponentLink3Description
-ParameterUpdate9=1
-ParameterName10=ComponentLink3URL
-ParameterUpdate10=1
-ParameterName11=Datasheet Link
-ParameterUpdate11=1
-ParameterName12=Description
-ParameterUpdate12=1
-ParameterName13=Device Type
-ParameterUpdate13=1
-ParameterName14=Dielectric
-ParameterUpdate14=1
-ParameterName15=Dropout Voltage - Max
-ParameterUpdate15=1
-ParameterName16=ESR
-ParameterUpdate16=1
-ParameterName17=Frequency
-ParameterUpdate17=1
-ParameterName18=Frequency Stability
-ParameterUpdate18=1
-ParameterName19=Height
-ParameterUpdate19=1
-ParameterName20=Impedance
-ParameterUpdate20=1
-ParameterName21=Leakage Current
-ParameterUpdate21=1
-ParameterName22=Library Reference
-ParameterUpdate22=1
-ParameterName23=Manufacturer _Part_Number
-ParameterUpdate23=1
-ParameterName24=Manufacturer Name
-ParameterUpdate24=1
-ParameterName25=Manufacturer Part Number
-ParameterUpdate25=1
-ParameterName26=Manufacturer_Name
-ParameterUpdate26=1
-ParameterName27=Manufacturer_Part_Number
-ParameterUpdate27=1
-ParameterName28=Maximum DC Current
-ParameterUpdate28=1
-ParameterName29=Maximum DC Resistance
-ParameterUpdate29=1
-ParameterName30=Maximum Operating Temperature
-ParameterUpdate30=1
-ParameterName31=Minimum Operating Temperature
-ParameterUpdate31=1
-ParameterName32=Mouser Part Number
-ParameterUpdate32=1
-ParameterName33=Mouser Price/Stock
-ParameterUpdate33=1
-ParameterName34=Mouser_Part_Number
-ParameterUpdate34=1
-ParameterName35=Operating Supply Voltage
-ParameterUpdate35=1
-ParameterName36=Output Current
-ParameterUpdate36=1
-ParameterName37=Output Voltage
-ParameterUpdate37=1
-ParameterName38=Pitch
-ParameterUpdate38=1
-ParameterName39=Polarity
-ParameterUpdate39=1
-ParameterName40=Position
-ParameterUpdate40=1
-ParameterName41=ROHS
-ParameterUpdate41=1
-ParameterName42=Row
-ParameterUpdate42=1
-ParameterName43=Sound Level
-ParameterUpdate43=1
-ParameterName44=Supplier
-ParameterUpdate44=1
-ParameterName45=Supplier 1
-ParameterUpdate45=1
-ParameterName46=Supplier 10
-ParameterUpdate46=1
-ParameterName47=Supplier 2
-ParameterUpdate47=1
-ParameterName48=Supplier 3
-ParameterUpdate48=1
-ParameterName49=Supplier 4
-ParameterUpdate49=1
-ParameterName50=Supplier 5
-ParameterUpdate50=1
-ParameterName51=Supplier 6
-ParameterUpdate51=1
-ParameterName52=Supplier 7
-ParameterUpdate52=1
-ParameterName53=Supplier 8
-ParameterUpdate53=1
-ParameterName54=Supplier 9
-ParameterUpdate54=1
-ParameterName55=Supplier Part Number 1
-ParameterUpdate55=1
-ParameterName56=Supplier Part Number 10
-ParameterUpdate56=1
-ParameterName57=Supplier Part Number 2
-ParameterUpdate57=1
-ParameterName58=Supplier Part Number 3
-ParameterUpdate58=1
-ParameterName59=Supplier Part Number 4
-ParameterUpdate59=1
-ParameterName60=Supplier Part Number 5
-ParameterUpdate60=1
-ParameterName61=Supplier Part Number 6
-ParameterUpdate61=1
-ParameterName62=Supplier Part Number 7
-ParameterUpdate62=1
-ParameterName63=Supplier Part Number 8
-ParameterUpdate63=1
-ParameterName64=Supplier Part Number 9
-ParameterUpdate64=1
-ParameterName65=Supply Voltage - Max
-ParameterUpdate65=1
-ParameterName66=Supply Voltage - Min
-ParameterUpdate66=1
-ParameterName67=Tolerance
-ParameterUpdate67=1
-ParameterName68=Value
-ParameterUpdate68=1
-ParameterName69=Voltage
-ParameterUpdate69=1
-ParameterName70=Weight
-ParameterUpdate70=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=ABRACON_CRYSTAL
+ModelName0=MFF2
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=CAPACITOR_0402
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=CAPACITOR_0603 - TANTALUM
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=CAPACITOR_CAN-B6
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=Connector - SD Module
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=Connector_IPEX
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=DFN-8
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=GE910 2G GSM Modem
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=INDUCATOR_0603
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=INDUCTOR_0402
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=INDUCTOR_XFL4015
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=LED_0402
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=MFF2
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=Murata Piezzo Buzzer
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=QFN2020-12
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=RESISTOR_0402
-ModelUpdate15=1
-ModelType16=PCBLIB
-ModelName16=RV-3028-C7
-ModelUpdate16=1
-ModelType17=PCBLIB
-ModelName17=SAMTEC-FTSH-130-01-X-DV
-ModelUpdate17=1
-ModelType18=PCBLIB
-ModelName18=SOIC-8
-ModelUpdate18=1
-ModelType19=PCBLIB
-ModelName19=SOT1215
-ModelUpdate19=1
-ModelType20=PCBLIB
-ModelName20=SOT-23-5
-ModelUpdate20=1
-ModelType21=PCBLIB
-ModelName21=SOT-23-6
-ModelUpdate21=1
-ModelType22=PCBLIB
-ModelName22=Test_Pad - Hole
-ModelUpdate22=1
-ModelType23=PCBLIB
-ModelName23=Test_Point
-ModelUpdate23=1
-ModelType24=PCBLIB
-ModelName24=TQFP100
-ModelUpdate24=1
-ModelType25=PCBLIB
-ModelName25=TQFP32
-ModelUpdate25=1
-ModelType26=PCBLIB
-ModelName26=TSSOP-16
-ModelUpdate26=1
-ModelType27=PCBLIB
-ModelName27=TSSOP-20
-ModelUpdate27=1
-ModelType28=PCBLIB
-ModelName28=VQFN16
-ModelUpdate28=1
-ModelType29=PCBLIB
-ModelName29=VSON-10
-ModelUpdate29=1
-ModelType30=PCBLIB
-ModelName30=Wurth_0606
-ModelUpdate30=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

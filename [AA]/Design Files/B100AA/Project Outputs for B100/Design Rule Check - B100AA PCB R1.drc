@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Altium Projects\B100\[AA]\Design Files\B100AA\B100AA PCB R1.PcbDoc
-Date     : 27.01.2021
-Time     : 18:34:37
+Date     : 28.01.2021
+Time     : 10:34:33
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
@@ -10,19 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net SIGNAL_RTC_INTERUPT Between Pad C113-2(14.57mm,21.905mm) on Bottom Layer And Pad U17-2(52.6mm,20.45mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_3V3_PMON Between Via (33.38mm,30mm) from Top Layer to Mid Layer 1 And Pad C181-2(65.43mm,34.605mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Via (42.5mm,16.735mm) from Mid Layer 4 to Bottom Layer And Pad C60-2(43mm,16.735mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_COM_EN Between Pad R13-1(62.57mm,1.75mm) on Top Layer And Pad U8-14(71.75mm,1.275mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_COM_EN Between Pad R13-1(62.57mm,1.75mm) on Top Layer And Via (65mm,29.525mm) from Mid Layer 1 to Mid Layer 4 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_POWER_EN Between Via (65mm,28.255mm) from Mid Layer 1 to Mid Layer 4 And Pad R2-2(77.45mm,17.017mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_FOTA_POWER_EN Between Via (22.3mm,4.987mm) from Mid Layer 4 to Bottom Layer And Pad R28-2(39mm,16.735mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net MASTER_RESET Between Via (25mm,15.7mm) from Mid Layer 4 to Bottom Layer And Pad U13-9(40.1mm,8.275mm) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_IOT_3V3.SIGNAL_IOT_COM_EN Between Pad U6-15(48.25mm,1.275mm) on Top Layer [Unplated] And Pad U7-14(59.75mm,1.275mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net VMCU Between Pad U9-1(42mm,16.9mm) on Bottom Layer [Unplated] And Via (42.5mm,16.735mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_sD_MUX_DIRECTION Between Track (21.307mm,4.5mm)(21.328mm,4.478mm) on Bottom Layer And Via (44.95mm,15.275mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net SIGNAL_FOTA_POWER_DONE Between Track (39.95mm,19.265mm)(40.1mm,19.115mm) on Bottom Layer And Via (57.3mm,6.15mm) from Mid Layer 4 to Bottom Layer 
-Rule Violations :12
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -55,17 +43,13 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.08mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (55.524mm,28.885mm) on Bottom Overlay And Pad U5-1(54mm,27mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.2mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (39mm,34.905mm)(41.475mm,34.905mm) on Bottom Layer 
-   Violation between Net Antennae: Via (41.05mm,8.275mm) from Mid Layer 4 to Bottom Layer 
-   Violation between Net Antennae: Via (44.95mm,15.275mm) from Mid Layer 4 to Bottom Layer 
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
 Rule Violations :0
@@ -74,6 +58,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25mm) (Prefered=12.5mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 16
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:05
