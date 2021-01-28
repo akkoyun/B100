@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : PCB Document [B100AA PCB R1.PcbDoc]
+   Generated File[B100AA PCB R1.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 00:23:55 On 29.01.2021
