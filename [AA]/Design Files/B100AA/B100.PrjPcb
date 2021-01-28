@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for B100
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -37,25 +37,30 @@ IncludeDesignInRelease=0
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[Release]
+ReleaseTarget=1
+ReleaseFolderPath=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\Release
+ReleaseZipPath=[OutputPath][ProjectName].zip
+
 [Document1]
-DocumentPath=Schematics\Power Source.SchDoc
+DocumentPath=Output\Fabrication.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PNDWDZAH
+DocumentUniqueId=
 
 [Document2]
-DocumentPath=BOM List.BomDoc
+DocumentPath=Output\Documentation.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,6 +77,40 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
+DocumentPath=Schematics\Power Source.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PNDWDZAH
+
+[Document4]
+DocumentPath=BOM List.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
 DocumentPath=Schematics\GSM Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +127,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPZHBRJO
 
-[Document4]
+[Document6]
 DocumentPath=Schematics\3V3 LDO Regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +144,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAJXMSUG
 
-[Document5]
+[Document7]
 DocumentPath=Schematics\Main Power Switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +161,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IJVSJTHL
 
-[Document6]
+[Document8]
 DocumentPath=Schematics\GSM IoT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +178,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWNSUNHV
 
-[Document7]
+[Document9]
 DocumentPath=Schematics\GE910QUAD Modem.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +195,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWLAOAMK
 
-[Document8]
+[Document10]
 DocumentPath=Schematics\GE910QUAD Modem.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +212,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document11]
 DocumentPath=Schematics\B100 Block Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +229,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFFMGMAY
 
-[Document10]
+[Document12]
 DocumentPath=Schematics\GSM Signal Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +246,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LHHYKMAR
 
-[Document11]
+[Document13]
 DocumentPath=Schematics\Bidirectional Voltage Translator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +263,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDACCZGK
 
-[Document12]
+[Document14]
 DocumentPath=Schematics\GSM LED Indicators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +280,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SHJECLOT
 
-[Document13]
+[Document15]
 DocumentPath=Schematics\Master MicroController.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +297,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWCRJWQJ
 
-[Document14]
+[Document16]
 DocumentPath=Schematics\Master MicroController LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +314,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DQUBBBMG
 
-[Document15]
+[Document17]
 DocumentPath=Schematics\MicroController.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +331,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZSXUCQWH
 
-[Document16]
+[Document18]
 DocumentPath=Schematics\MicroController Module Output Ports.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +348,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document19]
 DocumentPath=Schematics\Module Output Sockets.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +365,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYDIUNMA
 
-[Document18]
+[Document20]
 DocumentPath=Schematics\FOTA MicroController Power Switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +382,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INSLSUQO
 
-[Document19]
+[Document21]
 DocumentPath=Schematics\FOTA MicroController.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +399,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UJGQWKGV
 
-[Document20]
+[Document22]
 DocumentPath=Schematics\FOTA MicroController.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +416,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document23]
 DocumentPath=Schematics\SD Card.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +433,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHKRGYZS
 
-[Document22]
+[Document24]
 DocumentPath=Schematics\ICSP Burn Buffer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +450,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLKRNDBB
 
-[Document23]
+[Document25]
 DocumentPath=Schematics\ICSP Burn Buffer.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +467,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document26]
 DocumentPath=Schematics\SD Card.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +484,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document27]
 DocumentPath=Schematics\Serial ID EEPROM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +501,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document28]
 DocumentPath=Schematics\EEPROM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +518,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document29]
 DocumentPath=Schematics\Buzzer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +535,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UFXGICOH
 
-[Document28]
+[Document30]
 DocumentPath=Schematics\GSM IoT.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +552,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document31]
 DocumentPath=Schematics\I2C Network.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +569,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBXRGYST
 
-[Document30]
+[Document32]
 DocumentPath=Schematics\Master MicroController Core.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +586,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVWGUDTC
 
-[Document31]
+[Document33]
 DocumentPath=Schematics\Master MicroController Port A.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +603,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CBNIQKMK
 
-[Document32]
+[Document34]
 DocumentPath=Schematics\Master MicroController Port B.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +620,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GTGTOSLJ
 
-[Document33]
+[Document35]
 DocumentPath=Schematics\Master MicroController Port C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +637,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VAHQSZNB
 
-[Document34]
+[Document36]
 DocumentPath=Schematics\Master MicroController Port D.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +654,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOPBEJZE
 
-[Document35]
+[Document37]
 DocumentPath=Schematics\Master MicroController Port E.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +671,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLEHMNBX
 
-[Document36]
+[Document38]
 DocumentPath=Schematics\Master MicroController Port F.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +688,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVKBGRUV
 
-[Document37]
+[Document39]
 DocumentPath=Schematics\Master MicroController Port G.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +705,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJNAWJPJ
 
-[Document38]
+[Document40]
 DocumentPath=Schematics\Master MicroController Port H.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +722,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSGXRAIT
 
-[Document39]
+[Document41]
 DocumentPath=Schematics\Master MicroController Port J.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +739,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCHKIXQF
 
-[Document40]
+[Document42]
 DocumentPath=Schematics\Master MicroController Port K.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +756,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDYMHFSZ
 
-[Document41]
+[Document43]
 DocumentPath=Schematics\Master MicroController Port L.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +773,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QYVGNALN
 
-[Document42]
+[Document44]
 DocumentPath=Schematics\Master MicroController Port J.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +790,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document45]
 DocumentPath=Schematics\Master MicroController Serial Communication Port.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +807,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LHKALNER
 
-[Document44]
+[Document46]
 DocumentPath=Schematics\Master MicroController Serial Communication Port.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +824,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document47]
 DocumentPath=Schematics\Master MicroController Port A.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +841,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document48]
 DocumentPath=Schematics\Master MicroController Port C.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +858,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document49]
 DocumentPath=Schematics\Master MicroController Port F.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +875,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document50]
 DocumentPath=Schematics\Master MicroController Port K.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,7 +892,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document51]
 DocumentPath=Schematics\Master MicroController Port L.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -870,7 +909,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document52]
 DocumentPath=Schematics\Master MicroController Core.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -887,7 +926,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document53]
 DocumentPath=Schematics\Master MicroController Port H.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -904,24 +943,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
-DocumentPath=PDF Export.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document53]
+[Document54]
 DocumentPath=Schematics\I2C Multiplexer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -938,7 +960,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFQMZPHF
 
-[Document54]
+[Document55]
 DocumentPath=Schematics\I2C Multiplexer.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -955,7 +977,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document56]
 DocumentPath=Schematics\Real Time Clock.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -972,7 +994,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSOXRQXS
 
-[Document56]
+[Document57]
 DocumentPath=Schematics\Serial ID EEPROM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -989,7 +1011,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKEUYMWA
 
-[Document57]
+[Document58]
 DocumentPath=Schematics\EEPROM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1006,7 +1028,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JILZEKUJ
 
-[Document58]
+[Document59]
 DocumentPath=Schematics\Analog Digital Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1023,7 +1045,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCSMWQYF
 
-[Document59]
+[Document60]
 DocumentPath=Schematics\Real Time Clock.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1040,7 +1062,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document61]
 DocumentPath=Schematics\Analog Digital Converter.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1057,7 +1079,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document62]
 DocumentPath=Schematics\Bidirectional Voltage Translator.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,7 +1096,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document63]
 DocumentPath=Schematics\Filter Capacitors - Port K.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1091,7 +1113,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADFDCMHL
 
-[Document63]
+[Document64]
 DocumentPath=Schematics\Filter Capacitors - Port K.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1108,7 +1130,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document64]
+[Document65]
 DocumentPath=Schematics\Filter Capacitors - Master ICSP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1125,7 +1147,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BGMCPXZM
 
-[Document65]
+[Document66]
 DocumentPath=Schematics\Filter Capacitors - Master ICSP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1142,7 +1164,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document66]
+[Document67]
 DocumentPath=Schematics\Filter Capacitors - Port C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1159,7 +1181,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CABOBYWI
 
-[Document67]
+[Document68]
 DocumentPath=Schematics\Filter Capacitors - Port C.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1176,7 +1198,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document68]
+[Document69]
 DocumentPath=Schematics\Filter Capacitors - Port L.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1193,7 +1215,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCIMMUDA
 
-[Document69]
+[Document70]
 DocumentPath=Schematics\Filter Capacitors - Port L.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1210,7 +1232,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document70]
+[Document71]
 DocumentPath=Schematics\Filter Capacitors - FOTA ICSP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1227,7 +1249,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNJAVMVJ
 
-[Document71]
+[Document72]
 DocumentPath=Schematics\Filter Capacitors - FOTA ICSP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1244,7 +1266,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document72]
+[Document73]
 DocumentPath=Schematics\Filter Capacitors - External SIM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1261,7 +1283,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQWGNATE
 
-[Document73]
+[Document74]
 DocumentPath=Schematics\Filter Capacitors - External SIM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1278,7 +1300,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document74]
+[Document75]
 DocumentPath=Schematics\Filter Capacitors - Signal IoT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1295,7 +1317,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KNQXBJWN
 
-[Document75]
+[Document76]
 DocumentPath=Schematics\Filter Capacitors - Signal IoT.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1312,7 +1334,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document76]
+[Document77]
 DocumentPath=Schematics\Filter Capacitors - Port A.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1329,7 +1351,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMCPUJKR
 
-[Document77]
+[Document78]
 DocumentPath=Schematics\Filter Capacitors - Port A.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1346,7 +1368,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document78]
+[Document79]
 DocumentPath=Schematics\Filter Capacitors - FOTA Digital ICSP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1363,7 +1385,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PRKSDUOO
 
-[Document79]
+[Document80]
 DocumentPath=Schematics\Filter Capacitors - FOTA Digital ICSP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1380,7 +1402,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document80]
+[Document81]
 DocumentPath=Schematics\Filter Capacitors - IoT UART.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1397,7 +1419,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TOOHLTAJ
 
-[Document81]
+[Document82]
 DocumentPath=Schematics\Filter Capacitors - IoT UART.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1414,7 +1436,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document82]
+[Document83]
 DocumentPath=Schematics\Filter Capacitors - Port F.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1431,7 +1453,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOIPLQMV
 
-[Document83]
+[Document84]
 DocumentPath=Schematics\Filter Capacitors - Port F.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1448,7 +1470,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document84]
+[Document85]
 DocumentPath=Schematics\Filter Capacitors - Serial Communication.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1465,7 +1487,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNKUGBMI
 
-[Document85]
+[Document86]
 DocumentPath=Schematics\Filter Capacitors - Serial Communication.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1482,7 +1504,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document86]
+[Document87]
 DocumentPath=Schematics\Filter Capacitors - ADC Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1499,7 +1521,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HCSWPDXR
 
-[Document87]
+[Document88]
 DocumentPath=Schematics\Filter Capacitors - ADC Sensor.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1516,7 +1538,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document88]
+[Document89]
 DocumentPath=Schematics\Filter Capacitors - I2C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1533,7 +1555,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FMMXMOBD
 
-[Document89]
+[Document90]
 DocumentPath=Schematics\Filter Capacitors - I2C.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1550,7 +1572,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document90]
+[Document91]
 DocumentPath=Schematics\3V8 Buck Boost Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1567,7 +1589,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YJBVQTUO
 
-[Document91]
+[Document92]
 DocumentPath=Schematics\5V Buck Boost Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1584,7 +1606,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QIJYMJOL
 
-[Document92]
+[Document93]
 DocumentPath=B100AA PCB R1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1601,7 +1623,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCILGKRF
 
-[Document93]
+[Document94]
 DocumentPath=B100AA PCB R1.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1885,147 +1907,347 @@ Variation147=Designator=R57|UniqueId=\IKIEZWXB\JIXRDJPI\YNEWRFWZ|Kind=1|Alternat
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Output\Fabrication\Test Points\Assembly Testpoint Report for B100AA PCB R1.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Output\Fabrication\NC Drill\B100AA PCB R1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\eda\data
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for B100\Design Rule Check - B100AA PCB R1.html
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.G1
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.G2
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill1\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill2\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill3\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill4\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill5\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\mid_layer_1\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\mid_layer_2\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GM8
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\mid_layer_3\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\mid_layer_4\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\matrix\matrix
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\profile
+DocumentPath=Output\Fabrication\NC Drill\B100AA PCB R1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\SimulationDummy.REP
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\user\SimulationDummy.RUL
+DocumentPath=Output\Fabrication\ODB\B100AA PCB R1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\stephdr
+DocumentPath=Output\Fabrication\Gerber\B100AA PCB R1.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill1\tools
+DocumentPath=Output\Fabrication\NC Drill\B100AA PCB R1.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill2\tools
+DocumentPath=Output\Fabrication\NC Drill\B100AA PCB R1.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill3\tools
+DocumentPath=Output\Fabrication\NC Drill\B100AA PCB R1.TX4
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill4\tools
+DocumentPath=Output\Fabrication\NC Drill\B100AA PCB R1.TX6
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill5\tools
+DocumentPath=Output\Fabrication\NC Drill\B100AA PCB R1.TX10
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=PDNAnalyzer_Output\B100AA PCB R1\ODBTemp\odb\steps\pcb\layers\drill\tools
+DocumentPath=Output\Fabrication\NC Drill\B100AA PCB R1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Output\Documentation\Export PARASOLID\B100AA PCB R1.x_t
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Output\Documentation\Report Board Stack\B100AA PCB R1.xls
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Output\Fabrication\Report Board Stack\B100AA PCB R1.xls
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Output\Documentation\Bill of Materials\Bill of Materials-B100.csv
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for B100\Design Rule Check - B100AA PCB R1.html
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\bottom_3d_body\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\bottom_assembly\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\bottom_courtyard\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill1\features
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill2\features
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill3\features
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill4\features
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill5\features
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\mechanical_13\features
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\mechanical_15\features
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\mid_layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\mid_layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\mid_layer_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\mid_layer_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\top_3d_body\features
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\top_assembly\features
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\top_courtyard\features
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Output\Fabrication\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Output\Fabrication\Pick Place\Pick Place for B100AA PCB R1.txt
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=..\..\..\..\..\Users\MEHMET~1\AppData\Local\Temp\ProA503.xls
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill1\tools
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill2\tools
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill3\tools
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill4\tools
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill5\tools
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Parameter1]
@@ -2078,12 +2300,73 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=0
+OutputJobsCount=2
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Fabrication.OutJob
+DocumentReferenceClass2=DocumentReference
+OutputJobFileName2=Documentation.OutJob
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+LocalReleaseTarget=B100AA R4
+
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=2
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Fabrication.OutJob
+DocumentReferenceClass2=DocumentReference
+OutputJobFileName2=Documentation.OutJob
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly Prototype
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=Prototype
+OutputJobsCount=2
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Fabrication.OutJob
+DocumentReferenceClass2=DocumentReference
+OutputJobFileName2=Documentation.OutJob
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Configuration4]
+Name=Assembly Bulk Production
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=Bulk Production
+OutputJobsCount=2
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Fabrication.OutJob
+DocumentReferenceClass2=DocumentReference
+OutputJobFileName2=Documentation.OutJob
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Configuration5]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=2
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Fabrication.OutJob
+DocumentReferenceClass2=DocumentReference
+OutputJobFileName2=Documentation.OutJob
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for B100
 
 [OutputGroup1]
 Name=Netlist Outputs
