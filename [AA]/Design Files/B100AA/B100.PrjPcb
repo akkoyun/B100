@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for B100
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -2055,198 +2055,182 @@ DocumentPath=Output\Documentation\Export PARASOLID\B100AA PCB R1.x_t
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Output\Documentation\Report Board Stack\B100AA PCB R1.xls
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Output\Fabrication\Report Board Stack\B100AA PCB R1.xls
-DItemRevisionGUID=
-
-[GeneratedDocument40]
 DocumentPath=Output\Documentation\Bill of Materials\Bill of Materials-B100.csv
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument39]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument40]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument41]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument44]
-DocumentPath=Project Outputs for B100\Design Rule Check - B100AA PCB R1.html
-DItemRevisionGUID=
-
-[GeneratedDocument45]
+[GeneratedDocument42]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\board\features
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument43]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\bottom_3d_body\features
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument44]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\bottom_assembly\features
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument45]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\bottom_courtyard\features
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument46]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument47]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument48]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument49]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument50]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument51]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument52]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill1\features
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument53]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill2\features
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument54]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill3\features
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument55]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill4\features
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument56]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill5\features
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument57]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument58]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument62]
+[GeneratedDocument59]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\mechanical_13\features
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument60]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\mechanical_15\features
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument61]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\mid_layer_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument62]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\mid_layer_2\features
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument63]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\mid_layer_3\features
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument64]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\mid_layer_4\features
 DItemRevisionGUID=
 
-[GeneratedDocument68]
+[GeneratedDocument65]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\top_3d_body\features
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument66]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\top_assembly\features
 DItemRevisionGUID=
 
-[GeneratedDocument70]
+[GeneratedDocument67]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\top_courtyard\features
 DItemRevisionGUID=
 
-[GeneratedDocument71]
+[GeneratedDocument68]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument72]
+[GeneratedDocument69]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument73]
+[GeneratedDocument70]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument74]
+[GeneratedDocument71]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument75]
+[GeneratedDocument72]
 DocumentPath=Output\Fabrication\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument76]
+[GeneratedDocument73]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument77]
+[GeneratedDocument74]
 DocumentPath=Output\Fabrication\Pick Place\Pick Place for B100AA PCB R1.txt
 DItemRevisionGUID=
 
-[GeneratedDocument78]
-DocumentPath=..\..\..\..\..\Users\MEHMET~1\AppData\Local\Temp\ProA503.xls
-DItemRevisionGUID=
-
-[GeneratedDocument79]
+[GeneratedDocument75]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument80]
+[GeneratedDocument76]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument81]
+[GeneratedDocument77]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill1\tools
 DItemRevisionGUID=
 
-[GeneratedDocument82]
+[GeneratedDocument78]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill2\tools
 DItemRevisionGUID=
 
-[GeneratedDocument83]
+[GeneratedDocument79]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill3\tools
 DItemRevisionGUID=
 
-[GeneratedDocument84]
+[GeneratedDocument80]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill4\tools
 DItemRevisionGUID=
 
-[GeneratedDocument85]
+[GeneratedDocument81]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill5\tools
 DItemRevisionGUID=
 
-[GeneratedDocument86]
+[GeneratedDocument82]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -2366,7 +2350,7 @@ ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
 
 [Generic_EDE]
-OutputDir=Project Outputs for B100
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

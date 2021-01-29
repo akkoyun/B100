@@ -1,2258 +1,0 @@
-<!DOCTYPE html>
-<html>	<head>		<style type="text/css">				body				{					font-family : segoe ui;				}		</style>		
-		<link rel="stylesheet" type="text/css" href="css/style.css">
-
-		<script type="text/javascript" src="js/jquery-latest.js"></script> 
-
-		<script type="text/javascript" src="js/jquery.tablesorter.js"></script> 						<script>			function OpenFolder(path)			{				window.open('file:///' + path, 'explorer');			}		</script>		<script>			function onPageLoaded()			{				makeStripy("simpletable");				makeStripy("tablesorter");							var acc = document.getElementsByClassName("foldButton");				var i;								for (i = 0; i < acc.length; i++)				{					acc[i].onclick = function()					{						this.classList.toggle("active");						var foldablePanel = this.nextElementSibling;												if (foldablePanel.style.maxHeight)						{							foldablePanel.style.maxHeight = null;						} 						else 						{							foldablePanel.style.maxHeight = foldablePanel.scrollHeight + "px";						}					}				}			}		</script> 				<script>			function makeStripy(tabClass) 			{			   var tabs = document.getElementsByTagName("table");			   for (var e = 0; e < tabs.length; e++) 				  if (tabs[e].className == tabClass) 				  {					 var rows = tabs[e].getElementsByTagName("tr");					 for (var i = 1; i < rows.length; i++)					 {						if ((i % 2) == 0)						{							rows[i].className = "onmouseout_odd";							rows[i].onmouseover = function() { this.className = 'onmouseover_odd' };							rows[i].onmouseout = function() { this.className = 'onmouseout_odd' };						}						else						{							rows[i].className = "onmouseout_even";							rows[i].onmouseover = function() { this.className = 'onmouseover_even' };							rows[i].onmouseout = function() { this.className = 'onmouseout_even' };						}					 }				  }			}		</script> 				<script>			function UnfoldFolded(foldedChild)			{				if (!foldedChild) return;				var el = document.getElementById(foldedChild);				if (!el)				{					window.alert("Report section omitted");					return;				}								while ((el = el.parentNode) && (!el) && el.className.indexOf('foldablePanel') < 0);								if (!el)				{					//window.alert("Report section omitted");					return;				}								el.style.maxHeight = el.scrollHeight + "px";				var minHeightCached = el.style.minHeight;				el.style.minHeight = el.style.maxHeight;								var trCached = el.style.transition;								el.style.transition = "max-height 0.0s ease-out";								el.scrollIntoView();								el.style.minHeight = minHeightCached;				el.style.transition = trCached;			}		</script>
-	</head>
-
-	<body>						<!--Title-->		<table align="center" border="0" cellspacing="2" cellpadding="2" width="90%">			<tr> <td> </br> </td> </tr>						<tr align = "left">				<td>					<left><img src="art\AD_logo.png" title="Altium" style="max-width:99%;max-height:99%;"></left>				</td>			</tr>		</table>		<table align="center" border="1" cellspacing="2" cellpadding="2" width="90%">						<tr>				<td>					<center> PDN Analyzer Results Report for <br/><b>B100AA PCB R1</b> </center>					<br/>				</td>			</tr>									<!--Head-->			<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_header"></H2>			<tr align = "left">				<td>					<br/>					<left> <b> PDN Analyzer Version: </b>2.0.6.338</left><br/>					<left> <b> Report Time / Date: </b>28.01.2021 15:12:11</left><br/>					<left> <b> Project Name: </b>B100AA PCB R1</left><br/>					<left> <b> Project Path: </b><a href="#" onclick="OpenFolder('C:\\Altium Projects\\B100\\[AA]\\Design Files\\B100AA')">C:\Altium Projects\B100\[AA]\Design Files\B100AA\B100AA PCB R1.PcbDoc</a></left><br/>					<left> <b> PCB Design Name: </b>B100AA PCB R1.PcbDoc</left><br/>					<left> <b> PDN Analyzer Configuration File: </b><a href="#" onclick="OpenFolder('C:\\Altium Projects\\B100\\[AA]\\Design Files\\B100AA\\PDNAnalyzer_Output\\B100AA PCB R1\\B100AA\\HTMLReport\\B100AA_2021-01-28_15.12')">C:\Altium Projects\B100\[AA]\Design Files\B100AA\PDNAnalyzer_Output\B100AA PCB R1\B100AA\HTMLReport\B100AA_2021-01-28_15.12\B100AA.pdna</a></left><br/>					<left> <b></b></left><br/>					<br/>				</td>			</tr>			<tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr>						<!--Design Stackup-->			<tr>				<td>					<br/>					<button class="foldButton" width="100%"><b>Design Stackup</b></button>					<div class="foldablePanel">						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_layerstack"></H2>						<br/>													<!--LayerStackupTableID-->						<!--DesignStackup-->						<table id='LayerStackupTableID' class='simpletable'>
-    <thead>
-       <th><b>Layer Name</b></th>
-              <th><b>Layer Name</b></th>
-              <th><b>Material</b></th>
-              <th><b>Thickness (mm)</b></th>
-              <th><b>Dielectric Material</b></th>
-              <th><b>Dielectric Constant</b></th>
-              <th><b>Pullback (mm)</b></th>
-              <th><b>Orientation</b></th>
-          </thead>
-      <tr>
-       <td><b>Top Overlay</b></td>
-              <td>Overlay</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>Top</td>
-          </tr>
-      <tr>
-       <td><b>Top Solder</b></td>
-              <td>Solder Mask</td>
-              <td>Surface Material</td>
-              <td>0.013</td>
-              <td>Solder Resist</td>
-              <td>3,8</td>
-              <td></td>
-              <td>Top</td>
-          </tr>
-      <tr>
-       <td><b>Top Layer</b></td>
-              <td>Signal</td>
-              <td>Copper</td>
-              <td>0.035</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>Top</td>
-          </tr>
-      <tr>
-       <td><b>Dielectric 1</b></td>
-              <td>Dielectric</td>
-              <td>Prepreg</td>
-              <td>0.1</td>
-              <td>2313</td>
-              <td>4,05</td>
-              <td></td>
-              <td></td>
-          </tr>
-      <tr>
-       <td><b>Mid Layer 1</b></td>
-              <td>Signal</td>
-              <td>Copper</td>
-              <td>0.018</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-          </tr>
-      <tr>
-       <td><b>Core 1</b></td>
-              <td>Dielectric</td>
-              <td>Core</td>
-              <td>0.565</td>
-              <td>FR-4</td>
-              <td>4,5</td>
-              <td></td>
-              <td></td>
-          </tr>
-      <tr>
-       <td><b>Mid Layer 2</b></td>
-              <td>Signal</td>
-              <td>Copper</td>
-              <td>0.018</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-          </tr>
-      <tr>
-       <td><b>Dielectric 2</b></td>
-              <td>Dielectric</td>
-              <td>Prepreg</td>
-              <td>0.127</td>
-              <td>2116</td>
-              <td>4,25</td>
-              <td></td>
-              <td></td>
-          </tr>
-      <tr>
-       <td><b>Mid Layer 3</b></td>
-              <td>Signal</td>
-              <td>Copper</td>
-              <td>0.018</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-          </tr>
-      <tr>
-       <td><b>Core 2</b></td>
-              <td>Dielectric</td>
-              <td>Core</td>
-              <td>0.565</td>
-              <td>FR-4</td>
-              <td>4,5</td>
-              <td></td>
-              <td></td>
-          </tr>
-      <tr>
-       <td><b>Mid Layer 4</b></td>
-              <td>Signal</td>
-              <td>Copper</td>
-              <td>0.018</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-          </tr>
-      <tr>
-       <td><b>Dielectric 3</b></td>
-              <td>Dielectric</td>
-              <td>Prepreg</td>
-              <td>0.1</td>
-              <td>2313</td>
-              <td>4,05</td>
-              <td></td>
-              <td></td>
-          </tr>
-      <tr>
-       <td><b>Bottom Layer</b></td>
-              <td>Signal</td>
-              <td>Copper</td>
-              <td>0.035</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>Bottom</td>
-          </tr>
-      <tr>
-       <td><b>Bottom Solder</b></td>
-              <td>Solder Mask</td>
-              <td>Surface Material</td>
-              <td>0.013</td>
-              <td>Solder Resist</td>
-              <td>3,8</td>
-              <td></td>
-              <td>Bottom</td>
-          </tr>
-      <tr>
-       <td><b>Bottom Overlay</b></td>
-              <td>Overlay</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>Bottom</td>
-          </tr>
-   </table><br/>
-					</div>				</td>			</tr>			<tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr>						<!--signature96t0879g09870gj0m_ReportSignature_Artwork by Layer Start-->			<tr>				<td>					<br/>						<button class="foldButton" width="100%"><b>Artwork by Layer</b></button>						<div class="foldablePanel">							<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_artworkbylayer_head"></H2>							<br/>																					<!--signature96t0879g09870gj0m_ReportSignature_ArtworkByLayerStackLineStart-->							<br/>								<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_artworkbylayer_layer45OmcbgorVSQXzodVA7BZA"></H2>								<center><b>Layer: </b>Top Layer</center><br/>								<center><img src="Images\001.png" title="Top Layer" style="max-width:99%;max-height:99%;"></center>							<br/>							<!--signature96t0879g09870gj0m_ReportSignature_ArtworkByLayerStackLineEnd--><!--signature96t0879g09870gj0m_ReportSignature_ArtworkByLayerStackLineStart-->							<br/>								<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_artworkbylayer_layerTR3ez+/4qBP8g+Z0G1hA1Q"></H2>								<center><b>Layer: </b>Mid Layer 1</center><br/>								<center><img src="Images\002.png" title="Mid Layer 1" style="max-width:99%;max-height:99%;"></center>							<br/>							<!--signature96t0879g09870gj0m_ReportSignature_ArtworkByLayerStackLineEnd--><!--signature96t0879g09870gj0m_ReportSignature_ArtworkByLayerStackLineStart-->							<br/>								<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_artworkbylayer_layerbAOqKMRQB7f4UEkh4mo/Xw"></H2>								<center><b>Layer: </b>Mid Layer 2</center><br/>								<center><img src="Images\003.png" title="Mid Layer 2" style="max-width:99%;max-height:99%;"></center>							<br/>							<!--signature96t0879g09870gj0m_ReportSignature_ArtworkByLayerStackLineEnd--><!--signature96t0879g09870gj0m_ReportSignature_ArtworkByLayerStackLineStart-->							<br/>								<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_artworkbylayer_layer0vqXdNaSe/NExrd2gSy4GA"></H2>								<center><b>Layer: </b>Mid Layer 3</center><br/>								<center><img src="Images\004.png" title="Mid Layer 3" style="max-width:99%;max-height:99%;"></center>							<br/>							<!--signature96t0879g09870gj0m_ReportSignature_ArtworkByLayerStackLineEnd--><!--signature96t0879g09870gj0m_ReportSignature_ArtworkByLayerStackLineStart-->							<br/>								<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_artworkbylayer_layerCPdThU0zKwjmTJsY9gLI/g"></H2>								<center><b>Layer: </b>Mid Layer 4</center><br/>								<center><img src="Images\005.png" title="Mid Layer 4" style="max-width:99%;max-height:99%;"></center>							<br/>							<!--signature96t0879g09870gj0m_ReportSignature_ArtworkByLayerStackLineEnd--><!--signature96t0879g09870gj0m_ReportSignature_ArtworkByLayerStackLineStart-->							<br/>								<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_artworkbylayer_layer+n3ZsBN7kiGWHQ8cUpszFw"></H2>								<center><b>Layer: </b>Bottom Layer</center><br/>								<center><img src="Images\006.png" title="Bottom Layer" style="max-width:99%;max-height:99%;"></center>							<br/>							<!--signature96t0879g09870gj0m_ReportSignature_ArtworkByLayerStackLineEnd-->						</div>					<br/>				</td>			</tr>			<tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr>			<!--signature96t0879g09870gj0m_ReportSignature_Artwork by Layer End-->						<!--PDN Analizer Global Settings-->			<tr>				<td>					<br/>					<button class="foldButton" width="100%"><b>PDN Analizer Global Settings</b></button>					<div class="foldablePanel">						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_globalsettings"></H2>						<br/>													<!--GlobalSettingsTableID-->						<!--GlobalSettings-->						<table id='GlobalSettingsTableID' class='simpletable'>
-    <thead>
-       <th><b>Parameter</b></th>
-              <th><b>Value</b></th>
-          </thead>
-      <tr>
-       <td><b>Metal conductivity</b></td>
-              <td>47M S/m</td>
-          </tr>
-      <tr>
-       <td><b>Metal base temperature</b></td>
-              <td>3E+01 &deg;C</td>
-          </tr>
-      <tr>
-       <td><b>Metal work temperature</b></td>
-              <td>3E+01 &deg;C</td>
-          </tr>
-      <tr>
-       <td><b>Metal base conductivity</b></td>
-              <td>47M S/m</td>
-          </tr>
-      <tr>
-       <td><b>Metal temperature coefficient</b></td>
-              <td>4E+02m %/&deg;C</td>
-          </tr>
-      <tr>
-       <td><b>Conductor Max Current Density for Surfase Layers</b></td>
-              <td>0 A/mm^2</td>
-          </tr>
-      <tr>
-       <td><b>Conductor Max Current Density for Internal Layers</b></td>
-              <td>0 A/mm^2</td>
-          </tr>
-      <tr>
-       <td><b>Via wall thickness</b></td>
-              <td>17,78 &mu;m</td>
-          </tr>
-      <tr>
-       <td><b>Max Via Current Density</b></td>
-              <td>0 A/mm^2</td>
-          </tr>
-   </table><br/>
-					</div>				</td>			</tr>			<tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr>						<!--signature96t0879g09870gj0m_ReportSignature_System-Level Power Network Results Start-->			<tr>				<td>					<br/>						<button class="foldButton" width="100%"><b>System-Level Power Network Results</b></button>						<div class="foldablePanel">							<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_systemlevelpowernetworkresults_head"></H2>							<br/>														<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_systemlevelpowernetworkresults_diagramm"></H2>							<!--signature96t0879g09870gj0m_ReportSignature_SystemLevelPowerNetworkResults_DiagramStart-->							<center><img 								src="Images\007.png" 								title="System-Level Diagram" 								style="max-width:99%;max-height:99%;"></center>							<br/>							<!--signature96t0879g09870gj0m_ReportSignature_SystemLevelPowerNetworkResults_DiagramEnd-->														<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_systemlevelpowernetworkresults_info"></H2>							<!--Simulation Pass/Fail-->							<left> <b>Simulation Pass/Fail</b> Overall: <font color=#000000>PASS</font></left><br/>							<!--signature96t0879g09870gj0m_ReportSignature_SystemLevelPowerNetworkResults_PassFails_LineStart-->							<left> <b>Feed</b> <A id="id" onclick="UnfoldFolded('signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headBa2hM+MezpZBTRu4x2+Z1w')" href="#signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headBa2hM+MezpZBTRu4x2+Z1w"><font color=#000000>PASS</font></A></left><br/>							<!--signature96t0879g09870gj0m_ReportSignature_SystemLevelPowerNetworkResults_PassFails_LineEnd--><!--signature96t0879g09870gj0m_ReportSignature_SystemLevelPowerNetworkResults_PassFails_LineStart-->							<left> <b>3V8</b> <A id="id" onclick="UnfoldFolded('signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headw5BUV22E3f066wpvEdhGdg')" href="#signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headw5BUV22E3f066wpvEdhGdg"><font color=#000000>PASS</font></A></left><br/>							<!--signature96t0879g09870gj0m_ReportSignature_SystemLevelPowerNetworkResults_PassFails_LineEnd--><!--signature96t0879g09870gj0m_ReportSignature_SystemLevelPowerNetworkResults_PassFails_LineStart-->							<left> <b>5V</b> <A id="id" onclick="UnfoldFolded('signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headvXmFO+Z0qKUmTtj+HbMhgg')" href="#signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headvXmFO+Z0qKUmTtj+HbMhgg"><font color=#000000>PASS</font></A></left><br/>							<!--signature96t0879g09870gj0m_ReportSignature_SystemLevelPowerNetworkResults_PassFails_LineEnd-->							<br/>							<left> <b>Total Power Consumption:</b> 4,27 Watts</left><br/>														<br/>							<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_systemlevelpowernetworkresults_worstmargintable"></H2>							<script type="text/javascript"> $(function() { $("#SystemLevelPowerNetworkResultsWorstMarginsTableID").tablesorter({sortList:[[0,0]]}); }); </script>							<script type="text/javascript"> $(function() { $("#SystemLevelPowerNetworkResultsWorstMarginsInPercentsTableID").tablesorter({sortList:[[0,0]]}); }); </script>							<left><b> Least Margins:</left></b><br/><table id='SystemLevelPowerNetworkResultsWorstMarginsTableID' class='tablesorter'>
-    <thead>
-       <th><b>Margin Type</b></th>
-              <th><b>Absolute</b></th>
-              <th><b>Pass/Fail</b></th>
-              <th><b>Network</b></th>
-              <th><b>ID</b></th>
-          </thead>
-      <tr>
-       <td><b>Voltage Source Current (A)</b></td>
-              <td>1,7</td>
-              <td>PASS</td>
-              <td><A id="id" onclick="UnfoldFolded('signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headw5BUV22E3f066wpvEdhGdg')" href="#signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headw5BUV22E3f066wpvEdhGdg"><b>3V8</b></A></td>
-              <td>Source 1</td>
-          </tr>
-      <tr>
-       <td><b>Series Element Current (A)</b></td>
-              <td>1,7</td>
-              <td>PASS</td>
-              <td><A id="id" onclick="UnfoldFolded('signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headw5BUV22E3f066wpvEdhGdg')" href="#signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headw5BUV22E3f066wpvEdhGdg"><b>3V8</b></A></td>
-              <td>Series 1</td>
-          </tr>
-   </table><br/>
-							<table id='SystemLevelPowerNetworkResultsWorstMarginsInPercentsTableID' class='tablesorter'>
-    <thead>
-       <th><b>Margin Type (%)</b></th>
-              <th><b>Percent</b></th>
-              <th><b>Pass/Fail</b></th>
-              <th><b>Network</b></th>
-              <th><b>ID</b></th>
-          </thead>
-      <tr>
-       <td><b>Voltage Source Current</b></td>
-              <td>85.00%</td>
-              <td>PASS</td>
-              <td><A id="id" onclick="UnfoldFolded('signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headw5BUV22E3f066wpvEdhGdg')" href="#signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headw5BUV22E3f066wpvEdhGdg"><b>3V8</b></A></td>
-              <td>Source 1</td>
-          </tr>
-      <tr>
-       <td><b>Series Element Current</b></td>
-              <td>85.00%</td>
-              <td>PASS</td>
-              <td><A id="id" onclick="UnfoldFolded('signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headw5BUV22E3f066wpvEdhGdg')" href="#signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headw5BUV22E3f066wpvEdhGdg"><b>3V8</b></A></td>
-              <td>Series 1</td>
-          </tr>
-   </table><br/>
-																				</div>					<br/>				</td>			</tr>			<tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr>			<!--signature96t0879g09870gj0m_ReportSignature_System-Level Power Network Results End-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_head"></H2>			<!--signature96t0879g09870gj0m_ReportSignature_Network Details Start-->			<tr>				<td>					<button class="foldButton" width="100%"><b>Network Feed Details</b></button>										<div class="foldablePanel">																		<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headBa2hM+MezpZBTRu4x2+Z1w"></H2>						<br/>											<!--signature96t0879g09870gj0m_ReportSignature_Network Details Diagramm Start-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_diagramm_image"></H2>												<center><img							src="Images\008.png" 							title="Diagramm for Feed network" 							style="max-width:99%;max-height:99%;"></center>						<br/>						<!--signature96t0879g09870gj0m_ReportSignature_Network Details Diagramm End-->						<!--signature96t0879g09870gj0m_ReportSignature_Network Details Image Start-->						<!--<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_imageBa2hM+MezpZBTRu4x2+Z1w"></H2>						<center><img							src="signature96t0879g09870gj0m_ReportSignature_NetworkDetails_ImageFileName" 							title="signature96t0879g09870gj0m_ReportSignature_NetworkDetails_ImageName" 							style="max-width:99%;max-height:99%;"></center>						<br/>-->						<!--signature96t0879g09870gj0m_ReportSignature_Network Details Image End-->												<!--signature96t0879g09870gj0m_ReportSignature_Network Details Info Start-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_infoBa2hM+MezpZBTRu4x2+Z1w"></H2>						<!--Simulation Pass/Fail-->						<left> <b>PDN Analysis Pass/Fail: </b> <font color=#000000>PASS</font></left><br/>						<br/>						<left> <b>Power Consumption for This Network: </b>2,88 Watts</left><br/>						<br/>												<!--signature96t0879g09870gj0m_ReportSignature_NetworkResultsPart Start-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_worstmarginBa2hM+MezpZBTRu4x2+Z1w"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsWorstMarginsTableID_Ba2hM+MezpZBTRu4x2+Z1w").tablesorter({sortList:[[0,0]]}); }); </script>						<script type="text/javascript"> $(function() { $("#NetworkDetailsWorstMarginsInPercents_TableID_Ba2hM+MezpZBTRu4x2+Z1w").tablesorter({sortList:[[0,0]]}); }); </script>																													<!--List of Violations-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_listofviolationsBa2hM+MezpZBTRu4x2+Z1w"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsListOfViolationsTableID_Ba2hM+MezpZBTRu4x2+Z1w").tablesorter({sortList:[[0,0]]}); }); </script>												<!--signature96t0879g09870gj0m_ReportSignature_NetworkResultsPart End-->						<!--signature96t0879g09870gj0m_ReportSignature_DetailedAnalysisResultsPart Start-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_voltagesourceperformancesummaryBa2hM+MezpZBTRu4x2+Z1w"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsVoltageSourcePerformanceSummaryTableID_Ba2hM+MezpZBTRu4x2+Z1w").tablesorter({sortList:[[0,0]]}); }); </script>						<left><b> Voltage Source Performance Summary:</left></b><br/><table id='NetworkDetailsVoltageSourcePerformanceSummaryTableID_Ba2hM+MezpZBTRu4x2+Z1w' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>Source Type</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Pass / Fail</b></th>
-              <th><b>Vout setting (V)</b></th>
-              <th><b>Actual Output Voltage (V)</b></th>
-              <th><b>Max Output Current (A)</b></th>
-              <th><b>Actual Output Current (A)</b></th>
-              <th><b>Margin (A)</b></th>
-              <th><b>Margin (%)</b></th>
-              <th><b>Max Pin Current</b></th>
-              <th><b>Highest Actual (A)</b></th>
-              <th><b>Margin (A)</b></th>
-              <th><b>Margin (%)</b></th>
-              <th><b>Max Power Dissipation (W)</b></th>
-              <th><b>Actual Power Dissipation (W)</b></th>
-              <th><b>Margin (W)</b></th>
-              <th><b>Margin (%)</b></th>
-          </thead>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>Voltage Source</td>
-              <td>J2</td>
-              <td>PASS</td>
-              <td>5</td>
-              <td>4,9992</td>
-              <td>0</td>
-              <td>828,83m</td>
-              <td>&infin;</td>
-              <td>&infin;</td>
-              <td>0</td>
-              <td>414,42m</td>
-              <td>&infin;</td>
-              <td>&infin;</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-          </tr>
-      <tr>
-       <td><b>Source 2</b></td>
-              <td>Voltage Source</td>
-              <td>J3</td>
-              <td>PASS</td>
-              <td>5</td>
-              <td>5</td>
-              <td>0</td>
-              <td>25,203m</td>
-              <td>&infin;</td>
-              <td>&infin;</td>
-              <td>0</td>
-              <td>12,602m</td>
-              <td>&infin;</td>
-              <td>&infin;</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-          </tr>
-   </table><br/>
-						<!--Voltage Source Pin Voltage/Current Details-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_voltagesourcepinvoltagecurrentdetailsBa2hM+MezpZBTRu4x2+Z1w"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsVoltageSourcePinVoltageCurrentDetailsTableID_Ba2hM+MezpZBTRu4x2+Z1w").tablesorter({sortList:[[0,0], [2,0], [4,0]]}); }); </script>						<left><b> Voltage Source Pin Voltage/Current Details:</left></b><br/><table id='NetworkDetailsVoltageSourcePinVoltageCurrentDetailsTableID_Ba2hM+MezpZBTRu4x2+Z1w' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>SourceType</b></th>
-              <th><b>Terminal</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Pin</b></th>
-              <th><b>Max Pin Current (A)</b></th>
-              <th><b>Actual Pin Current (A)</b></th>
-              <th><b>Pass / Fail</b></th>
-              <th><b>Pin Voltage (V)</b></th>
-          </thead>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>Voltage Source</td>
-              <td>Power</td>
-              <td>J2</td>
-              <td>60</td>
-              <td>0</td>
-              <td>414,42m</td>
-              <td>PASS</td>
-              <td>4,9992</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>Voltage Source</td>
-              <td>Power</td>
-              <td>J2</td>
-              <td>1</td>
-              <td>0</td>
-              <td>414,42m</td>
-              <td>PASS</td>
-              <td>4,9992</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>Voltage Source</td>
-              <td>Ground</td>
-              <td>J2</td>
-              <td>30</td>
-              <td>0</td>
-              <td>207,21m</td>
-              <td>PASS</td>
-              <td>0</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>Voltage Source</td>
-              <td>Ground</td>
-              <td>J2</td>
-              <td>58</td>
-              <td>0</td>
-              <td>207,21m</td>
-              <td>PASS</td>
-              <td>0</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>Voltage Source</td>
-              <td>Ground</td>
-              <td>J2</td>
-              <td>4</td>
-              <td>0</td>
-              <td>207,21m</td>
-              <td>PASS</td>
-              <td>0</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>Voltage Source</td>
-              <td>Ground</td>
-              <td>J2</td>
-              <td>31</td>
-              <td>0</td>
-              <td>207,21m</td>
-              <td>PASS</td>
-              <td>0</td>
-          </tr>
-      <tr>
-       <td><b>Source 2</b></td>
-              <td>Voltage Source</td>
-              <td>Power</td>
-              <td>J3</td>
-              <td>60</td>
-              <td>0</td>
-              <td>12,602m</td>
-              <td>PASS</td>
-              <td>5,0003</td>
-          </tr>
-      <tr>
-       <td><b>Source 2</b></td>
-              <td>Voltage Source</td>
-              <td>Power</td>
-              <td>J3</td>
-              <td>1</td>
-              <td>0</td>
-              <td>12,602m</td>
-              <td>PASS</td>
-              <td>5,0003</td>
-          </tr>
-      <tr>
-       <td><b>Source 2</b></td>
-              <td>Voltage Source</td>
-              <td>Ground</td>
-              <td>J3</td>
-              <td>30</td>
-              <td>0</td>
-              <td>6,3007m</td>
-              <td>PASS</td>
-              <td>313,18u</td>
-          </tr>
-      <tr>
-       <td><b>Source 2</b></td>
-              <td>Voltage Source</td>
-              <td>Ground</td>
-              <td>J3</td>
-              <td>58</td>
-              <td>0</td>
-              <td>6,3007m</td>
-              <td>PASS</td>
-              <td>313,18u</td>
-          </tr>
-      <tr>
-       <td><b>Source 2</b></td>
-              <td>Voltage Source</td>
-              <td>Ground</td>
-              <td>J3</td>
-              <td>4</td>
-              <td>0</td>
-              <td>6,3007m</td>
-              <td>PASS</td>
-              <td>313,18u</td>
-          </tr>
-      <tr>
-       <td><b>Source 2</b></td>
-              <td>Voltage Source</td>
-              <td>Ground</td>
-              <td>J3</td>
-              <td>31</td>
-              <td>0</td>
-              <td>6,3007m</td>
-              <td>PASS</td>
-              <td>313,18u</td>
-          </tr>
-   </table><br/>
-						<!--Load Summary-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_loadperformancesummaryBa2hM+MezpZBTRu4x2+Z1w"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsLoadPerformanceSummaryTableID_Ba2hM+MezpZBTRu4x2+Z1w").tablesorter({sortList:[[0,0]]}); }); </script>						<left><b> Load Performance Summary:</left></b><br/><table id='NetworkDetailsLoadPerformanceSummaryTableID_Ba2hM+MezpZBTRu4x2+Z1w' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>Load Type</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Pass / Fail</b></th>
-              <th><b>Load Value</b></th>
-              <th><b>Min Voltage (V)</b></th>
-              <th><b>Max Voltage (V)</b></th>
-              <th><b>Actual Voltage</b></th>
-              <th><b>Margin (V)</b></th>
-              <th><b>Margin (%)</b></th>
-              <th><b>Min Pwr Pin</b></th>
-              <th><b>Voltage (V)</b></th>
-              <th><b>Max Gnd Pin</b></th>
-              <th><b>Voltage (V)</b></th>
-              <th><b>Actual Current (A)</b></th>
-          </thead>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>SMPS_S</td>
-              <td>U21</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>4,9572</td>
-              <td></td>
-              <td></td>
-              <td>U21-10</td>
-              <td>4,9578</td>
-              <td>U21-3</td>
-              <td>558,94u</td>
-              <td>853,93m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>SMPS_S</td>
-              <td>U22</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>4,9835</td>
-              <td></td>
-              <td></td>
-              <td>U22-10</td>
-              <td>4,9836</td>
-              <td>U22-3</td>
-              <td>180,41u</td>
-              <td>100u</td>
-          </tr>
-   </table><br/>
-												<!--Load Pin Voltage/Current Details-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_loadpinvoltagecurrentdetailsBa2hM+MezpZBTRu4x2+Z1w"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsLoadPinVoltageCurrentDetailsTableID_Ba2hM+MezpZBTRu4x2+Z1w").tablesorter({sortList:[[0,0], [2,0], [4,0]]}); }); </script>						<left><b> Load Pin Voltage/Current Details:</left></b><br/><table id='NetworkDetailsLoadPinVoltageCurrentDetailsTableID_Ba2hM+MezpZBTRu4x2+Z1w' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>Load Type</b></th>
-              <th><b>Terminal</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Pin</b></th>
-              <th><b>Pin Voltage (V)</b></th>
-              <th><b>Pin Current (A)</b></th>
-          </thead>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>SMPS_S</td>
-              <td>In+</td>
-              <td>U21</td>
-              <td>10</td>
-              <td>4,9578</td>
-              <td>853,93m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>SMPS_S</td>
-              <td>In-</td>
-              <td>U21</td>
-              <td>3</td>
-              <td>558,94u</td>
-              <td>100m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>SMPS_S</td>
-              <td>In-</td>
-              <td>U21</td>
-              <td>3</td>
-              <td>558,94u</td>
-              <td>284,64m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>SMPS_S</td>
-              <td>In-</td>
-              <td>U21</td>
-              <td>2</td>
-              <td>558,94u</td>
-              <td>100m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>SMPS_S</td>
-              <td>In-</td>
-              <td>U21</td>
-              <td>2</td>
-              <td>558,94u</td>
-              <td>284,64m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>SMPS_S</td>
-              <td>In-</td>
-              <td>U21</td>
-              <td>8</td>
-              <td>558,94u</td>
-              <td>100m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>SMPS_S</td>
-              <td>In-</td>
-              <td>U21</td>
-              <td>8</td>
-              <td>558,94u</td>
-              <td>284,64m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>SMPS_S</td>
-              <td>In+</td>
-              <td>U22</td>
-              <td>10</td>
-              <td>4,9836</td>
-              <td>100u</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>SMPS_S</td>
-              <td>In-</td>
-              <td>U22</td>
-              <td>3</td>
-              <td>180,41u</td>
-              <td>16,668m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>SMPS_S</td>
-              <td>In-</td>
-              <td>U22</td>
-              <td>3</td>
-              <td>180,41u</td>
-              <td>33,333u</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>SMPS_S</td>
-              <td>In-</td>
-              <td>U22</td>
-              <td>2</td>
-              <td>180,41u</td>
-              <td>16,668m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>SMPS_S</td>
-              <td>In-</td>
-              <td>U22</td>
-              <td>2</td>
-              <td>180,41u</td>
-              <td>33,333u</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>SMPS_S</td>
-              <td>In-</td>
-              <td>U22</td>
-              <td>8</td>
-              <td>180,41u</td>
-              <td>16,668m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>SMPS_S</td>
-              <td>In-</td>
-              <td>U22</td>
-              <td>8</td>
-              <td>180,41u</td>
-              <td>33,333u</td>
-          </tr>
-   </table><br/>
-						<!--Series Element Performance Summary-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_serieselementperformancesummaryBa2hM+MezpZBTRu4x2+Z1w"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsSeriesElementPerformanceSummaryTableID_Ba2hM+MezpZBTRu4x2+Z1w").tablesorter({sortList:[[0,0]]}); }); </script>																		<!--Series Element Pin Voltage/Current Details-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_serieselementpinvoltagecurrentdetailsBa2hM+MezpZBTRu4x2+Z1w"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsSeriesElementPinVoltageCurrentDetailsTableID_Ba2hM+MezpZBTRu4x2+Z1w").tablesorter({sortList:[[0,0], [1,0], [3,0]]}); }); </script>												<!--Failed Via Summary-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_failedviasummaryBa2hM+MezpZBTRu4x2+Z1w"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsFailedViaSummaryTableID_Ba2hM+MezpZBTRu4x2+Z1w").tablesorter({sortList:[[0,0], [1,0]]}); }); </script>																		<!--Excessive Non-Via Current Density-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_excessivenonviacurrentdensityBa2hM+MezpZBTRu4x2+Z1w"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsExcessiveNonViaCurrentDensityTableID_Ba2hM+MezpZBTRu4x2+Z1w").tablesorter({sortList:[[5,0]]}); }); </script>																		<!--signature96t0879g09870gj0m_ReportSignature_DetailedAnalysisResultsPart End-->						<!--Component Definition Summary for network-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_componentdefinitionsummaryBa2hM+MezpZBTRu4x2+Z1w"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsComponentDefinitionSummaryTableID_Ba2hM+MezpZBTRu4x2+Z1w").tablesorter({sortList:[[1,0]]}); }); </script>						<left><b> Component Definition Summary:</left></b><br/><table id='NetworkDetailsComponentDefinitionSummaryTableID_Ba2hM+MezpZBTRu4x2+Z1w' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Type</b></th>
-              <th><b>In+ Pins</b></th>
-              <th><b>In- Pins</b></th>
-              <th><b>Out+ Pins</b></th>
-              <th><b>Out- Pins</b></th>
-              <th><b>S+</b></th>
-              <th><b>S-</b></th>
-              <th><b>Vout (V)</b></th>
-              <th><b>Efficiency (%)</b></th>
-              <th><b>Ibias (A)</b></th>
-              <th><b>Resistance</b></th>
-              <th><b>Load Current (A)</b></th>
-              <th><b>Vmin</b></th>
-              <th><b>Vmax</b></th>
-              <th><b>Iout max (A)</b></th>
-              <th><b>PD max (W)</b></th>
-              <th><b>Pin Current max (A)</b></th>
-          </thead>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>J2</td>
-              <td>Voltage Source</td>
-              <td></td>
-              <td></td>
-              <td>J2-1,60</td>
-              <td>J2-4,30,31,58</td>
-              <td></td>
-              <td></td>
-              <td>5</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>0</td>
-              <td></td>
-              <td>414,42m</td>
-          </tr>
-      <tr>
-       <td><b>Source 2</b></td>
-              <td>J3</td>
-              <td>Voltage Source</td>
-              <td></td>
-              <td></td>
-              <td>J3-1,60</td>
-              <td>J3-4,30,31,58</td>
-              <td></td>
-              <td></td>
-              <td>5</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>0</td>
-              <td></td>
-              <td>12,602m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>U21</td>
-              <td>SMPS_S</td>
-              <td>U21-10</td>
-              <td>U21-2,3,8</td>
-              <td>U21-6</td>
-              <td>U21-2,3,8</td>
-              <td>R65-2</td>
-              <td>R66-1</td>
-              <td>3,8</td>
-              <td>890m</td>
-              <td></td>
-              <td></td>
-              <td>0</td>
-              <td></td>
-              <td></td>
-              <td>2</td>
-              <td></td>
-              <td>0</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>U22</td>
-              <td>SMPS_S</td>
-              <td>U22-10</td>
-              <td>U22-2,3,8</td>
-              <td>U22-6</td>
-              <td>U22-2,3,8</td>
-              <td>R68-2</td>
-              <td>R70-1</td>
-              <td>5</td>
-              <td>850m</td>
-              <td></td>
-              <td></td>
-              <td>0</td>
-              <td></td>
-              <td></td>
-              <td>0</td>
-              <td></td>
-              <td>0</td>
-          </tr>
-   </table><br/>
-												<!--signature96t0879g09870gj0m_ReportSignature_Network Details Info End-->					</div>				</td>			</tr>			<tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr>			<!--signature96t0879g09870gj0m_ReportSignature_Network Details End--><!--signature96t0879g09870gj0m_ReportSignature_Network Details Start-->			<tr>				<td>					<button class="foldButton" width="100%"><b>Network 3V8 Details</b></button>										<div class="foldablePanel">																		<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headw5BUV22E3f066wpvEdhGdg"></H2>						<br/>											<!--signature96t0879g09870gj0m_ReportSignature_Network Details Diagramm Start-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_diagramm_image"></H2>												<center><img							src="Images\009.png" 							title="Diagramm for 3V8 network" 							style="max-width:99%;max-height:99%;"></center>						<br/>						<!--signature96t0879g09870gj0m_ReportSignature_Network Details Diagramm End-->						<!--signature96t0879g09870gj0m_ReportSignature_Network Details Image Start-->						<!--<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_imagew5BUV22E3f066wpvEdhGdg"></H2>						<center><img							src="signature96t0879g09870gj0m_ReportSignature_NetworkDetails_ImageFileName" 							title="signature96t0879g09870gj0m_ReportSignature_NetworkDetails_ImageName" 							style="max-width:99%;max-height:99%;"></center>						<br/>-->						<!--signature96t0879g09870gj0m_ReportSignature_Network Details Image End-->												<!--signature96t0879g09870gj0m_ReportSignature_Network Details Info Start-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_infow5BUV22E3f066wpvEdhGdg"></H2>						<!--Simulation Pass/Fail-->						<left> <b>PDN Analysis Pass/Fail: </b> <font color=#000000>PASS</font></left><br/>						<br/>						<left> <b>Power Consumption for This Network: </b>1,14 Watts</left><br/>						<br/>												<!--signature96t0879g09870gj0m_ReportSignature_NetworkResultsPart Start-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_worstmarginw5BUV22E3f066wpvEdhGdg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsWorstMarginsTableID_w5BUV22E3f066wpvEdhGdg").tablesorter({sortList:[[0,0]]}); }); </script>						<script type="text/javascript"> $(function() { $("#NetworkDetailsWorstMarginsInPercents_TableID_w5BUV22E3f066wpvEdhGdg").tablesorter({sortList:[[0,0]]}); }); </script>						<left><b> Least Margins:</left></b><br/><table id='NetworkDetailsWorstMarginsTableID_w5BUV22E3f066wpvEdhGdg' class='tablesorter'>
-    <thead>
-       <th><b>Margin Type</b></th>
-              <th><b>Absolute</b></th>
-              <th><b>Pass/Fail</b></th>
-              <th><b>ID</b></th>
-          </thead>
-      <tr>
-       <td><b>Voltage Source Current (A)</b></td>
-              <td>1,7</td>
-              <td>PASS</td>
-              <td>Source 1</td>
-          </tr>
-      <tr>
-       <td><b>Series Element Current (A)</b></td>
-              <td>1,7</td>
-              <td>PASS</td>
-              <td>Series 1</td>
-          </tr>
-   </table><br/>
-						<table id='NetworkDetailsWorstMarginsInPercents_TableID_w5BUV22E3f066wpvEdhGdg' class='tablesorter'>
-    <thead>
-       <th><b>Margin Type (%)</b></th>
-              <th><b>Percent</b></th>
-              <th><b>Pass/Fail</b></th>
-              <th><b>ID</b></th>
-          </thead>
-      <tr>
-       <td><b>Voltage Source Current</b></td>
-              <td>85.00%</td>
-              <td>PASS</td>
-              <td>Source 1</td>
-          </tr>
-      <tr>
-       <td><b>Series Element Current</b></td>
-              <td>85.00%</td>
-              <td>PASS</td>
-              <td>Series 1</td>
-          </tr>
-   </table><br/>
-																	<!--List of Violations-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_listofviolationsw5BUV22E3f066wpvEdhGdg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsListOfViolationsTableID_w5BUV22E3f066wpvEdhGdg").tablesorter({sortList:[[0,0]]}); }); </script>												<!--signature96t0879g09870gj0m_ReportSignature_NetworkResultsPart End-->						<!--signature96t0879g09870gj0m_ReportSignature_DetailedAnalysisResultsPart Start-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_voltagesourceperformancesummaryw5BUV22E3f066wpvEdhGdg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsVoltageSourcePerformanceSummaryTableID_w5BUV22E3f066wpvEdhGdg").tablesorter({sortList:[[0,0]]}); }); </script>						<left><b> Voltage Source Performance Summary:</left></b><br/><table id='NetworkDetailsVoltageSourcePerformanceSummaryTableID_w5BUV22E3f066wpvEdhGdg' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>Source Type</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Pass / Fail</b></th>
-              <th><b>Vout setting (V)</b></th>
-              <th><b>Actual Output Voltage (V)</b></th>
-              <th><b>Max Output Current (A)</b></th>
-              <th><b>Actual Output Current (A)</b></th>
-              <th><b>Margin (A)</b></th>
-              <th><b>Margin (%)</b></th>
-              <th><b>Max Pin Current</b></th>
-              <th><b>Highest Actual (A)</b></th>
-              <th><b>Margin (A)</b></th>
-              <th><b>Margin (%)</b></th>
-              <th><b>Max Power Dissipation (W)</b></th>
-              <th><b>Actual Power Dissipation (W)</b></th>
-              <th><b>Margin (W)</b></th>
-              <th><b>Margin (%)</b></th>
-          </thead>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>U21</td>
-              <td>PASS</td>
-              <td>3,8</td>
-              <td>3,7997</td>
-              <td>2</td>
-              <td>300m</td>
-              <td>1,7</td>
-              <td>85.00%</td>
-              <td>0</td>
-              <td>853,93m</td>
-              <td>&infin;</td>
-              <td>&infin;</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-          </tr>
-   </table><br/>
-						<!--Voltage Source Pin Voltage/Current Details-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_voltagesourcepinvoltagecurrentdetailsw5BUV22E3f066wpvEdhGdg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsVoltageSourcePinVoltageCurrentDetailsTableID_w5BUV22E3f066wpvEdhGdg").tablesorter({sortList:[[0,0], [2,0], [4,0]]}); }); </script>						<left><b> Voltage Source Pin Voltage/Current Details:</left></b><br/><table id='NetworkDetailsVoltageSourcePinVoltageCurrentDetailsTableID_w5BUV22E3f066wpvEdhGdg' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>SourceType</b></th>
-              <th><b>Terminal</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Pin</b></th>
-              <th><b>Max Pin Current (A)</b></th>
-              <th><b>Actual Pin Current (A)</b></th>
-              <th><b>Pass / Fail</b></th>
-              <th><b>Pin Voltage (V)</b></th>
-          </thead>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>Out+</td>
-              <td>U21</td>
-              <td>6</td>
-              <td>0</td>
-              <td>300m</td>
-              <td>PASS</td>
-              <td>3,8003</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>Out-</td>
-              <td>U21</td>
-              <td>3</td>
-              <td>0</td>
-              <td>100m</td>
-              <td>PASS</td>
-              <td>558,94u</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>Out-</td>
-              <td>U21</td>
-              <td>3</td>
-              <td>0</td>
-              <td>284,64m</td>
-              <td>PASS</td>
-              <td>558,94u</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>Out-</td>
-              <td>U21</td>
-              <td>2</td>
-              <td>0</td>
-              <td>100m</td>
-              <td>PASS</td>
-              <td>558,94u</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>Out-</td>
-              <td>U21</td>
-              <td>2</td>
-              <td>0</td>
-              <td>284,64m</td>
-              <td>PASS</td>
-              <td>558,94u</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>Out-</td>
-              <td>U21</td>
-              <td>8</td>
-              <td>0</td>
-              <td>100m</td>
-              <td>PASS</td>
-              <td>558,94u</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>Out-</td>
-              <td>U21</td>
-              <td>8</td>
-              <td>0</td>
-              <td>284,64m</td>
-              <td>PASS</td>
-              <td>558,94u</td>
-          </tr>
-   </table><br/>
-						<!--Load Summary-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_loadperformancesummaryw5BUV22E3f066wpvEdhGdg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsLoadPerformanceSummaryTableID_w5BUV22E3f066wpvEdhGdg").tablesorter({sortList:[[0,0]]}); }); </script>						<left><b> Load Performance Summary:</left></b><br/><table id='NetworkDetailsLoadPerformanceSummaryTableID_w5BUV22E3f066wpvEdhGdg' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>Load Type</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Pass / Fail</b></th>
-              <th><b>Load Value</b></th>
-              <th><b>Min Voltage (V)</b></th>
-              <th><b>Max Voltage (V)</b></th>
-              <th><b>Actual Voltage</b></th>
-              <th><b>Margin (V)</b></th>
-              <th><b>Margin (%)</b></th>
-              <th><b>Min Pwr Pin</b></th>
-              <th><b>Voltage (V)</b></th>
-              <th><b>Max Gnd Pin</b></th>
-              <th><b>Voltage (V)</b></th>
-              <th><b>Actual Current (A)</b></th>
-          </thead>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>U4</td>
-              <td>PASS</td>
-              <td>150mA</td>
-              <td>0</td>
-              <td>0</td>
-              <td>3,6988</td>
-              <td>0</td>
-              <td>&infin;</td>
-              <td>U4-M02</td>
-              <td>3,6991</td>
-              <td>U4-P04</td>
-              <td>357,53u</td>
-              <td>150m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>U4</td>
-              <td>PASS</td>
-              <td>150mA</td>
-              <td>0</td>
-              <td>0</td>
-              <td>3,7004</td>
-              <td>0</td>
-              <td>&infin;</td>
-              <td>U4-P02</td>
-              <td>3,7008</td>
-              <td>U4-P04</td>
-              <td>357,53u</td>
-              <td>150m</td>
-          </tr>
-   </table><br/>
-												<!--Load Pin Voltage/Current Details-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_loadpinvoltagecurrentdetailsw5BUV22E3f066wpvEdhGdg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsLoadPinVoltageCurrentDetailsTableID_w5BUV22E3f066wpvEdhGdg").tablesorter({sortList:[[0,0], [2,0], [4,0]]}); }); </script>						<left><b> Load Pin Voltage/Current Details:</left></b><br/><table id='NetworkDetailsLoadPinVoltageCurrentDetailsTableID_w5BUV22E3f066wpvEdhGdg' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>Load Type</b></th>
-              <th><b>Terminal</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Pin</b></th>
-              <th><b>Pin Voltage (V)</b></th>
-              <th><b>Pin Current (A)</b></th>
-          </thead>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Power</td>
-              <td>U4</td>
-              <td>M02</td>
-              <td>3,6991</td>
-              <td>74,966m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Power</td>
-              <td>U4</td>
-              <td>M01</td>
-              <td>3,6993</td>
-              <td>75,035m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>B13</td>
-              <td>330,46u</td>
-              <td>3,9519m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>E14</td>
-              <td>311,19u</td>
-              <td>3,9595m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>A04</td>
-              <td>309,77u</td>
-              <td>3,96m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>A02</td>
-              <td>307,6u</td>
-              <td>3,9609m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>E02</td>
-              <td>326,73u</td>
-              <td>3,9533m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>F02</td>
-              <td>329,31u</td>
-              <td>3,9523m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>E01</td>
-              <td>323,56u</td>
-              <td>3,9546m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>G01</td>
-              <td>333,45u</td>
-              <td>3,9507m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>M12</td>
-              <td>332,74u</td>
-              <td>3,951m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P13</td>
-              <td>334,72u</td>
-              <td>3,9502m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P08</td>
-              <td>346,77u</td>
-              <td>3,9454m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P10</td>
-              <td>343,22u</td>
-              <td>3,9468m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P09</td>
-              <td>344,41u</td>
-              <td>3,9463m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>R10</td>
-              <td>344,07u</td>
-              <td>3,9465m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>H02</td>
-              <td>335,78u</td>
-              <td>3,9498m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>M04</td>
-              <td>350,76u</td>
-              <td>3,9438m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>M03</td>
-              <td>351,73u</td>
-              <td>3,9435m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>G02</td>
-              <td>332,88u</td>
-              <td>3,9509m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>J02</td>
-              <td>340,82u</td>
-              <td>3,9478m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>H01</td>
-              <td>333,06u</td>
-              <td>3,9508m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>K02</td>
-              <td>344,88u</td>
-              <td>3,9462m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>J01</td>
-              <td>336,06u</td>
-              <td>3,9496m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>L02</td>
-              <td>346,45u</td>
-              <td>3,9455m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>L01</td>
-              <td>342,47u</td>
-              <td>3,9471m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>N06</td>
-              <td>351u</td>
-              <td>3,9437m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>N04</td>
-              <td>355,55u</td>
-              <td>3,942m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P06</td>
-              <td>353,99u</td>
-              <td>3,9426m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>N05</td>
-              <td>353,46u</td>
-              <td>3,9428m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>R08</td>
-              <td>347,25u</td>
-              <td>3,9452m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P05</td>
-              <td>356,72u</td>
-              <td>3,9415m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>R06</td>
-              <td>354,3u</td>
-              <td>3,9424m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>R05</td>
-              <td>355,61u</td>
-              <td>3,9419m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>N03</td>
-              <td>355,01u</td>
-              <td>3,9422m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P04</td>
-              <td>357,53u</td>
-              <td>3,9412m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P03</td>
-              <td>355,99u</td>
-              <td>3,9418m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>R03</td>
-              <td>354,21u</td>
-              <td>3,9425m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>R04</td>
-              <td>356,02u</td>
-              <td>3,9418m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>R02</td>
-              <td>348,86u</td>
-              <td>3,9446m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Power</td>
-              <td>U4</td>
-              <td>N01</td>
-              <td>3,701</td>
-              <td>37,508m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Power</td>
-              <td>U4</td>
-              <td>N02</td>
-              <td>3,7008</td>
-              <td>37,474m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Power</td>
-              <td>U4</td>
-              <td>P02</td>
-              <td>3,7008</td>
-              <td>37,457m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Power</td>
-              <td>U4</td>
-              <td>P01</td>
-              <td>3,7013</td>
-              <td>37,561m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>B13</td>
-              <td>330,46u</td>
-              <td>3,9497m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>E14</td>
-              <td>311,19u</td>
-              <td>3,9537m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>A04</td>
-              <td>309,77u</td>
-              <td>3,954m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>A02</td>
-              <td>307,6u</td>
-              <td>3,9545m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>E02</td>
-              <td>326,73u</td>
-              <td>3,9505m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>F02</td>
-              <td>329,31u</td>
-              <td>3,95m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>E01</td>
-              <td>323,56u</td>
-              <td>3,9512m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>G01</td>
-              <td>333,45u</td>
-              <td>3,9491m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>M12</td>
-              <td>332,74u</td>
-              <td>3,9492m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P13</td>
-              <td>334,72u</td>
-              <td>3,9488m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P08</td>
-              <td>346,77u</td>
-              <td>3,9463m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P10</td>
-              <td>343,22u</td>
-              <td>3,9471m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P09</td>
-              <td>344,41u</td>
-              <td>3,9468m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>R10</td>
-              <td>344,07u</td>
-              <td>3,9469m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>H02</td>
-              <td>335,78u</td>
-              <td>3,9486m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>M04</td>
-              <td>350,76u</td>
-              <td>3,9455m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>M03</td>
-              <td>351,73u</td>
-              <td>3,9453m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>G02</td>
-              <td>332,88u</td>
-              <td>3,9492m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>J02</td>
-              <td>340,82u</td>
-              <td>3,9476m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>H01</td>
-              <td>333,06u</td>
-              <td>3,9492m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>K02</td>
-              <td>344,88u</td>
-              <td>3,9467m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>J01</td>
-              <td>336,06u</td>
-              <td>3,9486m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>L02</td>
-              <td>346,45u</td>
-              <td>3,9464m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>L01</td>
-              <td>342,47u</td>
-              <td>3,9472m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>N06</td>
-              <td>351u</td>
-              <td>3,9455m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>N04</td>
-              <td>355,55u</td>
-              <td>3,9445m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P06</td>
-              <td>353,99u</td>
-              <td>3,9448m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>N05</td>
-              <td>353,46u</td>
-              <td>3,945m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>R08</td>
-              <td>347,25u</td>
-              <td>3,9462m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P05</td>
-              <td>356,72u</td>
-              <td>3,9443m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>R06</td>
-              <td>354,3u</td>
-              <td>3,9448m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>R05</td>
-              <td>355,61u</td>
-              <td>3,9445m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>N03</td>
-              <td>355,01u</td>
-              <td>3,9446m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P04</td>
-              <td>357,53u</td>
-              <td>3,9441m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>P03</td>
-              <td>355,99u</td>
-              <td>3,9444m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>R03</td>
-              <td>354,21u</td>
-              <td>3,9448m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>R04</td>
-              <td>356,02u</td>
-              <td>3,9444m</td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U4</td>
-              <td>R02</td>
-              <td>348,86u</td>
-              <td>3,9459m</td>
-          </tr>
-   </table><br/>
-						<!--Series Element Performance Summary-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_serieselementperformancesummaryw5BUV22E3f066wpvEdhGdg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsSeriesElementPerformanceSummaryTableID_w5BUV22E3f066wpvEdhGdg").tablesorter({sortList:[[0,0]]}); }); </script>						<left><b> Series Element Performance Summary:</left></b><br/><table id='NetworkDetailsSeriesElementPerformanceSummaryTableID_w5BUV22E3f066wpvEdhGdg' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Pass / Fail</b></th>
-              <th><b>Voltage (V)</b></th>
-              <th><b>Resistance (Ohms)</b></th>
-              <th><b>Max Current (A)</b></th>
-              <th><b>Actual Current (A)</b></th>
-              <th><b>Margin (A)</b></th>
-              <th><b>Margin (%)</b></th>
-              <th><b>Actual Voltage Drop (V)</b></th>
-          </thead>
-      <tr>
-       <td><b>Series 1</b></td>
-              <td>U1</td>
-              <td>PASS</td>
-              <td>0</td>
-              <td>0</td>
-              <td>2</td>
-              <td>300m</td>
-              <td>1,7</td>
-              <td>85.00%</td>
-              <td>0</td>
-          </tr>
-      <tr>
-       <td><b>Series 2</b></td>
-              <td>FB1</td>
-              <td>PASS</td>
-              <td>0</td>
-              <td>0</td>
-              <td>2</td>
-              <td>150m</td>
-              <td>1,85</td>
-              <td>92.50%</td>
-              <td>0</td>
-          </tr>
-      <tr>
-       <td><b>Series 3</b></td>
-              <td>FB2</td>
-              <td>PASS</td>
-              <td>0</td>
-              <td>0</td>
-              <td>2</td>
-              <td>150m</td>
-              <td>1,85</td>
-              <td>92.50%</td>
-              <td>0</td>
-          </tr>
-   </table><br/>
-												<!--Series Element Pin Voltage/Current Details-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_serieselementpinvoltagecurrentdetailsw5BUV22E3f066wpvEdhGdg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsSeriesElementPinVoltageCurrentDetailsTableID_w5BUV22E3f066wpvEdhGdg").tablesorter({sortList:[[0,0], [1,0], [3,0]]}); }); </script>						<left><b> Series Element Pin Voltage/Current Details:</left></b><br/><table id='NetworkDetailsSeriesElementPinVoltageCurrentDetailsTableID_w5BUV22E3f066wpvEdhGdg' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>Terminal</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Pin</b></th>
-              <th><b>Pin Voltage (V)</b></th>
-              <th><b>Pin Current (A)</b></th>
-          </thead>
-      <tr>
-       <td><b>Series 1</b></td>
-              <td>In</td>
-              <td>U1</td>
-              <td>1</td>
-              <td>3,7058</td>
-              <td>300m</td>
-          </tr>
-      <tr>
-       <td><b>Series 1</b></td>
-              <td>Out</td>
-              <td>U1</td>
-              <td>6</td>
-              <td>3,7058</td>
-              <td>300m</td>
-          </tr>
-      <tr>
-       <td><b>Series 2</b></td>
-              <td>In</td>
-              <td>FB1</td>
-              <td>1</td>
-              <td>3,7042</td>
-              <td>150m</td>
-          </tr>
-      <tr>
-       <td><b>Series 2</b></td>
-              <td>Out</td>
-              <td>FB1</td>
-              <td>2</td>
-              <td>3,7042</td>
-              <td>150m</td>
-          </tr>
-      <tr>
-       <td><b>Series 3</b></td>
-              <td>In</td>
-              <td>FB2</td>
-              <td>1</td>
-              <td>3,7044</td>
-              <td>150m</td>
-          </tr>
-      <tr>
-       <td><b>Series 3</b></td>
-              <td>Out</td>
-              <td>FB2</td>
-              <td>2</td>
-              <td>3,7044</td>
-              <td>150m</td>
-          </tr>
-   </table><br/>
-						<!--Failed Via Summary-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_failedviasummaryw5BUV22E3f066wpvEdhGdg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsFailedViaSummaryTableID_w5BUV22E3f066wpvEdhGdg").tablesorter({sortList:[[0,0], [1,0]]}); }); </script>																		<!--Excessive Non-Via Current Density-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_excessivenonviacurrentdensityw5BUV22E3f066wpvEdhGdg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsExcessiveNonViaCurrentDensityTableID_w5BUV22E3f066wpvEdhGdg").tablesorter({sortList:[[5,0]]}); }); </script>																		<!--signature96t0879g09870gj0m_ReportSignature_DetailedAnalysisResultsPart End-->						<!--Component Definition Summary for network-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_componentdefinitionsummaryw5BUV22E3f066wpvEdhGdg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsComponentDefinitionSummaryTableID_w5BUV22E3f066wpvEdhGdg").tablesorter({sortList:[[1,0]]}); }); </script>						<left><b> Component Definition Summary:</left></b><br/><table id='NetworkDetailsComponentDefinitionSummaryTableID_w5BUV22E3f066wpvEdhGdg' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Type</b></th>
-              <th><b>In+ Pins</b></th>
-              <th><b>In- Pins</b></th>
-              <th><b>Out+ Pins</b></th>
-              <th><b>Out- Pins</b></th>
-              <th><b>S+</b></th>
-              <th><b>S-</b></th>
-              <th><b>Vout (V)</b></th>
-              <th><b>Efficiency (%)</b></th>
-              <th><b>Ibias (A)</b></th>
-              <th><b>Resistance</b></th>
-              <th><b>Load Current (A)</b></th>
-              <th><b>Vmin</b></th>
-              <th><b>Vmax</b></th>
-              <th><b>Iout max (A)</b></th>
-              <th><b>PD max (W)</b></th>
-              <th><b>Pin Current max (A)</b></th>
-          </thead>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>U21</td>
-              <td>SMPS_S</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>U4</td>
-              <td>Current</td>
-              <td>U4-M02,M01</td>
-              <td>U4-B13,E14,A04,A02,E02,F02,E01,G01,M12,P13,P08,P10,P09,R10,H02,M04,M03,G02,J02,H01,K02,J01,L02,L01,N06,N04,P06,N05,R08,P05,R06,R05,N03,P04,P03,R03,R04,R02</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>150m</td>
-              <td>0</td>
-              <td>0</td>
-              <td></td>
-              <td></td>
-              <td></td>
-          </tr>
-      <tr>
-       <td><b>Load 2</b></td>
-              <td>U4</td>
-              <td>Current</td>
-              <td>U4-N01,N02,P02,P01</td>
-              <td>U4-B13,E14,A04,A02,E02,F02,E01,G01,M12,P13,P08,P10,P09,R10,H02,M04,M03,G02,J02,H01,K02,J01,L02,L01,N06,N04,P06,N05,R08,P05,R06,R05,N03,P04,P03,R03,R04,R02</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>150m</td>
-              <td>0</td>
-              <td>0</td>
-              <td></td>
-              <td></td>
-              <td></td>
-          </tr>
-      <tr>
-       <td><b>Series 1</b></td>
-              <td>U1</td>
-              <td>Series</td>
-              <td>U1-1</td>
-              <td></td>
-              <td>U1-6</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>0</td>
-              <td></td>
-              <td></td>
-              <td>0</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>2</td>
-              <td></td>
-              <td>2</td>
-          </tr>
-      <tr>
-       <td><b>Series 2</b></td>
-              <td>FB1</td>
-              <td>Series</td>
-              <td>FB1-1</td>
-              <td></td>
-              <td>FB1-2</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>0</td>
-              <td></td>
-              <td></td>
-              <td>0</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>2</td>
-              <td></td>
-              <td>2</td>
-          </tr>
-      <tr>
-       <td><b>Series 3</b></td>
-              <td>FB2</td>
-              <td>Series</td>
-              <td>FB2-1</td>
-              <td></td>
-              <td>FB2-2</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>0</td>
-              <td></td>
-              <td></td>
-              <td>0</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>2</td>
-              <td></td>
-              <td>2</td>
-          </tr>
-   </table><br/>
-												<!--signature96t0879g09870gj0m_ReportSignature_Network Details Info End-->					</div>				</td>			</tr>			<tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr>			<!--signature96t0879g09870gj0m_ReportSignature_Network Details End--><!--signature96t0879g09870gj0m_ReportSignature_Network Details Start-->			<tr>				<td>					<button class="foldButton" width="100%"><b>Network 5V Details</b></button>										<div class="foldablePanel">																		<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_headvXmFO+Z0qKUmTtj+HbMhgg"></H2>						<br/>											<!--signature96t0879g09870gj0m_ReportSignature_Network Details Diagramm Start-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_diagramm_image"></H2>												<center><img							src="Images\010.png" 							title="Diagramm for 5V network" 							style="max-width:99%;max-height:99%;"></center>						<br/>						<!--signature96t0879g09870gj0m_ReportSignature_Network Details Diagramm End-->						<!--signature96t0879g09870gj0m_ReportSignature_Network Details Image Start-->						<!--<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_imagevXmFO+Z0qKUmTtj+HbMhgg"></H2>						<center><img							src="signature96t0879g09870gj0m_ReportSignature_NetworkDetails_ImageFileName" 							title="signature96t0879g09870gj0m_ReportSignature_NetworkDetails_ImageName" 							style="max-width:99%;max-height:99%;"></center>						<br/>-->						<!--signature96t0879g09870gj0m_ReportSignature_Network Details Image End-->												<!--signature96t0879g09870gj0m_ReportSignature_Network Details Info Start-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_infovXmFO+Z0qKUmTtj+HbMhgg"></H2>						<!--Simulation Pass/Fail-->						<left> <b>PDN Analysis Pass/Fail: </b> <font color=#000000>PASS</font></left><br/>						<br/>						<left> <b>Power Consumption for This Network: </b>250m Watts</left><br/>						<br/>												<!--signature96t0879g09870gj0m_ReportSignature_NetworkResultsPart Start-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_worstmarginvXmFO+Z0qKUmTtj+HbMhgg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsWorstMarginsTableID_vXmFO+Z0qKUmTtj+HbMhgg").tablesorter({sortList:[[0,0]]}); }); </script>						<script type="text/javascript"> $(function() { $("#NetworkDetailsWorstMarginsInPercents_TableID_vXmFO+Z0qKUmTtj+HbMhgg").tablesorter({sortList:[[0,0]]}); }); </script>																													<!--List of Violations-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_listofviolationsvXmFO+Z0qKUmTtj+HbMhgg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsListOfViolationsTableID_vXmFO+Z0qKUmTtj+HbMhgg").tablesorter({sortList:[[0,0]]}); }); </script>												<!--signature96t0879g09870gj0m_ReportSignature_NetworkResultsPart End-->						<!--signature96t0879g09870gj0m_ReportSignature_DetailedAnalysisResultsPart Start-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_voltagesourceperformancesummaryvXmFO+Z0qKUmTtj+HbMhgg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsVoltageSourcePerformanceSummaryTableID_vXmFO+Z0qKUmTtj+HbMhgg").tablesorter({sortList:[[0,0]]}); }); </script>						<left><b> Voltage Source Performance Summary:</left></b><br/><table id='NetworkDetailsVoltageSourcePerformanceSummaryTableID_vXmFO+Z0qKUmTtj+HbMhgg' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>Source Type</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Pass / Fail</b></th>
-              <th><b>Vout setting (V)</b></th>
-              <th><b>Actual Output Voltage (V)</b></th>
-              <th><b>Max Output Current (A)</b></th>
-              <th><b>Actual Output Current (A)</b></th>
-              <th><b>Margin (A)</b></th>
-              <th><b>Margin (%)</b></th>
-              <th><b>Max Pin Current</b></th>
-              <th><b>Highest Actual (A)</b></th>
-              <th><b>Margin (A)</b></th>
-              <th><b>Margin (%)</b></th>
-              <th><b>Max Power Dissipation (W)</b></th>
-              <th><b>Actual Power Dissipation (W)</b></th>
-              <th><b>Margin (W)</b></th>
-              <th><b>Margin (%)</b></th>
-          </thead>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>U22</td>
-              <td>PASS</td>
-              <td>5</td>
-              <td>4,9999</td>
-              <td>0</td>
-              <td>50,005m</td>
-              <td>&infin;</td>
-              <td>&infin;</td>
-              <td>0</td>
-              <td>50,005m</td>
-              <td>&infin;</td>
-              <td>&infin;</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-          </tr>
-   </table><br/>
-						<!--Voltage Source Pin Voltage/Current Details-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_voltagesourcepinvoltagecurrentdetailsvXmFO+Z0qKUmTtj+HbMhgg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsVoltageSourcePinVoltageCurrentDetailsTableID_vXmFO+Z0qKUmTtj+HbMhgg").tablesorter({sortList:[[0,0], [2,0], [4,0]]}); }); </script>						<left><b> Voltage Source Pin Voltage/Current Details:</left></b><br/><table id='NetworkDetailsVoltageSourcePinVoltageCurrentDetailsTableID_vXmFO+Z0qKUmTtj+HbMhgg' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>SourceType</b></th>
-              <th><b>Terminal</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Pin</b></th>
-              <th><b>Max Pin Current (A)</b></th>
-              <th><b>Actual Pin Current (A)</b></th>
-              <th><b>Pass / Fail</b></th>
-              <th><b>Pin Voltage (V)</b></th>
-          </thead>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>Out+</td>
-              <td>U22</td>
-              <td>6</td>
-              <td>0</td>
-              <td>50,005m</td>
-              <td>PASS</td>
-              <td>5,0001</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>Out-</td>
-              <td>U22</td>
-              <td>3</td>
-              <td>0</td>
-              <td>16,668m</td>
-              <td>PASS</td>
-              <td>180,41u</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>Out-</td>
-              <td>U22</td>
-              <td>3</td>
-              <td>0</td>
-              <td>33,333u</td>
-              <td>PASS</td>
-              <td>180,41u</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>Out-</td>
-              <td>U22</td>
-              <td>2</td>
-              <td>0</td>
-              <td>16,668m</td>
-              <td>PASS</td>
-              <td>180,41u</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>Out-</td>
-              <td>U22</td>
-              <td>2</td>
-              <td>0</td>
-              <td>33,333u</td>
-              <td>PASS</td>
-              <td>180,41u</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>Out-</td>
-              <td>U22</td>
-              <td>8</td>
-              <td>0</td>
-              <td>16,668m</td>
-              <td>PASS</td>
-              <td>180,41u</td>
-          </tr>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>SMPS_S</td>
-              <td>Out-</td>
-              <td>U22</td>
-              <td>8</td>
-              <td>0</td>
-              <td>33,333u</td>
-              <td>PASS</td>
-              <td>180,41u</td>
-          </tr>
-   </table><br/>
-						<!--Load Summary-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_loadperformancesummaryvXmFO+Z0qKUmTtj+HbMhgg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsLoadPerformanceSummaryTableID_vXmFO+Z0qKUmTtj+HbMhgg").tablesorter({sortList:[[0,0]]}); }); </script>						<left><b> Load Performance Summary:</left></b><br/><table id='NetworkDetailsLoadPerformanceSummaryTableID_vXmFO+Z0qKUmTtj+HbMhgg' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>Load Type</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Pass / Fail</b></th>
-              <th><b>Load Value</b></th>
-              <th><b>Min Voltage (V)</b></th>
-              <th><b>Max Voltage (V)</b></th>
-              <th><b>Actual Voltage</b></th>
-              <th><b>Margin (V)</b></th>
-              <th><b>Margin (%)</b></th>
-              <th><b>Min Pwr Pin</b></th>
-              <th><b>Voltage (V)</b></th>
-              <th><b>Max Gnd Pin</b></th>
-              <th><b>Voltage (V)</b></th>
-              <th><b>Actual Current (A)</b></th>
-          </thead>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>U20</td>
-              <td>PASS</td>
-              <td>50mA</td>
-              <td>0</td>
-              <td>0</td>
-              <td>4,9963</td>
-              <td>0</td>
-              <td>&infin;</td>
-              <td>U20-3</td>
-              <td>4,9968</td>
-              <td>U20-6</td>
-              <td>423,56u</td>
-              <td>50m</td>
-          </tr>
-   </table><br/>
-												<!--Load Pin Voltage/Current Details-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_loadpinvoltagecurrentdetailsvXmFO+Z0qKUmTtj+HbMhgg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsLoadPinVoltageCurrentDetailsTableID_vXmFO+Z0qKUmTtj+HbMhgg").tablesorter({sortList:[[0,0], [2,0], [4,0]]}); }); </script>						<left><b> Load Pin Voltage/Current Details:</left></b><br/><table id='NetworkDetailsLoadPinVoltageCurrentDetailsTableID_vXmFO+Z0qKUmTtj+HbMhgg' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>Load Type</b></th>
-              <th><b>Terminal</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Pin</b></th>
-              <th><b>Pin Voltage (V)</b></th>
-              <th><b>Pin Current (A)</b></th>
-          </thead>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Power</td>
-              <td>U20</td>
-              <td>3</td>
-              <td>4,9968</td>
-              <td>50m</td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>Current</td>
-              <td>Ground</td>
-              <td>U20</td>
-              <td>6</td>
-              <td>423,56u</td>
-              <td>50m</td>
-          </tr>
-   </table><br/>
-						<!--Series Element Performance Summary-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_serieselementperformancesummaryvXmFO+Z0qKUmTtj+HbMhgg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsSeriesElementPerformanceSummaryTableID_vXmFO+Z0qKUmTtj+HbMhgg").tablesorter({sortList:[[0,0]]}); }); </script>																		<!--Series Element Pin Voltage/Current Details-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_serieselementpinvoltagecurrentdetailsvXmFO+Z0qKUmTtj+HbMhgg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsSeriesElementPinVoltageCurrentDetailsTableID_vXmFO+Z0qKUmTtj+HbMhgg").tablesorter({sortList:[[0,0], [1,0], [3,0]]}); }); </script>												<!--Failed Via Summary-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_failedviasummaryvXmFO+Z0qKUmTtj+HbMhgg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsFailedViaSummaryTableID_vXmFO+Z0qKUmTtj+HbMhgg").tablesorter({sortList:[[0,0], [1,0]]}); }); </script>																		<!--Excessive Non-Via Current Density-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_excessivenonviacurrentdensityvXmFO+Z0qKUmTtj+HbMhgg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsExcessiveNonViaCurrentDensityTableID_vXmFO+Z0qKUmTtj+HbMhgg").tablesorter({sortList:[[5,0]]}); }); </script>																		<!--signature96t0879g09870gj0m_ReportSignature_DetailedAnalysisResultsPart End-->						<!--Component Definition Summary for network-->						<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_networkdetails_network_componentdefinitionsummaryvXmFO+Z0qKUmTtj+HbMhgg"></H2>						<script type="text/javascript"> $(function() { $("#NetworkDetailsComponentDefinitionSummaryTableID_vXmFO+Z0qKUmTtj+HbMhgg").tablesorter({sortList:[[1,0]]}); }); </script>						<left><b> Component Definition Summary:</left></b><br/><table id='NetworkDetailsComponentDefinitionSummaryTableID_vXmFO+Z0qKUmTtj+HbMhgg' class='tablesorter'>
-    <thead>
-       <th><b>ID</b></th>
-              <th><b>Ref Des</b></th>
-              <th><b>Type</b></th>
-              <th><b>In+ Pins</b></th>
-              <th><b>In- Pins</b></th>
-              <th><b>Out+ Pins</b></th>
-              <th><b>Out- Pins</b></th>
-              <th><b>S+</b></th>
-              <th><b>S-</b></th>
-              <th><b>Vout (V)</b></th>
-              <th><b>Efficiency (%)</b></th>
-              <th><b>Ibias (A)</b></th>
-              <th><b>Resistance</b></th>
-              <th><b>Load Current (A)</b></th>
-              <th><b>Vmin</b></th>
-              <th><b>Vmax</b></th>
-              <th><b>Iout max (A)</b></th>
-              <th><b>PD max (W)</b></th>
-              <th><b>Pin Current max (A)</b></th>
-          </thead>
-      <tr>
-       <td><b>Source 1</b></td>
-              <td>U22</td>
-              <td>SMPS_S</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-          </tr>
-      <tr>
-       <td><b>Load 1</b></td>
-              <td>U20</td>
-              <td>Current</td>
-              <td>U20-3</td>
-              <td>U20-6</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td>50m</td>
-              <td>0</td>
-              <td>0</td>
-              <td></td>
-              <td></td>
-              <td></td>
-          </tr>
-   </table><br/>
-												<!--signature96t0879g09870gj0m_ReportSignature_Network Details Info End-->					</div>				</td>			</tr>			<tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr>			<!--signature96t0879g09870gj0m_ReportSignature_Network Details End-->						<!--Simulation Messages block start-->			<H2 id="signature96t0879g09870gj0m_ReportSignature_hyperlinkid_messages"></H2>			<tr>				<td>					<br/>						<button class="foldButton" width="100%"><b>Network Simulation Messages Details</b></button>											<div class="foldablePanel">																			<br/>							<table class="simpletable">								<thead>									<th class="th30"> <b>Type</b> </th>									<th class="th70"> <b>Text</b> </th>								</thead>								<!--signature96t0879g09870gj0m_ReportSignature_SimulationMessages_TableLineStart-->								<tr>									<td> <b>Info</b> </td>									<td>Generated the settings file: C:\Altium Projects\B100\[AA]\Design Files\B100AA\PDNAnalyzer_Output\B100AA PCB R1\B100AA\B100AA PCB R1.py</td>								</tr>								<!--signature96t0879g09870gj0m_ReportSignature_SimulationMessages_TableLineEnd--><!--signature96t0879g09870gj0m_ReportSignature_SimulationMessages_TableLineStart-->								<tr>									<td> <b>Info</b> </td>									<td>Simulation Progress: 100%</td>								</tr>								<!--signature96t0879g09870gj0m_ReportSignature_SimulationMessages_TableLineEnd--><!--signature96t0879g09870gj0m_ReportSignature_SimulationMessages_TableLineStart-->								<tr>									<td> <b>Info</b> </td>									<td>Load and analyze result for B100AA</td>								</tr>								<!--signature96t0879g09870gj0m_ReportSignature_SimulationMessages_TableLineEnd--><!--signature96t0879g09870gj0m_ReportSignature_SimulationMessages_TableLineStart-->								<tr>									<td> <b>Info</b> </td>									<td>No violations</td>								</tr>								<!--signature96t0879g09870gj0m_ReportSignature_SimulationMessages_TableLineEnd--><!--signature96t0879g09870gj0m_ReportSignature_SimulationMessages_TableLineStart-->								<tr>									<td> <b>Info</b> </td>									<td>Analysis Complete B100AA</td>								</tr>								<!--signature96t0879g09870gj0m_ReportSignature_SimulationMessages_TableLineEnd-->							</table>						</div>					<br/>				</td>			</tr>			<tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr>			<!--Simulation Messages block end-->						<tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr> <tr> </tr>		<script>			onPageLoaded();		</script> 	</body>
-</html>

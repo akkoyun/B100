@@ -1,0 +1,103 @@
+
+Importing C:\Altium Projects\B100\[AA]\Design Files\B100AA\PDNAnalyzer_Output\B100AA PCB R1\B100AA R4\odb.tgz... [Fri Jan 29 10:45:41 2021]
+============================================================
+Reading ODB++ database ...
+
+file not found: odb/misc/info.Z
+Reading file odb/matrix/matrix...
+Reading file odb/steps/pcb/profile...
+Reading file odb/steps/pcb/eda/data...
+Origin of ODB++ database:  Altium Designer file - Version 1.0.0.30000
+WARNING: Ignoring I(576 time(s))
+eda data: 30 packages, 199 nets.
+Reading file odb/steps/pcb/layers/top_solder/features...
+789 SWHs on layer TOP_SOLDER
+
+Reading file odb/steps/pcb/layers/top_layer/features...
+INFO: end point of polygon corrected by 0.0001 (<File top_layer\features, line 17862>).
+2029 SWHs on layer TOP_LAYER
+
+Reading file odb/steps/pcb/layers/mid_layer_1/features...
+1402 SWHs on layer MID_LAYER_1
+
+Reading file odb/steps/pcb/layers/mid_layer_2/features...
+899 SWHs on layer MID_LAYER_2
+
+Reading file odb/steps/pcb/layers/mid_layer_3/features...
+1078 SWHs on layer MID_LAYER_3
+
+Reading file odb/steps/pcb/layers/mid_layer_4/features...
+2158 SWHs on layer MID_LAYER_4
+
+Reading file odb/steps/pcb/layers/bottom_layer/features...
+INFO: end point of polygon corrected by 0.0001 (<File bottom_layer\features, line 34679>).
+INFO: end point of polygon corrected by 0.0001 (<File bottom_layer\features, line 35150>).
+INFO: end point of polygon corrected by 0.0001 (<File bottom_layer\features, line 37700>).
+INFO: end point of polygon corrected by 0.000141421 (<File bottom_layer\features, line 38435>).
+INFO: end point of polygon corrected by 0.000141421 (<File bottom_layer\features, line 39488>).
+3052 SWHs on layer BOTTOM_LAYER
+
+Reading file odb/steps/pcb/layers/bottom_solder/features...
+1109 SWHs on layer BOTTOM_SOLDER
+
+Added substrate layer SUBSTRATE-1 below etch layer TOP_LAYER
+Added substrate layer SUBSTRATE-2 below etch layer MID_LAYER_1
+Added substrate layer SUBSTRATE-3 below etch layer MID_LAYER_2
+Added substrate layer SUBSTRATE-4 below etch layer MID_LAYER_3
+Added substrate layer SUBSTRATE-5 below etch layer MID_LAYER_4
+Reading file odb/steps/pcb/layers/top_solder/attrlist...
+Reading file odb/steps/pcb/layers/top_layer/attrlist...
+Reading file odb/steps/pcb/layers/mid_layer_1/attrlist...
+Reading file odb/steps/pcb/layers/mid_layer_2/attrlist...
+Reading file odb/steps/pcb/layers/mid_layer_3/attrlist...
+Reading file odb/steps/pcb/layers/mid_layer_4/attrlist...
+Reading file odb/steps/pcb/layers/bottom_layer/attrlist...
+Reading file odb/steps/pcb/layers/bottom_solder/attrlist...
+WARNING: material values were set to default due to missing information for the following layers:  'TOP_SOLDER', 'TOP_LAYER', 'MID_LAYER_1', 'MID_LAYER_2', 'MID_LAYER_3', 'MID_LAYER_4', 'BOTTOM_LAYER', 'BOTTOM_SOLDER'
+parsing drills TOP_LAYER-BOTTOM_LAYER
+Reading file odb/steps/pcb/layers/drill/features...
+parsing drills TOP_LAYER-MID_LAYER_1
+Reading file odb/steps/pcb/layers/drill1/features...
+parsing drills MID_LAYER_1-MID_LAYER_2
+Reading file odb/steps/pcb/layers/drill2/features...
+parsing drills MID_LAYER_1-MID_LAYER_4
+Reading file odb/steps/pcb/layers/drill3/features...
+parsing drills MID_LAYER_3-MID_LAYER_4
+Reading file odb/steps/pcb/layers/drill4/features...
+parsing drills MID_LAYER_4-BOTTOM_LAYER
+Reading file odb/steps/pcb/layers/drill5/features...
+Reading file odb/steps/pcb/layers/comp_+_top/components...
+Reading file odb/steps/pcb/layers/comp_+_bot/components...
+WARNING: unequal pin numbers in component group: 
+	 U6
+	 U8
+	 U7
+	 U13
+WARNING: unequal pin numbers in component group: 
+	 U15
+	 U11
+INFO: 497 duplicate vertices ignored
+INFO: 232 plated drill holes without logical net information
+========================================
+INFO: Created CSV file (C:\Altium Projects\B100\[AA]\Design Files\B100AA\PDNAnalyzer_Output\B100AA PCB R1\B100AA R4\Results-1\tmp\design.csv) with component properties extracted from ODB++ file.
+========================================
+========================================
+Lumped-element import (C:\Altium Projects\B100\[AA]\Design Files\B100AA\PDNAnalyzer_Output\B100AA PCB R1\B100AA R4\Results-1\tmp\design.csv)...
+Detected ' ; ' as separator.
+
+WARNING: unable to interpret: Tantalum_Capacitor
+WARNING: unable to interpret: Multilayer_Ceramic_Capacitor
+WARNING: unable to interpret: Aluminium_Organic_Polymer_Capacitors
+WARNING: unable to interpret: Fixed_Inductor
+WARNING: unable to interpret: Thick_Film_Resistor
+WARNING: unable to interpret: Antenna
+========================================
+WARNING: There were some warnings while importing the auto-generated CSV-file 'C:\Altium Projects\B100\[AA]\Design Files\B100AA\PDNAnalyzer_Output\B100AA PCB R1\B100AA R4\Results-1\tmp\design.csv'. Please review the auto-generated file under Parts Editor->Load (csv).
+========================================
+Unifying library padstacks...
+Finished reading database.
+============================================================
+Further warnings:
+WARNING: Hole deleted upon healing.
+ 
+WARNING: WARNING: skipped None because it is not orientable (20 times)
