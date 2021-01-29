@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\Fabrication\Pick Place\Pick Place for B100AA PCB R1.txt
+C:\Altium Projects\B100\[AA]\Design Files\B100AA\output/fabrication/\Pick Place\Pick Place for B100AA PCB R1.txt
 
 ========================================================================================================================
 File Design Information:
 
 Date:       29.01.21
-Time:       00:23
-Revision:   3ac0cbb110a17876b827b82ab1bfc5bb85e4ae26
+Time:       11:11
+Revision:   3a626b93382617b26b24274cbbe6acd72948dabd
 Variant:    No variations
 Units used: mil
 
