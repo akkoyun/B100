@@ -2055,19 +2055,19 @@ DocumentPath=Output\Documentation\Export PARASOLID\B100AA PCB R1.x_t
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Output\Documentation\Bill of Materials\Bill of Materials-B100.csv
-DItemRevisionGUID=
-
-[GeneratedDocument39]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument39]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument40]
 DocumentPath=Output\Fabrication\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for B100\Design Rule Check - B100AA PCB R1.html
 DItemRevisionGUID=
 
 [GeneratedDocument42]
