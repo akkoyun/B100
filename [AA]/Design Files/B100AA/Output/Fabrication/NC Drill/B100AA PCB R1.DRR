@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: B100AA PCB R1.PcbDoc   29.01.2021  11:11:15
+NCDrill File Report For: B100AA PCB R1.PcbDoc   2.02.2021  18:15:06
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,27 +7,27 @@ ASCII RoundHoles File : B100AA PCB R1.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             102       PTH        0.00inch (0.00mm)
+T1      8mil (0.2mm)                                              Round             77        PTH        0.00inch (0.00mm)
 T2      20mil (0.5mm)           +/-2mil (0.05mm)                  Round             228       PTH        0.00inch (0.00mm)
 T3      118mil (3mm)            +/-2mil (0.05mm)                  Round             4         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              334
+Totals                                                                              309
 Layer Pair : Mid Layer 1 to Mid Layer 2
 ASCII RoundHoles File : B100AA PCB R1.TX2
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             48        PTH        0.00inch (0.00mm)
+T1      8mil (0.2mm)                                              Round             15        PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              48
+Totals                                                                              15
 Layer Pair : Mid Layer 1 to Mid Layer 4
 ASCII RoundHoles File : B100AA PCB R1.TX3
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             134       PTH        0.00inch (0.00mm)
+T1      8mil (0.2mm)                                              Round             133       PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              134
+Totals                                                                              133
 Layer Pair : Mid Layer 3 to Mid Layer 4
 ASCII RoundHoles File : B100AA PCB R1.TX4
 
@@ -37,24 +37,24 @@ T1      8mil (0.2mm)                                              Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              118
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              634
+Totals                                                                              575
 MicroVia : Top Layer to Mid Layer 1
 ASCII RoundHoles File : B100AA PCB R1.TX6
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             182       PTH        0.00inch (0.00mm)
+T1      8mil (0.2mm)                                              Round             193       PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              182
+Totals                                                                              193
 MicroVia : Mid Layer 4 to Bottom Layer
 ASCII RoundHoles File : B100AA PCB R1.TX10
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             297       PTH        0.00inch (0.00mm)
+T1      8mil (0.2mm)                                              Round             307       PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              297
+Totals                                                                              307
 ----------------------------------------------------------------------------------------------------------------------------------
-MicroVia Totals                                                                     479
+MicroVia Totals                                                                     500
 
 Total Processing Time (hh:mm:ss) : 00:00:01

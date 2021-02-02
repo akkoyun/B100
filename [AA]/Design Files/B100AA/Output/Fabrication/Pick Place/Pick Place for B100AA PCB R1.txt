@@ -4,9 +4,9 @@ C:\Altium Projects\B100\[AA]\Design Files\B100AA\output/fabrication/\Pick Place\
 ========================================================================================================================
 File Design Information:
 
-Date:       29.01.21
-Time:       11:11
-Revision:   3a626b93382617b26b24274cbbe6acd72948dabd
+Date:       02.02.21
+Time:       18:15
+Revision:   bac0fad4f82ab95aebbc4304dfdbe346708e723e
 Variant:    No variations
 Units used: mil
 
@@ -128,8 +128,8 @@ Q3         "Bipolar PNP Transistors"              TopLayer    SOT1215           
 Q2         "Bipolar NPN Transistors"              TopLayer    SOT1215                   3024.685      500.748       180      "Bipolar Transistors - BJT BC847AQA/DFN1010D-3/REEL 7" Q2"                                                              
 Q1         "Bipolar NPN Transistors"              TopLayer    SOT1215                   3092.441      500.748       180      "Bipolar Transistors - BJT BC847AQA/DFN1010D-3/REEL 7" Q2"                                                              
 PZ1        "Piezo Buzzers & Audio Indicators"     TopLayer    Murata_Piezzo_Buzzer      1273.032      472.441       180      "Piezo Buzzers & Audio Indicators Piezo Buzzer 9x9mm 4KHz 1.9mm Thickness"                                              
-L2         "Fixed Inductor"                       TopLayer    INDUCTOR_0402             2101.653      1535.866      270      "Fixed Inductor"                                                                                                        
-L1         "Fixed Inductor"                       TopLayer    INDUCTOR_0402             2305.511      1535.866      270      "Fixed Inductor"                                                                                                        
+L2         "Fixed Inductor"                       TopLayer    INDUCTOR_0402             2101.653      1541.339      270      "Fixed Inductor"                                                                                                        
+L1         "Fixed Inductor"                       TopLayer    INDUCTOR_0402             2305.511      1541.339      270      "Fixed Inductor"                                                                                                        
 L4         "Fixed Inductor"                       TopLayer    INDUCTOR_XFL4015          393.701       393.701       90       "Fixed Inductors 0.47uH 20% 11.2A 8.36mOhms AEC-Q200"                                                                   
 L3         "Fixed Inductor"                       TopLayer    INDUCTOR_XFL4015          393.701       1181.102      90       "Fixed Inductors 0.47uH 20% 11.2A 8.36mOhms AEC-Q200"                                                                   
 J3         "1.27 mm Pitch 2x30P Male Connector"   BottomLayer SAMTEC-FTSH-130-01-X-DV   2755.905      787.402       90       "Headers & Wire Housings BREAKAWAY HDR VERT 6"                                                                          
@@ -330,8 +330,8 @@ C28        "Multilayer Ceramic Capacitor"         TopLayer    CAPACITOR_0402    
 C27        "Multilayer Ceramic Capacitor"         TopLayer    CAPACITOR_0402            2007.874      147.638       180      "Capacitor - 1uF [0402] (Ceramic)"                                                                                      
 C26        "Multilayer Ceramic Capacitor"         TopLayer    CAPACITOR_0402            3024.685      442.992       360      "Capacitor - 33pF [0402] (Ceramic)"                                                                                     
 C25        "Multilayer Ceramic Capacitor"         TopLayer    CAPACITOR_0402            3092.441      442.992       360      "Capacitor - 33pF [0402] (Ceramic)"                                                                                     
-C24        "Multilayer Ceramic Capacitor"         TopLayer    CAPACITOR_0402            2146.653      1535.866      270      "Capacitor - 1nF [0402] (Ceramic)"                                                                                      
-C23        "Multilayer Ceramic Capacitor"         TopLayer    CAPACITOR_0402            2255.511      1535.866      270      "Capacitor - 1nF [0402] (Ceramic)"                                                                                      
+C24        "Multilayer Ceramic Capacitor"         TopLayer    CAPACITOR_0402            2146.653      1541.339      270      "Capacitor - 1nF [0402] (Ceramic)"                                                                                      
+C23        "Multilayer Ceramic Capacitor"         TopLayer    CAPACITOR_0402            2255.511      1541.339      270      "Capacitor - 1nF [0402] (Ceramic)"                                                                                      
 C22        "Multilayer Ceramic Capacitor"         BottomLayer CAPACITOR_0402            1951.575      1087.992      360      "Capacitor - 100nF [0402-6V3] (Ceramic)"                                                                                
 C21        "Multilayer Ceramic Capacitor"         BottomLayer CAPACITOR_0402            1951.575      1137.992      360      "Capacitor - 33pF [0402] (Ceramic)"                                                                                     
 C20        "Multilayer Ceramic Capacitor"         BottomLayer CAPACITOR_0402            1951.575      1037.992      360      "Capacitor - 33pF [0402] (Ceramic)"                                                                                     
