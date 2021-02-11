@@ -1,10 +1,57 @@
-Output: Report Board Stack
-Type  : Report Board Stack
-From  : PCB Document [B100AA PCB R1.PcbDoc]
-   Generated File[B100AA PCB R1.xls]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [B100AA PCB R1.PcbDoc]
+   Generated File[B100AA PCB R1.GTO]
+   Generated File[B100AA PCB R1.GTP]
+   Generated File[B100AA PCB R1.GTS]
+   Generated File[B100AA PCB R1.GTL]
+   Generated File[B100AA PCB R1.G1]
+   Generated File[B100AA PCB R1.G2]
+   Generated File[B100AA PCB R1.G3]
+   Generated File[B100AA PCB R1.G4]
+   Generated File[B100AA PCB R1.GBL]
+   Generated File[B100AA PCB R1.GBS]
+   Generated File[B100AA PCB R1.GBP]
+   Generated File[B100AA PCB R1.GBO]
+   Generated File[B100AA PCB R1.GM1]
+   Generated File[B100AA PCB R1.GM2]
+   Generated File[B100AA PCB R1.GM3]
+   Generated File[B100AA PCB R1.GM4]
+   Generated File[B100AA PCB R1.GM5]
+   Generated File[B100AA PCB R1.GM6]
+   Generated File[B100AA PCB R1.GM7]
+   Generated File[B100AA PCB R1.GM8]
+   Generated File[B100AA PCB R1.GM13]
+   Generated File[B100AA PCB R1.GM15]
+   Generated File[B100AA PCB R1.GM16]
+   Generated File[B100AA PCB R1.GM40]
+   Generated File[B100AA PCB R1.GKO]
+   Generated File[B100AA PCB R1.GPT]
+   Generated File[B100AA PCB R1.GPB]
+   Generated File[B100AA PCB R1.GML]
+   Generated File[B100AA PCB R1.2]
+   Generated File[B100AA PCB R1.4]
+   Generated File[B100AA PCB R1.1]
+   Generated File[B100AA PCB R1.3]
+   Generated File[B100AA PCB R1.5]
+   Generated File[B100AA PCB R1.GD1]
+   Generated File[B100AA PCB R1.GD2]
+   Generated File[B100AA PCB R1.GD3]
+   Generated File[B100AA PCB R1.GD4]
+   Generated File[B100AA PCB R1.GD5]
+   Generated File[B100AA PCB R1.GD6]
+   Generated File[B100AA PCB R1.GG1]
+   Generated File[B100AA PCB R1.GG2]
+   Generated File[B100AA PCB R1.GG3]
+   Generated File[B100AA PCB R1.GG4]
+   Generated File[B100AA PCB R1.GG5]
+   Generated File[B100AA PCB R1.GG6]
+   Generated File[B100AA PCB R1.RUL]
+   Generated File[B100AA PCB R1.EXTREP]
+   Generated File[B100AA PCB R1.REP]
 
 
-Files Generated   : 1
+Files Generated   : 48
 Documents Printed : 0
 
-Finished Output Generation At 18:15:29 On 2.02.2021
+Finished Output Generation At 16:12:40 On 11.02.2021
