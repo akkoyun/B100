@@ -2,10 +2,10 @@
 FileName = B100AA PCB R1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 13
-      File : B100AA PCB R1.GM13
+Generating : Mechanical 16
+      File : B100AA PCB R1.GM16
 
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Mechanical 16
 
     Adding Layer      : Mechanical 1
 
@@ -92,7 +92,6 @@ Used DCodes :
     D64
     D65
     D66
-    D86
     D87
     D88
     D89
@@ -112,13 +111,62 @@ Used DCodes :
     D103
     D104
     D105
+    D106
 *************************************************************
 
 *************************************************************
-Generating : Dielectric 3
-      File : B100AA PCB R1.5
+Generating : Mid Layer 1
+      File : B100AA PCB R1.G1
 
-    Adding Layer      : Dielectric 3
+    Adding Layer      : Mid Layer 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D14
+    D15
+    D16
+    D17
+    D18
+    D65
+    D68
+    D69
+    D70
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : B100AA PCB R1.GM5
+
+    Adding Layer      : Bottom Courtyard
 
     Adding Layer      : Mechanical 1
 
@@ -155,10 +203,175 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : B100AA PCB R1.GPB
+Generating : Mid Layer 4
+      File : B100AA PCB R1.G4
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Mid Layer 4
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D14
+    D15
+    D16
+    D17
+    D18
+    D65
+    D69
+    D70
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : B100AA PCB R1.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Core 1
+      File : B100AA PCB R1.2
+
+    Adding Layer      : Core 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : B100AA PCB R1.GM4
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : B100AA PCB R1.GML
 
     Adding Layer      : Multi-Layer
 
@@ -194,36 +407,95 @@ Used DCodes :
     D16
     D17
     D18
-    D19
-    D25
-    D31
-    D38
-    D39
-    D40
-    D65
-    D69
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
+    D70
+    D111
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : B100AA PCB R1.GTO
+Generating : Bottom Assembly
+      File : B100AA PCB R1.GM3
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : B100AA PCB R1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : B100AA PCB R1.GBO
+
+    Adding Layer      : Bottom Overlay
 
     Adding Layer      : Mechanical 1
 
@@ -254,8 +526,797 @@ Used DCodes :
     D10
     D11
     D12
-    D13
     D14
+    D15
+    D16
+    D17
+    D18
+    D108
+    D109
+    D110
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : B100AA PCB R1.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : B100AA PCB R1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D19
+    D25
+    D31
+    D38
+    D39
+    D40
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D107
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : B100AA PCB R1.GD1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D112
+    D113
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : B100AA PCB R1.GD2
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Drill Pair : [uVia]Top Layer-Mid Layer 1
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : B100AA PCB R1.GD3
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Drill Pair : Mid Layer 1-Mid Layer 2
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : B100AA PCB R1.GD4
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Drill Pair : Mid Layer 1-Mid Layer 4
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : B100AA PCB R1.GD5
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Drill Pair : Mid Layer 3-Mid Layer 4
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : B100AA PCB R1.GD6
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Drill Pair : [uVia]Mid Layer 4-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : B100AA PCB R1.GG1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : B100AA PCB R1.GG2
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Drill Pair : [uVia]Top Layer-Mid Layer 1
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : B100AA PCB R1.GG3
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Drill Pair : Mid Layer 1-Mid Layer 2
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : B100AA PCB R1.GG4
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Drill Pair : Mid Layer 1-Mid Layer 4
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : B100AA PCB R1.GG5
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Drill Pair : Mid Layer 3-Mid Layer 4
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : B100AA PCB R1.GG6
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Drill Pair : [uVia]Mid Layer 4-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 2
+      File : B100AA PCB R1.3
+
+    Adding Layer      : Dielectric 2
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Board
+      File : B100AA PCB R1.GM8
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Mid Layer 2
+      File : B100AA PCB R1.G2
+
+    Adding Layer      : Mid Layer 2
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D14
+    D15
+    D16
+    D17
+    D18
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : B100AA PCB R1.GM6
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
+    D10
+    D11
     D15
     D16
     D17
@@ -333,10 +1394,50 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom 3D Body
-      File : B100AA PCB R1.GM7
+Generating : Dielectric 3
+      File : B100AA PCB R1.5
+
+    Adding Layer      : Dielectric 3
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
 
     Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : B100AA PCB R1.GM13
+
+    Adding Layer      : Mechanical 13
 
     Adding Layer      : Mechanical 1
 
@@ -439,1270 +1540,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : B100AA PCB R1.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
+Generating : Mechanical 40
+      File : B100AA PCB R1.GM40
 
     Adding Layer      : Mechanical 40
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D25
-    D31
-    D38
-    D39
-    D40
-    D65
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : B100AA PCB R1.GD1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D111
-    D112
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : B100AA PCB R1.GD2
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Drill Pair : [uVia]Top Layer-Mid Layer 1
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : B100AA PCB R1.GD3
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Drill Pair : Mid Layer 1-Mid Layer 2
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : B100AA PCB R1.GD4
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Drill Pair : Mid Layer 1-Mid Layer 4
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : B100AA PCB R1.GD5
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Drill Pair : Mid Layer 3-Mid Layer 4
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : B100AA PCB R1.GD6
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Drill Pair : [uVia]Mid Layer 4-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : B100AA PCB R1.GG1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : B100AA PCB R1.GG2
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Drill Pair : [uVia]Top Layer-Mid Layer 1
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : B100AA PCB R1.GG3
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Drill Pair : Mid Layer 1-Mid Layer 2
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : B100AA PCB R1.GG4
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Drill Pair : Mid Layer 1-Mid Layer 4
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : B100AA PCB R1.GG5
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Drill Pair : Mid Layer 3-Mid Layer 4
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : B100AA PCB R1.GG6
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Drill Pair : [uVia]Mid Layer 4-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Mid Layer 1
-      File : B100AA PCB R1.G1
-
-    Adding Layer      : Mid Layer 1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D14
-    D15
-    D16
-    D17
-    D18
-    D65
-    D68
-    D69
-    D70
-*************************************************************
-
-*************************************************************
-Generating : Multi-Layer
-      File : B100AA PCB R1.GML
-
-    Adding Layer      : Multi-Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D70
-    D110
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : B100AA PCB R1.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D19
-    D25
-    D31
-    D38
-    D39
-    D40
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D106
-*************************************************************
-
-*************************************************************
-Generating : Dielectric 1
-      File : B100AA PCB R1.1
-
-    Adding Layer      : Dielectric 1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : B100AA PCB R1.GM6
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Core 2
-      File : B100AA PCB R1.4
-
-    Adding Layer      : Core 2
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Dielectric 2
-      File : B100AA PCB R1.3
-
-    Adding Layer      : Dielectric 2
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Bottom Courtyard
-      File : B100AA PCB R1.GM5
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Mid Layer 2
-      File : B100AA PCB R1.G2
-
-    Adding Layer      : Mid Layer 2
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D14
-    D15
-    D16
-    D17
-    D18
-    D70
-*************************************************************
-
-*************************************************************
-Generating : Mid Layer 3
-      File : B100AA PCB R1.G3
-
-    Adding Layer      : Mid Layer 3
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D65
-    D69
-    D70
-*************************************************************
-
-*************************************************************
-Generating : Board
-      File : B100AA PCB R1.GM8
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Core 1
-      File : B100AA PCB R1.2
-
-    Adding Layer      : Core 1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Mid Layer 4
-      File : B100AA PCB R1.G4
-
-    Adding Layer      : Mid Layer 4
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D14
-    D15
-    D16
-    D17
-    D18
-    D65
-    D69
-    D70
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : B100AA PCB R1.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D65
-    D69
-*************************************************************
-
-*************************************************************
-Generating : Top Courtyard
-      File : B100AA PCB R1.GM4
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 16
-      File : B100AA PCB R1.GM16
-
-    Adding Layer      : Mechanical 16
 
     Adding Layer      : Mechanical 1
 
@@ -1809,46 +1650,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : B100AA PCB R1.GM15
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
 Generating : Top Assembly
       File : B100AA PCB R1.GM2
 
@@ -1889,50 +1690,12 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : B100AA PCB R1.GKO
+Generating : Top Pad Master
+      File : B100AA PCB R1.GPT
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Top Layer
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 40
-      File : B100AA PCB R1.GM40
-
-    Adding Layer      : Mechanical 40
+    Adding Layer      : Multi-Layer
 
     Adding Layer      : Mechanical 1
 
@@ -1966,93 +1729,37 @@ Used DCodes :
     D16
     D17
     D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D65
+    D69
 *************************************************************
 
 *************************************************************
-Generating : Bottom Assembly
-      File : B100AA PCB R1.GM3
+Generating : Top Overlay
+      File : B100AA PCB R1.GTO
 
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : B100AA PCB R1.GM1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Board
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 40
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : B100AA PCB R1.GBO
-
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Overlay
 
     Adding Layer      : Mechanical 1
 
@@ -2083,13 +1790,311 @@ Used DCodes :
     D10
     D11
     D12
+    D13
     D14
     D15
     D16
     D17
     D18
-    D107
-    D108
-    D109
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : B100AA PCB R1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D25
+    D31
+    D38
+    D39
+    D40
+    D65
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : B100AA PCB R1.1
+
+    Adding Layer      : Dielectric 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : B100AA PCB R1.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+    D19
+    D25
+    D31
+    D38
+    D39
+    D40
+    D65
+    D69
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Core 2
+      File : B100AA PCB R1.4
+
+    Adding Layer      : Core 2
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : B100AA PCB R1.GM7
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Mid Layer 3
+      File : B100AA PCB R1.G3
+
+    Adding Layer      : Mid Layer 3
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 40
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D14
+    D15
+    D16
+    D17
+    D18
+    D65
+    D69
+    D70
+    D71
 *************************************************************
 
