@@ -683,49 +683,83 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZQPIADVB
 
+[Document39]
+DocumentPath=Schematic\UART Communication.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=38
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LCSALAVL
+
+[Document40]
+DocumentPath=Schematic\I2C PinOut.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=39
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TTOMTGPQ
+
 [Parameter1]
-Name=Revision_
-Value=B100AA Dev Kit
+Name=Address1_
+Value=Necip Fazýl Mah. Ortaýrmak Sok.
 
 [Parameter2]
-Name=Organization_
-Value=Ovoo Electronics
+Name=Address2_
+Value=Birgül Apt. No: 19/6
 
 [Parameter3]
-Name=link
-Value=http://www.ovoo.me
+Name=Address3_
+Value=Meram / Konya
 
 [Parameter4]
-Name=Engineer_
-Value=Mehmet Günce Akkoyun
+Name=Address4_
+Value=Turkiye
 
 [Parameter5]
-Name=DocumentNumber_Prototype_
-Value=AA001_Prototype
+Name=DocumentNumber_
+Value=AA001
 
 [Parameter6]
 Name=DocumentNumber_Bulk_
 Value=AA001_Bulk
 
 [Parameter7]
-Name=DocumentNumber_
-Value=AA001
+Name=DocumentNumber_Prototype_
+Value=AA001_Prototype
 
 [Parameter8]
-Name=Address4_
-Value=Turkiye
+Name=Engineer_
+Value=Mehmet Günce Akkoyun
 
 [Parameter9]
-Name=Address3_
-Value=Meram / Konya
+Name=link
+Value=http://www.ovoo.me
 
 [Parameter10]
-Name=Address2_
-Value=Birgül Apt. No: 19/6
+Name=Organization_
+Value=Ovoo Electronics
 
 [Parameter11]
-Name=Address1_
-Value=Necip Fazýl Mah. Ortaýrmak Sok.
+Name=Revision_
+Value=B100AA Dev Kit
 
 [Configuration1]
 Name=Sources
