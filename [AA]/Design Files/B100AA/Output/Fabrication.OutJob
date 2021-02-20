@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Fabrication.OutJob
 Description=
-TargetOutputMedium=PDF
+TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=FS-1135MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -38,95 +38,81 @@ OutputName1=Fabrication ODB
 OutputCategory1=Fabrication
 OutputDocumentPath1=B100AA PCB R1.PcbDoc
 OutputVariantName1=
-OutputEnabled1=0
+OutputEnabled1=1
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=0
 OutputEnabled1_OutputMedium3=1
 OutputEnabled1_OutputMedium4=0
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Board=True|AddToAllPlots_Bottom 3D Body=True|AddToAllPlots_Bottom Assembly=True|AddToAllPlots_Bottom Courtyard=True|AddToAllPlots_Mechanical 1=True|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=True|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=True|AddToAllPlots_Mechanical 16=True|AddToAllPlots_Mechanical 9=False|AddToAllPlots_Top 3D Body=True|AddToAllPlots_Top Assembly=True|AddToAllPlots_Top Courtyard=True|AddToAllPlots_V7_1=True|AddToAllPlots_V7_1_name=Mechanical Layer 40|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=True|LayerClassesPlot.Set="All Layers","Component Layers","Signal Layers","Electrical Layers"|MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|Plot_V7_1=True|Plot_V7_1_name=Mechanical Layer 40|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=True|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=True|PlotMechanical4Plot=True|PlotMechanical5Plot=True|PlotMechanical6Plot=True|PlotMechanical7Plot=True|PlotMechanical8Plot=True|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
+Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Board=False|AddToAllPlots_Bottom 3D Body=False|AddToAllPlots_Bottom Assembly=False|AddToAllPlots_Bottom Courtyard=False|AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=False|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 9=False|AddToAllPlots_Top 3D Body=False|AddToAllPlots_Top Assembly=False|AddToAllPlots_Top Courtyard=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=True|LayerClassesPlot.Set= |MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|Plot_V7_1=True|Plot_V7_1_name=Mechanical Layer 40|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=True|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=True|PlotMechanical4Plot=True|PlotMechanical5Plot=True|PlotMechanical6Plot=True|PlotMechanical7Plot=True|PlotMechanical8Plot=True|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
 OutputType2=NC Drill
 OutputName2=NC Drill Files
 OutputCategory2=Fabrication
 OutputDocumentPath2=B100AA PCB R1.PcbDoc
 OutputVariantName2=
-OutputEnabled2=0
+OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=2
 OutputEnabled2_OutputMedium4=0
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
 OutputType3=Pick Place
 OutputName3=Generates pick and place files
 OutputCategory3=Assembly
 OutputDocumentPath3=B100AA PCB R1.PcbDoc
 OutputVariantName3=
-OutputEnabled3=0
+OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=3
 OutputEnabled3_OutputMedium4=0
 OutputDefault3=0
 Configuration3_Name1=OutputConfigurationParameter1
-Configuration3_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=False|Separator= |ExcludeFilterParam=False|IncludeVariations=False|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15
-OutputType4=Board Stack Report
-OutputName4=Report Board Stack
-OutputCategory4=Fabrication
-OutputDocumentPath4=B100AA PCB R1.PcbDoc
+Configuration3_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:ComponentLink3Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#18=Name:Pitch,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50|Column#19=Name:Maximum Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42|Column#20=Name:Supplier 7,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64|Column#21=Name:Output Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49|Column#22=Name:Impedance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33|Column#23=Name:Supplier 4,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61|Column#24=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:82|Column#25=Name:Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#26=Name:Supplier 8,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65|Column#27=Name:Leakage Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34|Column#28=Name:Operating Supply Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47|Column#29=Name:Supplier 5,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62|Column#30=Name:Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30|Column#31=Name:Supplier 10,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58|Column#32=Name:Mouser_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46|Column#33=Name:Supplier Part Number 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69|Column#34=Name:Manufacturer_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39|Column#35=Name:Supplier,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56|Column#36=Name:Supplier Part Number 4,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71|Column#37=Name:System,Fixed:False,Metric:False,Visible:False,Sort:None,Position:79|Column#38=Name:Supplier Part Number 6,Fixed:False,Metric:False,Visible:False,Sort:None,Position:73|Column#39=Name:Maximum DC Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41|Column#40=Name:Supplier Part Number 10,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68|Column#41=Name:ComponentLink3URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#42=Name:Dropout Voltage - Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#43=Name:Polarity,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51|Column#44=Name:Supplier Part Number 7,Fixed:False,Metric:False,Visible:False,Sort:None,Position:74|Column#45=Name:Maximum DC Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40|Column#46=Name:Position,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52|Column#47=Name:Card Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#48=Name:Supplier 9,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66|Column#49=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57|Column#50=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:80|Column#51=Name:Minimum Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43|Column#52=Name:Mouser Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44|Column#53=Name:Frequency Stability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31|Column#54=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67|Column#55=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#56=Name:Supply Voltage - Min,Fixed:False,Metric:False,Visible:False,Sort:None,Position:78|Column#57=Name:Device Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#58=Name:Supplier 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59|Column#59=Name:Manufacturer _Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35|Column#60=Name:ROHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53|Column#61=Name:Supplier 3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60|Column#62=Name:Supplier Part Number 9,Fixed:False,Metric:False,Visible:False,Sort:None,Position:76|Column#63=Name:Sound Level,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55|Column#64=Name:Manufacturer_Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38|Column#65=Name:Weight,Fixed:False,Metric:False,Visible:False,Sort:None,Position:83|Column#66=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#67=Name:Row,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54|Column#68=Name:Supplier 6,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63|Column#69=Name:Supplier Part Number 5,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72|Column#70=Name:Supplier Part Number 8,Fixed:False,Metric:False,Visible:False,Sort:None,Position:75|Column#71=Name:Manufacturer Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36|Column#72=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#73=Name:Datasheet Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#74=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:81|Column#75=Name:Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#76=Name:Dielectric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|Column#77=Name:Output Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48|Column#78=Name:Mouser Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45|Column#79=Name:ESR,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#80=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#81=Name:Supply Voltage - Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:77|Column#82=Name:Supplier Part Number 3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70|Column#83=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32|Column#84=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37
+OutputType4=BOM_PartType
+OutputName4=Bill of Materials
+OutputCategory4=Report
+OutputDocumentPath4=[ActiveBOM Document]
 OutputVariantName4=
 OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
-OutputEnabled4_OutputMedium2=0
-OutputEnabled4_OutputMedium3=4
+OutputEnabled4_OutputMedium2=1
+OutputEnabled4_OutputMedium3=0
 OutputEnabled4_OutputMedium4=0
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration4_Name1=OutputConfigurationParameter1
-Configuration4_Item1=Record=LayerStackReportView|Units=Imperial
-OutputType5=BOM_PartType
-OutputName5=Bill of Materials
-OutputCategory5=Report
-OutputDocumentPath5=[ActiveBOM Document]
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3|PaperIndex=8
+Configuration4_Name1=ColumnNameFormat
+Configuration4_Item1=CaptionAsName
+Configuration4_Name2=General
+Configuration4_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration4_Name3=GroupOrder
+Configuration4_Item3=Comment=True|Footprint=True
+Configuration4_Name4=SortOrder
+Configuration4_Item4=Designator=Up|Comment=Up
+Configuration4_Name5=VisibleOrder
+Configuration4_Item5=Designator=120|Quantity=120|Comment=120|Manufacturer_Name=100|Manufacturer_Part_Number=100|Manufacturer Name=100|Manufacturer Part Number=100|Manufacturer Part Number 1=100|Manufacturer _Part_Number=100
+Configuration4_Name6=VisibleOrder_Base
+Configuration4_Item6=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=146|Manufacturer Part Number 1=165|Manufacturer Lifecycle 1=147|Supplier 1=123|Supplier Part Number 1=143|Supplier Unit Price 1=127|Supplier Subtotal 1=120|Quantity@Prototype=100|Price@Prototype=100|Quantity@Bulk Production=100|Price@Bulk Production=100
+Configuration4_Name7=VisibleOrder_Consolidated
+Configuration4_Item7=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=146|Manufacturer Part Number 1=165|Manufacturer Lifecycle 1=147|Supplier 1=123|Supplier Part Number 1=143|Supplier Unit Price 1=127|Supplier Subtotal 1=120|Quantity@Prototype=100|Price@Prototype=100|Quantity@Bulk Production=100|Price@Bulk Production=100
+Configuration4_Name8=VisibleOrder_Flat
+Configuration4_Item8=Designator=120|Quantity=120|Comment=120|Manufacturer_Name=100|Manufacturer_Part_Number=100|Manufacturer Name=100|Manufacturer Part Number=100|Manufacturer Part Number 1=100|Manufacturer _Part_Number=100
+OutputType5=Gerber
+OutputName5=Gerber Files
+OutputCategory5=Fabrication
+OutputDocumentPath5=B100AA PCB R1.PcbDoc
 OutputVariantName5=
 OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
-OutputEnabled5_OutputMedium2=1
-OutputEnabled5_OutputMedium3=0
+OutputEnabled5_OutputMedium2=0
+OutputEnabled5_OutputMedium3=4
 OutputEnabled5_OutputMedium4=0
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3|PaperIndex=8
-Configuration5_Name1=ColumnNameFormat
-Configuration5_Item1=CaptionAsName
-Configuration5_Name2=General
-Configuration5_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Public\Documents\Altium\AD20\Templates\BOM Default Template.XLT|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=6|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
-Configuration5_Name3=GroupOrder
-Configuration5_Item3=Comment=True|Footprint=True
-Configuration5_Name4=SortOrder
-Configuration5_Item4=Designator=Up|Comment=Up
-Configuration5_Name5=VisibleOrder
-Configuration5_Item5=Comment=120|Designator=120|Quantity=120|Manufacturer_Name=100|Manufacturer_Part_Number=100|Manufacturer Name=100|Manufacturer Part Number=100|Manufacturer Part Number 1=100|Manufacturer _Part_Number=100
-Configuration5_Name6=VisibleOrder_Base
-Configuration5_Item6=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=146|Manufacturer Part Number 1=165|Manufacturer Lifecycle 1=147|Supplier 1=123|Supplier Part Number 1=143|Supplier Unit Price 1=127|Supplier Subtotal 1=120|Quantity@Prototype=100|Price@Prototype=100|Quantity@Bulk Production=100|Price@Bulk Production=100
-Configuration5_Name7=VisibleOrder_Consolidated
-Configuration5_Item7=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=146|Manufacturer Part Number 1=165|Manufacturer Lifecycle 1=147|Supplier 1=123|Supplier Part Number 1=143|Supplier Unit Price 1=127|Supplier Subtotal 1=120|Quantity@Prototype=100|Price@Prototype=100|Quantity@Bulk Production=100|Price@Bulk Production=100
-Configuration5_Name8=VisibleOrder_Flat
-Configuration5_Item8=Comment=120|Designator=120|Quantity=120|Manufacturer_Name=100|Manufacturer_Part_Number=100|Manufacturer Name=100|Manufacturer Part Number=100|Manufacturer Part Number 1=100|Manufacturer _Part_Number=100
-OutputType6=Gerber
-OutputName6=Gerber Files
-OutputCategory6=Fabrication
-OutputDocumentPath6=B100AA PCB R1.PcbDoc
-OutputVariantName6=
-OutputEnabled6=0
-OutputEnabled6_OutputMedium1=0
-OutputEnabled6_OutputMedium2=0
-OutputEnabled6_OutputMedium3=5
-OutputEnabled6_OutputMedium4=0
-OutputDefault6=0
-Configuration6_Name1=OutputConfigurationParameter1
-Configuration6_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908294~1,16908295~1,16908296~1,16908301~1,16908303~1,16908304~1,16908328~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set="All Layers","Component Layers","Signal Layers","Electrical Layers"|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16777220~1,16777221~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908294~1,16908295~1,16908296~1,16908301~1,16908303~1,16908304~1,16908328~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16777220~1,16777221~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908294~1,16908295~1,16908296~1,16908301~1,16908303~1,16908304~1,16908328~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [PublishSettings]
 OutputFilePath2=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output/Fabrication/\PDF\

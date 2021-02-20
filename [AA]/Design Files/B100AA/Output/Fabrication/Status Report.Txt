@@ -28,12 +28,6 @@ From  : Variant [[No Variations]] of PCB Document [B100AA PCB R1.PcbDoc]
    Generated File[B100AA PCB R1.GKO]
    Generated File[B100AA PCB R1.GPT]
    Generated File[B100AA PCB R1.GPB]
-   Generated File[B100AA PCB R1.1]
-   Generated File[B100AA PCB R1.2]
-   Generated File[B100AA PCB R1.GML]
-   Generated File[B100AA PCB R1.5]
-   Generated File[B100AA PCB R1.3]
-   Generated File[B100AA PCB R1.4]
    Generated File[B100AA PCB R1.GD1]
    Generated File[B100AA PCB R1.GD2]
    Generated File[B100AA PCB R1.GD3]
@@ -51,7 +45,7 @@ From  : Variant [[No Variations]] of PCB Document [B100AA PCB R1.PcbDoc]
    Generated File[B100AA PCB R1.REP]
 
 
-Files Generated   : 48
+Files Generated   : 42
 Documents Printed : 0
 
-Finished Output Generation At 15:07:12 On 12.02.2021
+Finished Output Generation At 00:14:10 On 21.02.2021

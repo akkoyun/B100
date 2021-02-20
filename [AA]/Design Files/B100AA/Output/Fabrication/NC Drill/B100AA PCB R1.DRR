@@ -1,9 +1,9 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: B100AA PCB R1.PcbDoc   12.02.2021  15:06:29
+NCDrill File Report For: B100AA PCB R1.PcbDoc   21.02.2021  00:13:31
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : B100AA PCB R1.TXT
+ASCII Plated RoundHoles File : B100AA PCB R1-Plated.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -13,7 +13,7 @@ T3      118mil (3mm)            +/-2mil (0.05mm)                  Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              244
 Layer Pair : Mid Layer 1 to Mid Layer 2
-ASCII RoundHoles File : B100AA PCB R1.TX2
+ASCII Plated RoundHoles File : B100AA PCB R1-Plated.TX2
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -21,7 +21,7 @@ T1      8mil (0.2mm)                                              Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              15
 Layer Pair : Mid Layer 1 to Mid Layer 4
-ASCII RoundHoles File : B100AA PCB R1.TX3
+ASCII Plated RoundHoles File : B100AA PCB R1-Plated.TX3
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -29,32 +29,32 @@ T1      8mil (0.2mm)                                              Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              135
 Layer Pair : Mid Layer 3 to Mid Layer 4
-ASCII RoundHoles File : B100AA PCB R1.TX4
+ASCII Plated RoundHoles File : B100AA PCB R1-Plated.TX4
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             97        PTH        0.00inch (0.00mm)
+T1      8mil (0.2mm)                                              Round             128       PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              97
+Totals                                                                              128
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              491
+Totals                                                                              522
 MicroVia : Top Layer to Mid Layer 1
-ASCII RoundHoles File : B100AA PCB R1.TX6
+ASCII Plated RoundHoles File : B100AA PCB R1-Plated.TX6
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             105       PTH        0.00inch (0.00mm)
+T1      8mil (0.2mm)                                              Round             168       PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              105
+Totals                                                                              168
 MicroVia : Mid Layer 4 to Bottom Layer
-ASCII RoundHoles File : B100AA PCB R1.TX10
+ASCII Plated RoundHoles File : B100AA PCB R1-Plated.TX10
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             307       PTH        0.00inch (0.00mm)
+T1      8mil (0.2mm)                                              Round             306       PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              307
+Totals                                                                              306
 ----------------------------------------------------------------------------------------------------------------------------------
-MicroVia Totals                                                                     412
+MicroVia Totals                                                                     474
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00
