@@ -1,7 +1,0 @@
-Layer Pairs Export File for PCB: C:\Altium Projects\B100\[AA]\Design Files\B100AA\B100AA PCB R1.PcbDoc
-LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=b100aa pcb r1-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
-LayersSetName=Mid1_Mid2_Buried_Vias|DrillFile=|DrillLayers=g1,g2
-LayersSetName=Mid1_Mid4_Buried_Vias|DrillFile=|DrillLayers=g1,g2,g3,g4
-LayersSetName=Mid3_Mid4_Buried_Vias|DrillFile=|DrillLayers=g3,g4
-LayersSetName=Top_Mid1_Blind_Vias|DrillFile=|DrillLayers=gtl,g1
-LayersSetName=Mid4_Bot_Blind_Vias|DrillFile=|DrillLayers=g4,gbl
