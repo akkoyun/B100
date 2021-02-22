@@ -4,9 +4,9 @@ C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\Pick & Place Output\Pick
 ========================================================================================================================
 File Design Information:
 
-Date:       21.02.21
-Time:       13:27
-Revision:   a5e363436a446011085b1fe853b85d48cb57c1e7
+Date:       22.02.21
+Time:       18:24
+Revision:   0c8f5c0600cdda3cd38380b59c5611d58ecddbbe
 Variant:    No variations
 Units used: mil
 
