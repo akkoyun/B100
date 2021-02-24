@@ -1,0 +1,5134 @@
+%TF.GenerationSoftware,Altium Limited,Altium Designer,20.0.13 (296)*%
+G04 Layer_Color=0*
+%FSLAX26Y26*%
+%MOIN*%
+%TF.FileFunction,Plated,1,4,PTH,Drill*%
+%TF.Part,Single*%
+G01*
+G75*
+%TA.AperFunction,ComponentDrill*%
+%ADD88O,0.019685X0.055118*%
+%ADD89O,0.019685X0.039370*%
+%ADD90R,0.040157X0.040157*%
+%ADD91C,0.040157*%
+%ADD92C,0.047244*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10236.206mil,5866.142mil)*%
+%ADD93C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10196.835mil,5866.142mil)*%
+%ADD94C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10157.466mil,5866.142mil)*%
+%ADD95C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9881.876mil,5866.142mil)*%
+%ADD96C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9921.246mil,5866.142mil)*%
+%ADD97C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9960.615mil,5866.142mil)*%
+%ADD98C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9999.986mil,5866.142mil)*%
+%ADD99C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10039.355mil,5866.142mil)*%
+%ADD100C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9842.505mil,5866.142mil)*%
+%ADD101C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9803.136mil,5866.142mil)*%
+%ADD102C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9763.765mil,5866.142mil)*%
+%ADD103C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9724.396mil,5866.142mil)*%
+%ADD104C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9685.025mil,5866.142mil)*%
+%ADD105C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10118.095mil,5866.142mil)*%
+%ADD106C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10078.726mil,5866.142mil)*%
+%ADD107C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10236.206mil,39.37mil)*%
+%ADD108C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10196.836mil,39.37mil)*%
+%ADD109C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10157.466mil,39.37mil)*%
+%ADD110C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9881.876mil,39.37mil)*%
+%ADD111C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9921.246mil,39.37mil)*%
+%ADD112C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9960.616mil,39.37mil)*%
+%ADD113C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9999.986mil,39.37mil)*%
+%ADD114C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10039.356mil,39.37mil)*%
+%ADD115C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9842.506mil,39.37mil)*%
+%ADD116C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9803.136mil,39.37mil)*%
+%ADD117C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9763.766mil,39.37mil)*%
+%ADD118C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9724.396mil,39.37mil)*%
+%ADD119C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9685.026mil,39.37mil)*%
+%ADD120C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10118.096mil,39.37mil)*%
+%ADD121C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10078.726mil,39.37mil)*%
+%ADD122C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5354.322mil)*%
+%ADD123C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5314.952mil)*%
+%ADD124C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5275.582mil)*%
+%ADD125C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5708.651mil)*%
+%ADD126C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5669.282mil)*%
+%ADD127C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5629.912mil)*%
+%ADD128C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5590.542mil)*%
+%ADD129C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5393.691mil)*%
+%ADD130C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5433.061mil)*%
+%ADD131C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5472.431mil)*%
+%ADD132C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5511.801mil)*%
+%ADD133C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5551.172mil)*%
+%ADD134C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5236.212mil)*%
+%ADD135C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4999.992mil)*%
+%ADD136C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4960.622mil)*%
+%ADD137C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4921.252mil)*%
+%ADD138C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4881.882mil)*%
+%ADD139C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4842.511mil)*%
+%ADD140C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5039.361mil)*%
+%ADD141C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5078.731mil)*%
+%ADD142C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5118.101mil)*%
+%ADD143C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5157.471mil)*%
+%ADD144C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,5196.842mil)*%
+%ADD145C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4724.401mil)*%
+%ADD146C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4763.771mil)*%
+%ADD147C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4803.141mil)*%
+%ADD148C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3858.262mil)*%
+%ADD149C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3818.892mil)*%
+%ADD150C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3779.521mil)*%
+%ADD151C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4251.962mil)*%
+%ADD152C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4212.592mil)*%
+%ADD153C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4173.221mil)*%
+%ADD154C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4133.851mil)*%
+%ADD155C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4094.481mil)*%
+%ADD156C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3897.631mil)*%
+%ADD157C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3937.001mil)*%
+%ADD158C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3976.372mil)*%
+%ADD159C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4015.742mil)*%
+%ADD160C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4055.111mil)*%
+%ADD161C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4448.811mil)*%
+%ADD162C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4409.441mil)*%
+%ADD163C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4370.072mil)*%
+%ADD164C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4330.702mil)*%
+%ADD165C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4291.332mil)*%
+%ADD166C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4488.181mil)*%
+%ADD167C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4527.551mil)*%
+%ADD168C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4566.922mil)*%
+%ADD169C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4606.292mil)*%
+%ADD170C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4685.032mil)*%
+%ADD171C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,4645.662mil)*%
+%ADD172C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5354.326mil)*%
+%ADD173C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5314.956mil)*%
+%ADD174C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5275.586mil)*%
+%ADD175C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5708.656mil)*%
+%ADD176C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5669.286mil)*%
+%ADD177C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5629.916mil)*%
+%ADD178C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5590.546mil)*%
+%ADD179C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5393.696mil)*%
+%ADD180C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5433.066mil)*%
+%ADD181C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5472.436mil)*%
+%ADD182C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5511.806mil)*%
+%ADD183C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5551.176mil)*%
+%ADD184C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5236.216mil)*%
+%ADD185C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4999.996mil)*%
+%ADD186C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4960.626mil)*%
+%ADD187C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4921.256mil)*%
+%ADD188C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4881.886mil)*%
+%ADD189C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4842.516mil)*%
+%ADD190C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5039.366mil)*%
+%ADD191C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5078.736mil)*%
+%ADD192C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5118.106mil)*%
+%ADD193C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5157.476mil)*%
+%ADD194C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,5196.846mil)*%
+%ADD195C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4724.406mil)*%
+%ADD196C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4763.776mil)*%
+%ADD197C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4803.146mil)*%
+%ADD198C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3858.266mil)*%
+%ADD199C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3818.896mil)*%
+%ADD200C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3779.526mil)*%
+%ADD201C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4251.966mil)*%
+%ADD202C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4212.596mil)*%
+%ADD203C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4173.226mil)*%
+%ADD204C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4133.856mil)*%
+%ADD205C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4094.486mil)*%
+%ADD206C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3897.636mil)*%
+%ADD207C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3937.006mil)*%
+%ADD208C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3976.376mil)*%
+%ADD209C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4015.746mil)*%
+%ADD210C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4055.116mil)*%
+%ADD211C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4448.816mil)*%
+%ADD212C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4409.446mil)*%
+%ADD213C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4370.076mil)*%
+%ADD214C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4330.706mil)*%
+%ADD215C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4291.336mil)*%
+%ADD216C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4488.186mil)*%
+%ADD217C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4527.556mil)*%
+%ADD218C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4566.926mil)*%
+%ADD219C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4606.296mil)*%
+%ADD220C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4685.036mil)*%
+%ADD221C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,4645.666mil)*%
+%ADD222C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9606.286mil,39.37mil)*%
+%ADD223C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9645.656mil,39.37mil)*%
+%ADD224C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9212.586mil,39.37mil)*%
+%ADD225C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9251.956mil,39.37mil)*%
+%ADD226C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9291.326mil,39.37mil)*%
+%ADD227C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9330.696mil,39.37mil)*%
+%ADD228C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9370.066mil,39.37mil)*%
+%ADD229C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9566.916mil,39.37mil)*%
+%ADD230C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9527.546mil,39.37mil)*%
+%ADD231C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9488.176mil,39.37mil)*%
+%ADD232C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9448.806mil,39.37mil)*%
+%ADD233C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9409.436mil,39.37mil)*%
+%ADD234C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8818.886mil,39.37mil)*%
+%ADD235C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8858.256mil,39.37mil)*%
+%ADD236C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8897.626mil,39.37mil)*%
+%ADD237C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8936.996mil,39.37mil)*%
+%ADD238C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8976.366mil,39.37mil)*%
+%ADD239C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9173.216mil,39.37mil)*%
+%ADD240C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9133.846mil,39.37mil)*%
+%ADD241C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9094.476mil,39.37mil)*%
+%ADD242C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9055.106mil,39.37mil)*%
+%ADD243C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9015.736mil,39.37mil)*%
+%ADD244C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8582.666mil,39.37mil)*%
+%ADD245C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8779.516mil,39.37mil)*%
+%ADD246C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8740.146mil,39.37mil)*%
+%ADD247C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8700.776mil,39.37mil)*%
+%ADD248C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8661.406mil,39.37mil)*%
+%ADD249C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8622.036mil,39.37mil)*%
+%ADD250C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8188.966mil,39.37mil)*%
+%ADD251C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8228.336mil,39.37mil)*%
+%ADD252C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8267.706mil,39.37mil)*%
+%ADD253C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8307.076mil,39.37mil)*%
+%ADD254C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8346.446mil,39.37mil)*%
+%ADD255C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8543.296mil,39.37mil)*%
+%ADD256C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8503.926mil,39.37mil)*%
+%ADD257C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8464.556mil,39.37mil)*%
+%ADD258C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8425.186mil,39.37mil)*%
+%ADD259C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8385.816mil,39.37mil)*%
+%ADD260C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7795.266mil,39.37mil)*%
+%ADD261C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7834.636mil,39.37mil)*%
+%ADD262C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7874.006mil,39.37mil)*%
+%ADD263C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7913.376mil,39.37mil)*%
+%ADD264C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7952.746mil,39.37mil)*%
+%ADD265C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8149.596mil,39.37mil)*%
+%ADD266C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8110.226mil,39.37mil)*%
+%ADD267C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8070.856mil,39.37mil)*%
+%ADD268C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8031.486mil,39.37mil)*%
+%ADD269C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7992.116mil,39.37mil)*%
+%ADD270C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7401.566mil,39.37mil)*%
+%ADD271C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7440.936mil,39.37mil)*%
+%ADD272C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7480.306mil,39.37mil)*%
+%ADD273C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7519.676mil,39.37mil)*%
+%ADD274C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7559.046mil,39.37mil)*%
+%ADD275C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7755.896mil,39.37mil)*%
+%ADD276C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7716.526mil,39.37mil)*%
+%ADD277C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7677.156mil,39.37mil)*%
+%ADD278C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7637.786mil,39.37mil)*%
+%ADD279C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7598.416mil,39.37mil)*%
+%ADD280C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7165.346mil,39.37mil)*%
+%ADD281C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7362.196mil,39.37mil)*%
+%ADD282C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7322.826mil,39.37mil)*%
+%ADD283C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7283.456mil,39.37mil)*%
+%ADD284C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7244.086mil,39.37mil)*%
+%ADD285C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7204.716mil,39.37mil)*%
+%ADD286C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6771.646mil,39.37mil)*%
+%ADD287C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6811.016mil,39.37mil)*%
+%ADD288C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6850.386mil,39.37mil)*%
+%ADD289C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6889.756mil,39.37mil)*%
+%ADD290C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6929.126mil,39.37mil)*%
+%ADD291C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7125.976mil,39.37mil)*%
+%ADD292C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7086.606mil,39.37mil)*%
+%ADD293C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7047.236mil,39.37mil)*%
+%ADD294C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7007.866mil,39.37mil)*%
+%ADD295C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6968.496mil,39.37mil)*%
+%ADD296C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6377.946mil,39.37mil)*%
+%ADD297C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6417.316mil,39.37mil)*%
+%ADD298C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6456.686mil,39.37mil)*%
+%ADD299C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6496.056mil,39.37mil)*%
+%ADD300C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6535.426mil,39.37mil)*%
+%ADD301C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6732.276mil,39.37mil)*%
+%ADD302C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6692.906mil,39.37mil)*%
+%ADD303C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6653.536mil,39.37mil)*%
+%ADD304C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6614.166mil,39.37mil)*%
+%ADD305C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6574.796mil,39.37mil)*%
+%ADD306C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5984.246mil,39.37mil)*%
+%ADD307C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6023.616mil,39.37mil)*%
+%ADD308C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6062.986mil,39.37mil)*%
+%ADD309C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6102.356mil,39.37mil)*%
+%ADD310C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6141.726mil,39.37mil)*%
+%ADD311C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6338.576mil,39.37mil)*%
+%ADD312C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6299.206mil,39.37mil)*%
+%ADD313C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6259.836mil,39.37mil)*%
+%ADD314C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6220.466mil,39.37mil)*%
+%ADD315C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6181.096mil,39.37mil)*%
+%ADD316C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5748.026mil,39.37mil)*%
+%ADD317C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5944.876mil,39.37mil)*%
+%ADD318C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5905.506mil,39.37mil)*%
+%ADD319C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5866.136mil,39.37mil)*%
+%ADD320C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5826.766mil,39.37mil)*%
+%ADD321C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5787.396mil,39.37mil)*%
+%ADD322C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9606.285mil,5866.142mil)*%
+%ADD323C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9645.656mil,5866.142mil)*%
+%ADD324C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9212.585mil,5866.142mil)*%
+%ADD325C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9251.956mil,5866.142mil)*%
+%ADD326C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9291.326mil,5866.142mil)*%
+%ADD327C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9330.695mil,5866.142mil)*%
+%ADD328C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9370.066mil,5866.142mil)*%
+%ADD329C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9566.915mil,5866.142mil)*%
+%ADD330C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9527.546mil,5866.142mil)*%
+%ADD331C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9488.175mil,5866.142mil)*%
+%ADD332C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9448.806mil,5866.142mil)*%
+%ADD333C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9409.435mil,5866.142mil)*%
+%ADD334C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8818.886mil,5866.142mil)*%
+%ADD335C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8858.255mil,5866.142mil)*%
+%ADD336C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8897.626mil,5866.142mil)*%
+%ADD337C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8936.996mil,5866.142mil)*%
+%ADD338C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8976.365mil,5866.142mil)*%
+%ADD339C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9173.216mil,5866.142mil)*%
+%ADD340C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9133.845mil,5866.142mil)*%
+%ADD341C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9094.476mil,5866.142mil)*%
+%ADD342C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9055.105mil,5866.142mil)*%
+%ADD343C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (9015.736mil,5866.142mil)*%
+%ADD344C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8582.665mil,5866.142mil)*%
+%ADD345C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8779.515mil,5866.142mil)*%
+%ADD346C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8740.146mil,5866.142mil)*%
+%ADD347C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8700.775mil,5866.142mil)*%
+%ADD348C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8661.406mil,5866.142mil)*%
+%ADD349C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8622.035mil,5866.142mil)*%
+%ADD350C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8188.966mil,5866.142mil)*%
+%ADD351C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8228.335mil,5866.142mil)*%
+%ADD352C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8267.706mil,5866.142mil)*%
+%ADD353C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8307.076mil,5866.142mil)*%
+%ADD354C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8346.445mil,5866.142mil)*%
+%ADD355C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8543.296mil,5866.142mil)*%
+%ADD356C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8503.925mil,5866.142mil)*%
+%ADD357C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8464.556mil,5866.142mil)*%
+%ADD358C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8425.185mil,5866.142mil)*%
+%ADD359C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8385.816mil,5866.142mil)*%
+%ADD360C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7795.266mil,5866.142mil)*%
+%ADD361C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7834.636mil,5866.142mil)*%
+%ADD362C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7874.006mil,5866.142mil)*%
+%ADD363C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7913.376mil,5866.142mil)*%
+%ADD364C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7952.745mil,5866.142mil)*%
+%ADD365C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8149.596mil,5866.142mil)*%
+%ADD366C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8110.225mil,5866.142mil)*%
+%ADD367C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8070.855mil,5866.142mil)*%
+%ADD368C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (8031.485mil,5866.142mil)*%
+%ADD369C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7992.115mil,5866.142mil)*%
+%ADD370C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7401.565mil,5866.142mil)*%
+%ADD371C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7440.935mil,5866.142mil)*%
+%ADD372C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7480.306mil,5866.142mil)*%
+%ADD373C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7519.676mil,5866.142mil)*%
+%ADD374C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7559.046mil,5866.142mil)*%
+%ADD375C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7755.895mil,5866.142mil)*%
+%ADD376C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7716.525mil,5866.142mil)*%
+%ADD377C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7677.155mil,5866.142mil)*%
+%ADD378C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7637.785mil,5866.142mil)*%
+%ADD379C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7598.416mil,5866.142mil)*%
+%ADD380C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7165.346mil,5866.142mil)*%
+%ADD381C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7362.195mil,5866.142mil)*%
+%ADD382C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7322.825mil,5866.142mil)*%
+%ADD383C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7283.456mil,5866.142mil)*%
+%ADD384C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7244.086mil,5866.142mil)*%
+%ADD385C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7204.716mil,5866.142mil)*%
+%ADD386C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6771.645mil,5866.142mil)*%
+%ADD387C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6811.016mil,5866.142mil)*%
+%ADD388C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6850.386mil,5866.142mil)*%
+%ADD389C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6889.756mil,5866.142mil)*%
+%ADD390C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6929.126mil,5866.142mil)*%
+%ADD391C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7125.975mil,5866.142mil)*%
+%ADD392C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7086.605mil,5866.142mil)*%
+%ADD393C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7047.235mil,5866.142mil)*%
+%ADD394C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (7007.865mil,5866.142mil)*%
+%ADD395C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6968.495mil,5866.142mil)*%
+%ADD396C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6377.945mil,5866.142mil)*%
+%ADD397C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6417.315mil,5866.142mil)*%
+%ADD398C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6456.685mil,5866.142mil)*%
+%ADD399C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6496.056mil,5866.142mil)*%
+%ADD400C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6535.426mil,5866.142mil)*%
+%ADD401C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6732.275mil,5866.142mil)*%
+%ADD402C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6692.905mil,5866.142mil)*%
+%ADD403C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6653.535mil,5866.142mil)*%
+%ADD404C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6614.166mil,5866.142mil)*%
+%ADD405C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6574.796mil,5866.142mil)*%
+%ADD406C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5984.245mil,5866.142mil)*%
+%ADD407C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6023.615mil,5866.142mil)*%
+%ADD408C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6062.985mil,5866.142mil)*%
+%ADD409C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6102.355mil,5866.142mil)*%
+%ADD410C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6141.725mil,5866.142mil)*%
+%ADD411C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6338.575mil,5866.142mil)*%
+%ADD412C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6299.206mil,5866.142mil)*%
+%ADD413C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6259.836mil,5866.142mil)*%
+%ADD414C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6220.466mil,5866.142mil)*%
+%ADD415C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (6181.096mil,5866.142mil)*%
+%ADD416C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5748.025mil,5866.142mil)*%
+%ADD417C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5944.876mil,5866.142mil)*%
+%ADD418C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5905.506mil,5866.142mil)*%
+%ADD419C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5866.136mil,5866.142mil)*%
+%ADD420C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5826.766mil,5866.142mil)*%
+%ADD421C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5787.395mil,5866.142mil)*%
+%ADD422C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,196.851mil)*%
+%ADD423C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,433.072mil)*%
+%ADD424C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,472.442mil)*%
+%ADD425C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,511.812mil)*%
+%ADD426C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,551.182mil)*%
+%ADD427C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,590.552mil)*%
+%ADD428C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,393.702mil)*%
+%ADD429C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,354.332mil)*%
+%ADD430C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,314.962mil)*%
+%ADD431C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,275.591mil)*%
+%ADD432C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,236.221mil)*%
+%ADD433C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,708.662mil)*%
+%ADD434C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,669.292mil)*%
+%ADD435C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,629.922mil)*%
+%ADD436C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3543.302mil)*%
+%ADD437C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3582.671mil)*%
+%ADD438C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3622.041mil)*%
+%ADD439C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3661.412mil)*%
+%ADD440C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3700.782mil)*%
+%ADD441C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3740.151mil)*%
+%ADD442C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3149.602mil)*%
+%ADD443C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3188.972mil)*%
+%ADD444C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3228.341mil)*%
+%ADD445C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3267.711mil)*%
+%ADD446C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3307.081mil)*%
+%ADD447C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3503.932mil)*%
+%ADD448C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3464.561mil)*%
+%ADD449C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3425.191mil)*%
+%ADD450C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3385.822mil)*%
+%ADD451C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3346.452mil)*%
+%ADD452C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2755.901mil)*%
+%ADD453C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2795.271mil)*%
+%ADD454C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2834.642mil)*%
+%ADD455C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2874.012mil)*%
+%ADD456C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2913.381mil)*%
+%ADD457C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3110.231mil)*%
+%ADD458C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3070.861mil)*%
+%ADD459C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,3031.492mil)*%
+%ADD460C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2992.122mil)*%
+%ADD461C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2952.751mil)*%
+%ADD462C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2362.202mil)*%
+%ADD463C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2401.572mil)*%
+%ADD464C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2440.941mil)*%
+%ADD465C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2480.311mil)*%
+%ADD466C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2519.682mil)*%
+%ADD467C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2716.532mil)*%
+%ADD468C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2677.162mil)*%
+%ADD469C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2637.791mil)*%
+%ADD470C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2598.421mil)*%
+%ADD471C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2559.052mil)*%
+%ADD472C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1968.502mil)*%
+%ADD473C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2007.871mil)*%
+%ADD474C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2047.242mil)*%
+%ADD475C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2086.611mil)*%
+%ADD476C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2125.981mil)*%
+%ADD477C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2322.831mil)*%
+%ADD478C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2283.461mil)*%
+%ADD479C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2244.091mil)*%
+%ADD480C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2204.722mil)*%
+%ADD481C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,2165.352mil)*%
+%ADD482C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1574.802mil)*%
+%ADD483C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1614.171mil)*%
+%ADD484C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1653.542mil)*%
+%ADD485C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1692.911mil)*%
+%ADD486C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1732.282mil)*%
+%ADD487C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1929.131mil)*%
+%ADD488C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1889.762mil)*%
+%ADD489C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1850.391mil)*%
+%ADD490C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1811.022mil)*%
+%ADD491C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1771.651mil)*%
+%ADD492C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1181.101mil)*%
+%ADD493C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1220.472mil)*%
+%ADD494C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1259.841mil)*%
+%ADD495C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1299.211mil)*%
+%ADD496C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1338.582mil)*%
+%ADD497C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1535.431mil)*%
+%ADD498C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1496.062mil)*%
+%ADD499C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1456.691mil)*%
+%ADD500C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1417.322mil)*%
+%ADD501C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1377.951mil)*%
+%ADD502C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,984.251mil)*%
+%ADD503C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1023.621mil)*%
+%ADD504C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1062.992mil)*%
+%ADD505C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1102.361mil)*%
+%ADD506C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,1141.732mil)*%
+%ADD507C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,944.881mil)*%
+%ADD508C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,905.511mil)*%
+%ADD509C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,866.141mil)*%
+%ADD510C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,826.771mil)*%
+%ADD511C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,748.032mil)*%
+%ADD512C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (39.37mil,787.402mil)*%
+%ADD513C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3149.606mil)*%
+%ADD514C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3188.976mil)*%
+%ADD515C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3110.236mil)*%
+%ADD516C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3070.866mil)*%
+%ADD517C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3031.496mil)*%
+%ADD518C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2992.126mil)*%
+%ADD519C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2795.276mil)*%
+%ADD520C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2834.646mil)*%
+%ADD521C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2874.016mil)*%
+%ADD522C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2913.386mil)*%
+%ADD523C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2952.756mil)*%
+%ADD524C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2559.056mil)*%
+%ADD525C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2519.686mil)*%
+%ADD526C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2480.316mil)*%
+%ADD527C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2440.946mil)*%
+%ADD528C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2401.576mil)*%
+%ADD529C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2598.426mil)*%
+%ADD530C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2637.796mil)*%
+%ADD531C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2677.166mil)*%
+%ADD532C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2716.536mil)*%
+%ADD533C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2755.906mil)*%
+%ADD534C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2165.356mil)*%
+%ADD535C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2125.986mil)*%
+%ADD536C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2086.616mil)*%
+%ADD537C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2047.246mil)*%
+%ADD538C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2007.876mil)*%
+%ADD539C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2204.726mil)*%
+%ADD540C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2244.096mil)*%
+%ADD541C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2283.466mil)*%
+%ADD542C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2322.836mil)*%
+%ADD543C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,2362.206mil)*%
+%ADD544C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1771.656mil)*%
+%ADD545C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1732.286mil)*%
+%ADD546C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1692.916mil)*%
+%ADD547C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1653.546mil)*%
+%ADD548C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1614.176mil)*%
+%ADD549C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1811.026mil)*%
+%ADD550C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1850.396mil)*%
+%ADD551C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1889.766mil)*%
+%ADD552C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1929.136mil)*%
+%ADD553C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1968.506mil)*%
+%ADD554C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1377.956mil)*%
+%ADD555C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1338.586mil)*%
+%ADD556C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1299.216mil)*%
+%ADD557C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1259.846mil)*%
+%ADD558C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1220.476mil)*%
+%ADD559C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1417.326mil)*%
+%ADD560C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1456.696mil)*%
+%ADD561C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1496.066mil)*%
+%ADD562C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1535.436mil)*%
+%ADD563C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1574.806mil)*%
+%ADD564C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,984.256mil)*%
+%ADD565C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,944.886mil)*%
+%ADD566C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,905.516mil)*%
+%ADD567C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,866.146mil)*%
+%ADD568C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,826.776mil)*%
+%ADD569C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1023.626mil)*%
+%ADD570C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1062.996mil)*%
+%ADD571C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1102.366mil)*%
+%ADD572C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1141.736mil)*%
+%ADD573C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,1181.106mil)*%
+%ADD574C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,590.556mil)*%
+%ADD575C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,551.186mil)*%
+%ADD576C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,511.816mil)*%
+%ADD577C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,472.446mil)*%
+%ADD578C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,433.076mil)*%
+%ADD579C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,629.926mil)*%
+%ADD580C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,669.296mil)*%
+%ADD581C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,708.666mil)*%
+%ADD582C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,748.036mil)*%
+%ADD583C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,787.406mil)*%
+%ADD584C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,196.856mil)*%
+%ADD585C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,236.226mil)*%
+%ADD586C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,275.596mil)*%
+%ADD587C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,314.966mil)*%
+%ADD588C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,354.336mil)*%
+%ADD589C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,393.706mil)*%
+%ADD590C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3307.086mil)*%
+%ADD591C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3267.716mil)*%
+%ADD592C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3228.346mil)*%
+%ADD593C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3700.786mil)*%
+%ADD594C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3661.416mil)*%
+%ADD595C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3622.046mil)*%
+%ADD596C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3582.676mil)*%
+%ADD597C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3543.306mil)*%
+%ADD598C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3346.456mil)*%
+%ADD599C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3385.826mil)*%
+%ADD600C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3425.196mil)*%
+%ADD601C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3464.566mil)*%
+%ADD602C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3503.936mil)*%
+%ADD603C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (10393.701mil,3740.156mil)*%
+%ADD604C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2755.905mil,5866.142mil)*%
+%ADD605C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2716.535mil,5866.142mil)*%
+%ADD606C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2795.276mil,5866.142mil)*%
+%ADD607C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2834.646mil,5866.142mil)*%
+%ADD608C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2874.015mil,5866.142mil)*%
+%ADD609C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2913.385mil,5866.142mil)*%
+%ADD610C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3110.235mil,5866.142mil)*%
+%ADD611C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3070.865mil,5866.142mil)*%
+%ADD612C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3031.495mil,5866.142mil)*%
+%ADD613C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2992.126mil,5866.142mil)*%
+%ADD614C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2952.756mil,5866.142mil)*%
+%ADD615C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3346.456mil,5866.142mil)*%
+%ADD616C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3385.825mil,5866.142mil)*%
+%ADD617C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3425.195mil,5866.142mil)*%
+%ADD618C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3464.566mil,5866.142mil)*%
+%ADD619C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3503.936mil,5866.142mil)*%
+%ADD620C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3307.086mil,5866.142mil)*%
+%ADD621C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3267.715mil,5866.142mil)*%
+%ADD622C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3228.345mil,5866.142mil)*%
+%ADD623C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3188.976mil,5866.142mil)*%
+%ADD624C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3149.606mil,5866.142mil)*%
+%ADD625C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3740.155mil,5866.142mil)*%
+%ADD626C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3779.526mil,5866.142mil)*%
+%ADD627C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3818.896mil,5866.142mil)*%
+%ADD628C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3858.265mil,5866.142mil)*%
+%ADD629C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3897.635mil,5866.142mil)*%
+%ADD630C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3700.785mil,5866.142mil)*%
+%ADD631C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3661.416mil,5866.142mil)*%
+%ADD632C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3622.046mil,5866.142mil)*%
+%ADD633C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3582.675mil,5866.142mil)*%
+%ADD634C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3543.305mil,5866.142mil)*%
+%ADD635C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4133.855mil,5866.142mil)*%
+%ADD636C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4173.225mil,5866.142mil)*%
+%ADD637C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4212.596mil,5866.142mil)*%
+%ADD638C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4251.966mil,5866.142mil)*%
+%ADD639C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4291.336mil,5866.142mil)*%
+%ADD640C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4094.485mil,5866.142mil)*%
+%ADD641C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4055.115mil,5866.142mil)*%
+%ADD642C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4015.745mil,5866.142mil)*%
+%ADD643C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3976.376mil,5866.142mil)*%
+%ADD644C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3937.006mil,5866.142mil)*%
+%ADD645C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4527.556mil,5866.142mil)*%
+%ADD646C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4566.926mil,5866.142mil)*%
+%ADD647C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4606.296mil,5866.142mil)*%
+%ADD648C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4645.666mil,5866.142mil)*%
+%ADD649C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4685.035mil,5866.142mil)*%
+%ADD650C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4488.185mil,5866.142mil)*%
+%ADD651C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4448.815mil,5866.142mil)*%
+%ADD652C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4409.445mil,5866.142mil)*%
+%ADD653C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4370.075mil,5866.142mil)*%
+%ADD654C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4330.706mil,5866.142mil)*%
+%ADD655C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4921.256mil,5866.142mil)*%
+%ADD656C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4960.626mil,5866.142mil)*%
+%ADD657C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4999.995mil,5866.142mil)*%
+%ADD658C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5039.365mil,5866.142mil)*%
+%ADD659C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5078.735mil,5866.142mil)*%
+%ADD660C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4881.886mil,5866.142mil)*%
+%ADD661C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4842.516mil,5866.142mil)*%
+%ADD662C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4803.145mil,5866.142mil)*%
+%ADD663C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4763.775mil,5866.142mil)*%
+%ADD664C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4724.405mil,5866.142mil)*%
+%ADD665C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5314.956mil,5866.142mil)*%
+%ADD666C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5354.325mil,5866.142mil)*%
+%ADD667C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5393.695mil,5866.142mil)*%
+%ADD668C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5433.065mil,5866.142mil)*%
+%ADD669C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5472.435mil,5866.142mil)*%
+%ADD670C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5275.586mil,5866.142mil)*%
+%ADD671C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5236.216mil,5866.142mil)*%
+%ADD672C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5196.846mil,5866.142mil)*%
+%ADD673C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5157.475mil,5866.142mil)*%
+%ADD674C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5118.105mil,5866.142mil)*%
+%ADD675C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5708.655mil,5866.142mil)*%
+%ADD676C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5669.285mil,5866.142mil)*%
+%ADD677C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5629.916mil,5866.142mil)*%
+%ADD678C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5590.546mil,5866.142mil)*%
+%ADD679C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5551.176mil,5866.142mil)*%
+%ADD680C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5511.806mil,5866.142mil)*%
+%ADD681C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2598.425mil,5866.142mil)*%
+%ADD682C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2637.796mil,5866.142mil)*%
+%ADD683C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2677.166mil,5866.142mil)*%
+%ADD684C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2204.726mil,5866.142mil)*%
+%ADD685C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2244.095mil,5866.142mil)*%
+%ADD686C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2283.465mil,5866.142mil)*%
+%ADD687C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2322.836mil,5866.142mil)*%
+%ADD688C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2362.206mil,5866.142mil)*%
+%ADD689C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2559.055mil,5866.142mil)*%
+%ADD690C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2519.686mil,5866.142mil)*%
+%ADD691C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2480.316mil,5866.142mil)*%
+%ADD692C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2440.945mil,5866.142mil)*%
+%ADD693C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2401.575mil,5866.142mil)*%
+%ADD694C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2007.876mil,5866.142mil)*%
+%ADD695C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2047.245mil,5866.142mil)*%
+%ADD696C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2086.615mil,5866.142mil)*%
+%ADD697C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2125.985mil,5866.142mil)*%
+%ADD698C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2165.356mil,5866.142mil)*%
+%ADD699C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1968.505mil,5866.142mil)*%
+%ADD700C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1929.136mil,5866.142mil)*%
+%ADD701C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1889.765mil,5866.142mil)*%
+%ADD702C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1850.396mil,5866.142mil)*%
+%ADD703C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1771.656mil,5866.142mil)*%
+%ADD704C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1811.025mil,5866.142mil)*%
+%ADD705C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1653.545mil,5866.142mil)*%
+%ADD706C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1692.916mil,5866.142mil)*%
+%ADD707C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1732.285mil,5866.142mil)*%
+%ADD708C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1259.845mil,5866.142mil)*%
+%ADD709C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1299.216mil,5866.142mil)*%
+%ADD710C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1338.585mil,5866.142mil)*%
+%ADD711C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1377.956mil,5866.142mil)*%
+%ADD712C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1417.325mil,5866.142mil)*%
+%ADD713C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1614.176mil,5866.142mil)*%
+%ADD714C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1574.805mil,5866.142mil)*%
+%ADD715C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1535.436mil,5866.142mil)*%
+%ADD716C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1496.065mil,5866.142mil)*%
+%ADD717C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1456.696mil,5866.142mil)*%
+%ADD718C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1062.995mil,5866.142mil)*%
+%ADD719C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1102.366mil,5866.142mil)*%
+%ADD720C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1141.736mil,5866.142mil)*%
+%ADD721C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1181.105mil,5866.142mil)*%
+%ADD722C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1220.476mil,5866.142mil)*%
+%ADD723C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1023.625mil,5866.142mil)*%
+%ADD724C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (984.255mil,5866.142mil)*%
+%ADD725C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (944.885mil,5866.142mil)*%
+%ADD726C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (905.515mil,5866.142mil)*%
+%ADD727C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (826.775mil,5866.142mil)*%
+%ADD728C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (866.145mil,5866.142mil)*%
+%ADD729C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (708.665mil,5866.142mil)*%
+%ADD730C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (748.035mil,5866.142mil)*%
+%ADD731C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (787.405mil,5866.142mil)*%
+%ADD732C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (314.966mil,5866.142mil)*%
+%ADD733C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (354.336mil,5866.142mil)*%
+%ADD734C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (393.705mil,5866.142mil)*%
+%ADD735C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (433.075mil,5866.142mil)*%
+%ADD736C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (472.445mil,5866.142mil)*%
+%ADD737C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (669.295mil,5866.142mil)*%
+%ADD738C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (629.926mil,5866.142mil)*%
+%ADD739C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (590.556mil,5866.142mil)*%
+%ADD740C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (551.186mil,5866.142mil)*%
+%ADD741C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (511.815mil,5866.142mil)*%
+%ADD742C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (196.856mil,5866.142mil)*%
+%ADD743C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (236.226mil,5866.142mil)*%
+%ADD744C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (275.596mil,5866.142mil)*%
+%ADD745C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5629.916mil,39.37mil)*%
+%ADD746C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5669.286mil,39.37mil)*%
+%ADD747C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5708.656mil,39.37mil)*%
+%ADD748C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5393.696mil,39.37mil)*%
+%ADD749C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5354.326mil,39.37mil)*%
+%ADD750C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5314.956mil,39.37mil)*%
+%ADD751C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5275.586mil,39.37mil)*%
+%ADD752C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5236.216mil,39.37mil)*%
+%ADD753C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5433.066mil,39.37mil)*%
+%ADD754C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5472.436mil,39.37mil)*%
+%ADD755C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5511.806mil,39.37mil)*%
+%ADD756C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5551.176mil,39.37mil)*%
+%ADD757C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5590.546mil,39.37mil)*%
+%ADD758C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5118.106mil,39.37mil)*%
+%ADD759C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5157.476mil,39.37mil)*%
+%ADD760C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5196.846mil,39.37mil)*%
+%ADD761C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5039.366mil,39.37mil)*%
+%ADD762C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (5078.736mil,39.37mil)*%
+%ADD763C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4999.996mil,39.37mil)*%
+%ADD764C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4960.626mil,39.37mil)*%
+%ADD765C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4921.256mil,39.37mil)*%
+%ADD766C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4881.886mil,39.37mil)*%
+%ADD767C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4685.036mil,39.37mil)*%
+%ADD768C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4724.406mil,39.37mil)*%
+%ADD769C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4763.776mil,39.37mil)*%
+%ADD770C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4803.146mil,39.37mil)*%
+%ADD771C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4842.516mil,39.37mil)*%
+%ADD772C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4448.816mil,39.37mil)*%
+%ADD773C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4409.446mil,39.37mil)*%
+%ADD774C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4370.076mil,39.37mil)*%
+%ADD775C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4330.706mil,39.37mil)*%
+%ADD776C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4291.336mil,39.37mil)*%
+%ADD777C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4488.186mil,39.37mil)*%
+%ADD778C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4527.556mil,39.37mil)*%
+%ADD779C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4566.926mil,39.37mil)*%
+%ADD780C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4606.296mil,39.37mil)*%
+%ADD781C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4645.666mil,39.37mil)*%
+%ADD782C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4173.226mil,39.37mil)*%
+%ADD783C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4212.596mil,39.37mil)*%
+%ADD784C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4251.966mil,39.37mil)*%
+%ADD785C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4094.486mil,39.37mil)*%
+%ADD786C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4133.856mil,39.37mil)*%
+%ADD787C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4055.116mil,39.37mil)*%
+%ADD788C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (4015.746mil,39.37mil)*%
+%ADD789C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3976.376mil,39.37mil)*%
+%ADD790C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3937.006mil,39.37mil)*%
+%ADD791C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3740.156mil,39.37mil)*%
+%ADD792C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3779.526mil,39.37mil)*%
+%ADD793C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3818.896mil,39.37mil)*%
+%ADD794C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3858.266mil,39.37mil)*%
+%ADD795C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3897.636mil,39.37mil)*%
+%ADD796C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3503.936mil,39.37mil)*%
+%ADD797C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3464.566mil,39.37mil)*%
+%ADD798C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3425.196mil,39.37mil)*%
+%ADD799C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3385.826mil,39.37mil)*%
+%ADD800C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3346.456mil,39.37mil)*%
+%ADD801C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3543.306mil,39.37mil)*%
+%ADD802C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3582.676mil,39.37mil)*%
+%ADD803C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3622.046mil,39.37mil)*%
+%ADD804C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3661.416mil,39.37mil)*%
+%ADD805C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3700.786mil,39.37mil)*%
+%ADD806C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3228.346mil,39.37mil)*%
+%ADD807C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3267.716mil,39.37mil)*%
+%ADD808C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3307.086mil,39.37mil)*%
+%ADD809C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (393.706mil,39.37mil)*%
+%ADD810C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (354.336mil,39.37mil)*%
+%ADD811C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (314.966mil,39.37mil)*%
+%ADD812C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (275.596mil,39.37mil)*%
+%ADD813C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (236.226mil,39.37mil)*%
+%ADD814C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (196.856mil,39.37mil)*%
+%ADD815C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (787.406mil,39.37mil)*%
+%ADD816C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (748.036mil,39.37mil)*%
+%ADD817C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (708.666mil,39.37mil)*%
+%ADD818C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (669.296mil,39.37mil)*%
+%ADD819C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (629.926mil,39.37mil)*%
+%ADD820C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (433.076mil,39.37mil)*%
+%ADD821C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (472.446mil,39.37mil)*%
+%ADD822C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (511.816mil,39.37mil)*%
+%ADD823C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (551.186mil,39.37mil)*%
+%ADD824C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (590.556mil,39.37mil)*%
+%ADD825C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1181.106mil,39.37mil)*%
+%ADD826C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1141.736mil,39.37mil)*%
+%ADD827C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1102.366mil,39.37mil)*%
+%ADD828C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1062.996mil,39.37mil)*%
+%ADD829C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1023.626mil,39.37mil)*%
+%ADD830C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (826.776mil,39.37mil)*%
+%ADD831C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (866.146mil,39.37mil)*%
+%ADD832C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (905.516mil,39.37mil)*%
+%ADD833C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (944.886mil,39.37mil)*%
+%ADD834C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (984.256mil,39.37mil)*%
+%ADD835C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1574.806mil,39.37mil)*%
+%ADD836C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1535.436mil,39.37mil)*%
+%ADD837C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1496.066mil,39.37mil)*%
+%ADD838C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1456.696mil,39.37mil)*%
+%ADD839C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1417.326mil,39.37mil)*%
+%ADD840C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1220.476mil,39.37mil)*%
+%ADD841C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1259.846mil,39.37mil)*%
+%ADD842C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1299.216mil,39.37mil)*%
+%ADD843C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1338.586mil,39.37mil)*%
+%ADD844C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1377.956mil,39.37mil)*%
+%ADD845C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1968.506mil,39.37mil)*%
+%ADD846C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1929.136mil,39.37mil)*%
+%ADD847C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1889.766mil,39.37mil)*%
+%ADD848C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1850.396mil,39.37mil)*%
+%ADD849C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1811.026mil,39.37mil)*%
+%ADD850C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1614.176mil,39.37mil)*%
+%ADD851C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1653.546mil,39.37mil)*%
+%ADD852C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1692.916mil,39.37mil)*%
+%ADD853C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1732.286mil,39.37mil)*%
+%ADD854C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (1771.656mil,39.37mil)*%
+%ADD855C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2362.206mil,39.37mil)*%
+%ADD856C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2322.836mil,39.37mil)*%
+%ADD857C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2283.466mil,39.37mil)*%
+%ADD858C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2244.096mil,39.37mil)*%
+%ADD859C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2204.726mil,39.37mil)*%
+%ADD860C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2007.876mil,39.37mil)*%
+%ADD861C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2047.246mil,39.37mil)*%
+%ADD862C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2086.616mil,39.37mil)*%
+%ADD863C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2125.986mil,39.37mil)*%
+%ADD864C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2165.356mil,39.37mil)*%
+%ADD865C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2755.906mil,39.37mil)*%
+%ADD866C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2716.536mil,39.37mil)*%
+%ADD867C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2677.166mil,39.37mil)*%
+%ADD868C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2637.796mil,39.37mil)*%
+%ADD869C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2598.426mil,39.37mil)*%
+%ADD870C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2401.576mil,39.37mil)*%
+%ADD871C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2440.946mil,39.37mil)*%
+%ADD872C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2480.316mil,39.37mil)*%
+%ADD873C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2519.686mil,39.37mil)*%
+%ADD874C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2559.056mil,39.37mil)*%
+%ADD875C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2952.756mil,39.37mil)*%
+%ADD876C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2913.386mil,39.37mil)*%
+%ADD877C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2874.016mil,39.37mil)*%
+%ADD878C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2834.646mil,39.37mil)*%
+%ADD879C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2795.276mil,39.37mil)*%
+%ADD880C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (2992.126mil,39.37mil)*%
+%ADD881C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3031.496mil,39.37mil)*%
+%ADD882C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3070.866mil,39.37mil)*%
+%ADD883C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3110.236mil,39.37mil)*%
+%ADD884C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3188.976mil,39.37mil)*%
+%ADD885C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-3 (3149.606mil,39.37mil)*%
+%ADD886C,0.019685*%
+%TA.AperFunction,OtherDrill,Pad Free-2 (10314.961mil,118.11mil)*%
+%ADD887C,0.118110*%
+%TA.AperFunction,OtherDrill,Pad Free-2 (10314.961mil,5787.402mil)*%
+%ADD888C,0.118110*%
+%TA.AperFunction,OtherDrill,Pad Free-2 (118.11mil,5787.402mil)*%
+%ADD889C,0.118110*%
+%TA.AperFunction,OtherDrill,Pad Free-2 (118.11mil,118.11mil)*%
+%ADD890C,0.118110*%
+%TA.AperFunction,OtherDrill,Pad Free-2 (3540.122mil,2755.905mil)*%
+%ADD891C,0.118110*%
+%TA.AperFunction,OtherDrill,Pad Free-2 (3540.122mil,4330.709mil)*%
+%ADD892C,0.118110*%
+%TA.AperFunction,OtherDrill,Pad Free-2 (6689.728mil,2755.905mil)*%
+%ADD893C,0.118110*%
+%TA.AperFunction,OtherDrill,Pad Free-2 (6689.728mil,4330.709mil)*%
+%ADD894C,0.118110*%
+%TA.AperFunction,ViaDrill,NotFilled*%
+%ADD895C,0.007874*%
+D88*
+X10125984Y2657480D02*
+D03*
+Y3248032D02*
+D03*
+Y3838583D02*
+D03*
+Y4429134D02*
+D03*
+D89*
+X10039370Y2767716D02*
+D03*
+Y2547244D02*
+D03*
+Y3358268D02*
+D03*
+Y3137795D02*
+D03*
+Y3948819D02*
+D03*
+Y3728347D02*
+D03*
+Y4539370D02*
+D03*
+Y4318898D02*
+D03*
+D90*
+X6982283Y5196850D02*
+D03*
+X6116142D02*
+D03*
+X5231890D02*
+D03*
+X10053150D02*
+D03*
+X8468898D02*
+D03*
+X7366535D02*
+D03*
+X2799606Y1653543D02*
+D03*
+X4846850D02*
+D03*
+X6894095D02*
+D03*
+X8941339D02*
+D03*
+X752362D02*
+D03*
+X1697244Y5196850D02*
+D03*
+D91*
+X6882283D02*
+D03*
+X6782283D02*
+D03*
+X6682283D02*
+D03*
+X6582283D02*
+D03*
+X6482283D02*
+D03*
+X6016142D02*
+D03*
+X5916142D02*
+D03*
+X5816142D02*
+D03*
+X5716142D02*
+D03*
+X5616142D02*
+D03*
+X5131890D02*
+D03*
+X5031890D02*
+D03*
+X4931890D02*
+D03*
+X4831890D02*
+D03*
+X4731890D02*
+D03*
+X4631890D02*
+D03*
+X4531890D02*
+D03*
+X9953150D02*
+D03*
+X9853150D02*
+D03*
+X9753150D02*
+D03*
+X9653150D02*
+D03*
+X9553150D02*
+D03*
+X8568898D02*
+D03*
+X8668898D02*
+D03*
+X8768898D02*
+D03*
+X8868898D02*
+D03*
+X8968898D02*
+D03*
+X9068898D02*
+D03*
+X9168898D02*
+D03*
+X7466535D02*
+D03*
+X7566535D02*
+D03*
+X7666535D02*
+D03*
+X7766535D02*
+D03*
+X7866535D02*
+D03*
+X7966535D02*
+D03*
+X8066535D02*
+D03*
+X2899606Y1653543D02*
+D03*
+X2999606D02*
+D03*
+X3099606D02*
+D03*
+X3199606D02*
+D03*
+X3299606D02*
+D03*
+X3399606D02*
+D03*
+X3499606D02*
+D03*
+X4946850D02*
+D03*
+X5046850D02*
+D03*
+X5146850D02*
+D03*
+X5246850D02*
+D03*
+X5346850D02*
+D03*
+X5446850D02*
+D03*
+X5546850D02*
+D03*
+X6994095D02*
+D03*
+X7094095D02*
+D03*
+X7194095D02*
+D03*
+X7294095D02*
+D03*
+X7394095D02*
+D03*
+X7494095D02*
+D03*
+X7594095D02*
+D03*
+X9041339D02*
+D03*
+X9141339D02*
+D03*
+X9241339D02*
+D03*
+X9341339D02*
+D03*
+X9441339D02*
+D03*
+X9541339D02*
+D03*
+X9641339D02*
+D03*
+X852362D02*
+D03*
+X952362D02*
+D03*
+X1052362D02*
+D03*
+X1152362D02*
+D03*
+X1252362D02*
+D03*
+X1352362D02*
+D03*
+X1452362D02*
+D03*
+X1797244Y5196850D02*
+D03*
+X1897244D02*
+D03*
+X1997244D02*
+D03*
+X2097244D02*
+D03*
+X2197244D02*
+D03*
+X2297244D02*
+D03*
+X2397244D02*
+D03*
+D92*
+X590551Y5157480D02*
+D03*
+X452756Y5354331D02*
+D03*
+D93*
+X10236206Y5866142D02*
+D03*
+D94*
+X10196835D02*
+D03*
+D95*
+X10157466D02*
+D03*
+D96*
+X9881876D02*
+D03*
+D97*
+X9921246D02*
+D03*
+D98*
+X9960615D02*
+D03*
+D99*
+X9999986D02*
+D03*
+D100*
+X10039355D02*
+D03*
+D101*
+X9842505D02*
+D03*
+D102*
+X9803136D02*
+D03*
+D103*
+X9763765D02*
+D03*
+D104*
+X9724396D02*
+D03*
+D105*
+X9685025D02*
+D03*
+D106*
+X10118095D02*
+D03*
+D107*
+X10078726D02*
+D03*
+D108*
+X10236206Y39370D02*
+D03*
+D109*
+X10196836D02*
+D03*
+D110*
+X10157466D02*
+D03*
+D111*
+X9881876D02*
+D03*
+D112*
+X9921246D02*
+D03*
+D113*
+X9960616D02*
+D03*
+D114*
+X9999986D02*
+D03*
+D115*
+X10039356D02*
+D03*
+D116*
+X9842506D02*
+D03*
+D117*
+X9803136D02*
+D03*
+D118*
+X9763766D02*
+D03*
+D119*
+X9724396D02*
+D03*
+D120*
+X9685026D02*
+D03*
+D121*
+X10118096D02*
+D03*
+D122*
+X10078726D02*
+D03*
+D123*
+X39370Y5354322D02*
+D03*
+D124*
+Y5314952D02*
+D03*
+D125*
+Y5275582D02*
+D03*
+D126*
+Y5708651D02*
+D03*
+D127*
+Y5669282D02*
+D03*
+D128*
+Y5629912D02*
+D03*
+D129*
+Y5590542D02*
+D03*
+D130*
+Y5393691D02*
+D03*
+D131*
+Y5433061D02*
+D03*
+D132*
+Y5472431D02*
+D03*
+D133*
+Y5511801D02*
+D03*
+D134*
+Y5551172D02*
+D03*
+D135*
+Y5236212D02*
+D03*
+D136*
+Y4999992D02*
+D03*
+D137*
+Y4960622D02*
+D03*
+D138*
+Y4921252D02*
+D03*
+D139*
+Y4881882D02*
+D03*
+D140*
+Y4842511D02*
+D03*
+D141*
+Y5039361D02*
+D03*
+D142*
+Y5078731D02*
+D03*
+D143*
+Y5118101D02*
+D03*
+D144*
+Y5157471D02*
+D03*
+D145*
+Y5196842D02*
+D03*
+D146*
+Y4724401D02*
+D03*
+D147*
+Y4763771D02*
+D03*
+D148*
+Y4803141D02*
+D03*
+D149*
+Y3858262D02*
+D03*
+D150*
+Y3818892D02*
+D03*
+D151*
+Y3779521D02*
+D03*
+D152*
+Y4251962D02*
+D03*
+D153*
+Y4212592D02*
+D03*
+D154*
+Y4173221D02*
+D03*
+D155*
+Y4133851D02*
+D03*
+D156*
+Y4094481D02*
+D03*
+D157*
+Y3897631D02*
+D03*
+D158*
+Y3937001D02*
+D03*
+D159*
+Y3976372D02*
+D03*
+D160*
+Y4015742D02*
+D03*
+D161*
+Y4055111D02*
+D03*
+D162*
+Y4448811D02*
+D03*
+D163*
+Y4409441D02*
+D03*
+D164*
+Y4370072D02*
+D03*
+D165*
+Y4330702D02*
+D03*
+D166*
+Y4291332D02*
+D03*
+D167*
+Y4488181D02*
+D03*
+D168*
+Y4527551D02*
+D03*
+D169*
+Y4566922D02*
+D03*
+D170*
+Y4606292D02*
+D03*
+D171*
+Y4685032D02*
+D03*
+D172*
+Y4645662D02*
+D03*
+D173*
+X10393701Y5354326D02*
+D03*
+D174*
+Y5314956D02*
+D03*
+D175*
+Y5275586D02*
+D03*
+D176*
+Y5708656D02*
+D03*
+D177*
+Y5669286D02*
+D03*
+D178*
+Y5629916D02*
+D03*
+D179*
+Y5590546D02*
+D03*
+D180*
+Y5393696D02*
+D03*
+D181*
+Y5433066D02*
+D03*
+D182*
+Y5472436D02*
+D03*
+D183*
+Y5511806D02*
+D03*
+D184*
+Y5551176D02*
+D03*
+D185*
+Y5236216D02*
+D03*
+D186*
+Y4999996D02*
+D03*
+D187*
+Y4960626D02*
+D03*
+D188*
+Y4921256D02*
+D03*
+D189*
+Y4881886D02*
+D03*
+D190*
+Y4842516D02*
+D03*
+D191*
+Y5039366D02*
+D03*
+D192*
+Y5078736D02*
+D03*
+D193*
+Y5118106D02*
+D03*
+D194*
+Y5157476D02*
+D03*
+D195*
+Y5196846D02*
+D03*
+D196*
+Y4724406D02*
+D03*
+D197*
+Y4763776D02*
+D03*
+D198*
+Y4803146D02*
+D03*
+D199*
+Y3858266D02*
+D03*
+D200*
+Y3818896D02*
+D03*
+D201*
+Y3779526D02*
+D03*
+D202*
+Y4251966D02*
+D03*
+D203*
+Y4212596D02*
+D03*
+D204*
+Y4173226D02*
+D03*
+D205*
+Y4133856D02*
+D03*
+D206*
+Y4094486D02*
+D03*
+D207*
+Y3897636D02*
+D03*
+D208*
+Y3937006D02*
+D03*
+D209*
+Y3976376D02*
+D03*
+D210*
+Y4015746D02*
+D03*
+D211*
+Y4055116D02*
+D03*
+D212*
+Y4448816D02*
+D03*
+D213*
+Y4409446D02*
+D03*
+D214*
+Y4370076D02*
+D03*
+D215*
+Y4330706D02*
+D03*
+D216*
+Y4291336D02*
+D03*
+D217*
+Y4488186D02*
+D03*
+D218*
+Y4527556D02*
+D03*
+D219*
+Y4566926D02*
+D03*
+D220*
+Y4606296D02*
+D03*
+D221*
+Y4685036D02*
+D03*
+D222*
+Y4645666D02*
+D03*
+D223*
+X9606286Y39370D02*
+D03*
+D224*
+X9645656D02*
+D03*
+D225*
+X9212586D02*
+D03*
+D226*
+X9251956D02*
+D03*
+D227*
+X9291326D02*
+D03*
+D228*
+X9330696D02*
+D03*
+D229*
+X9370066D02*
+D03*
+D230*
+X9566916D02*
+D03*
+D231*
+X9527546D02*
+D03*
+D232*
+X9488176D02*
+D03*
+D233*
+X9448806D02*
+D03*
+D234*
+X9409436D02*
+D03*
+D235*
+X8818886D02*
+D03*
+D236*
+X8858256D02*
+D03*
+D237*
+X8897626D02*
+D03*
+D238*
+X8936996D02*
+D03*
+D239*
+X8976366D02*
+D03*
+D240*
+X9173216D02*
+D03*
+D241*
+X9133846D02*
+D03*
+D242*
+X9094476D02*
+D03*
+D243*
+X9055106D02*
+D03*
+D244*
+X9015736D02*
+D03*
+D245*
+X8582666D02*
+D03*
+D246*
+X8779516D02*
+D03*
+D247*
+X8740146D02*
+D03*
+D248*
+X8700776D02*
+D03*
+D249*
+X8661406D02*
+D03*
+D250*
+X8622036D02*
+D03*
+D251*
+X8188966D02*
+D03*
+D252*
+X8228336D02*
+D03*
+D253*
+X8267706D02*
+D03*
+D254*
+X8307076D02*
+D03*
+D255*
+X8346446D02*
+D03*
+D256*
+X8543296D02*
+D03*
+D257*
+X8503926D02*
+D03*
+D258*
+X8464556D02*
+D03*
+D259*
+X8425186D02*
+D03*
+D260*
+X8385816D02*
+D03*
+D261*
+X7795266D02*
+D03*
+D262*
+X7834636D02*
+D03*
+D263*
+X7874006D02*
+D03*
+D264*
+X7913376D02*
+D03*
+D265*
+X7952746D02*
+D03*
+D266*
+X8149596D02*
+D03*
+D267*
+X8110226D02*
+D03*
+D268*
+X8070856D02*
+D03*
+D269*
+X8031486D02*
+D03*
+D270*
+X7992116D02*
+D03*
+D271*
+X7401566D02*
+D03*
+D272*
+X7440936D02*
+D03*
+D273*
+X7480306D02*
+D03*
+D274*
+X7519676D02*
+D03*
+D275*
+X7559046D02*
+D03*
+D276*
+X7755896D02*
+D03*
+D277*
+X7716526D02*
+D03*
+D278*
+X7677156D02*
+D03*
+D279*
+X7637786D02*
+D03*
+D280*
+X7598416D02*
+D03*
+D281*
+X7165346D02*
+D03*
+D282*
+X7362196D02*
+D03*
+D283*
+X7322826D02*
+D03*
+D284*
+X7283456D02*
+D03*
+D285*
+X7244086D02*
+D03*
+D286*
+X7204716D02*
+D03*
+D287*
+X6771646D02*
+D03*
+D288*
+X6811016D02*
+D03*
+D289*
+X6850386D02*
+D03*
+D290*
+X6889756D02*
+D03*
+D291*
+X6929126D02*
+D03*
+D292*
+X7125976D02*
+D03*
+D293*
+X7086606D02*
+D03*
+D294*
+X7047236D02*
+D03*
+D295*
+X7007866D02*
+D03*
+D296*
+X6968496D02*
+D03*
+D297*
+X6377946D02*
+D03*
+D298*
+X6417316D02*
+D03*
+D299*
+X6456686D02*
+D03*
+D300*
+X6496056D02*
+D03*
+D301*
+X6535426D02*
+D03*
+D302*
+X6732276D02*
+D03*
+D303*
+X6692906D02*
+D03*
+D304*
+X6653536D02*
+D03*
+D305*
+X6614166D02*
+D03*
+D306*
+X6574796D02*
+D03*
+D307*
+X5984246D02*
+D03*
+D308*
+X6023616D02*
+D03*
+D309*
+X6062986D02*
+D03*
+D310*
+X6102356D02*
+D03*
+D311*
+X6141726D02*
+D03*
+D312*
+X6338576D02*
+D03*
+D313*
+X6299206D02*
+D03*
+D314*
+X6259836D02*
+D03*
+D315*
+X6220466D02*
+D03*
+D316*
+X6181096D02*
+D03*
+D317*
+X5748026D02*
+D03*
+D318*
+X5944876D02*
+D03*
+D319*
+X5905506D02*
+D03*
+D320*
+X5866136D02*
+D03*
+D321*
+X5826766D02*
+D03*
+D322*
+X5787396D02*
+D03*
+D323*
+X9606285Y5866142D02*
+D03*
+D324*
+X9645656D02*
+D03*
+D325*
+X9212585D02*
+D03*
+D326*
+X9251956D02*
+D03*
+D327*
+X9291326D02*
+D03*
+D328*
+X9330695D02*
+D03*
+D329*
+X9370066D02*
+D03*
+D330*
+X9566915D02*
+D03*
+D331*
+X9527546D02*
+D03*
+D332*
+X9488175D02*
+D03*
+D333*
+X9448806D02*
+D03*
+D334*
+X9409435D02*
+D03*
+D335*
+X8818886D02*
+D03*
+D336*
+X8858255D02*
+D03*
+D337*
+X8897626D02*
+D03*
+D338*
+X8936996D02*
+D03*
+D339*
+X8976365D02*
+D03*
+D340*
+X9173216D02*
+D03*
+D341*
+X9133845D02*
+D03*
+D342*
+X9094476D02*
+D03*
+D343*
+X9055105D02*
+D03*
+D344*
+X9015736D02*
+D03*
+D345*
+X8582665D02*
+D03*
+D346*
+X8779515D02*
+D03*
+D347*
+X8740146D02*
+D03*
+D348*
+X8700775D02*
+D03*
+D349*
+X8661406D02*
+D03*
+D350*
+X8622035D02*
+D03*
+D351*
+X8188966D02*
+D03*
+D352*
+X8228335D02*
+D03*
+D353*
+X8267706D02*
+D03*
+D354*
+X8307076D02*
+D03*
+D355*
+X8346445D02*
+D03*
+D356*
+X8543296D02*
+D03*
+D357*
+X8503925D02*
+D03*
+D358*
+X8464556D02*
+D03*
+D359*
+X8425185D02*
+D03*
+D360*
+X8385816D02*
+D03*
+D361*
+X7795266D02*
+D03*
+D362*
+X7834636D02*
+D03*
+D363*
+X7874006D02*
+D03*
+D364*
+X7913376D02*
+D03*
+D365*
+X7952745D02*
+D03*
+D366*
+X8149596D02*
+D03*
+D367*
+X8110225D02*
+D03*
+D368*
+X8070855D02*
+D03*
+D369*
+X8031485D02*
+D03*
+D370*
+X7992115D02*
+D03*
+D371*
+X7401565D02*
+D03*
+D372*
+X7440935D02*
+D03*
+D373*
+X7480306D02*
+D03*
+D374*
+X7519676D02*
+D03*
+D375*
+X7559046D02*
+D03*
+D376*
+X7755895D02*
+D03*
+D377*
+X7716525D02*
+D03*
+D378*
+X7677155D02*
+D03*
+D379*
+X7637785D02*
+D03*
+D380*
+X7598416D02*
+D03*
+D381*
+X7165346D02*
+D03*
+D382*
+X7362195D02*
+D03*
+D383*
+X7322825D02*
+D03*
+D384*
+X7283456D02*
+D03*
+D385*
+X7244086D02*
+D03*
+D386*
+X7204716D02*
+D03*
+D387*
+X6771645D02*
+D03*
+D388*
+X6811016D02*
+D03*
+D389*
+X6850386D02*
+D03*
+D390*
+X6889756D02*
+D03*
+D391*
+X6929126D02*
+D03*
+D392*
+X7125975D02*
+D03*
+D393*
+X7086605D02*
+D03*
+D394*
+X7047235D02*
+D03*
+D395*
+X7007865D02*
+D03*
+D396*
+X6968495D02*
+D03*
+D397*
+X6377945D02*
+D03*
+D398*
+X6417315D02*
+D03*
+D399*
+X6456685D02*
+D03*
+D400*
+X6496056D02*
+D03*
+D401*
+X6535426D02*
+D03*
+D402*
+X6732275D02*
+D03*
+D403*
+X6692905D02*
+D03*
+D404*
+X6653535D02*
+D03*
+D405*
+X6614166D02*
+D03*
+D406*
+X6574796D02*
+D03*
+D407*
+X5984245D02*
+D03*
+D408*
+X6023615D02*
+D03*
+D409*
+X6062985D02*
+D03*
+D410*
+X6102355D02*
+D03*
+D411*
+X6141725D02*
+D03*
+D412*
+X6338575D02*
+D03*
+D413*
+X6299206D02*
+D03*
+D414*
+X6259836D02*
+D03*
+D415*
+X6220466D02*
+D03*
+D416*
+X6181096D02*
+D03*
+D417*
+X5748025D02*
+D03*
+D418*
+X5944876D02*
+D03*
+D419*
+X5905506D02*
+D03*
+D420*
+X5866136D02*
+D03*
+D421*
+X5826766D02*
+D03*
+D422*
+X5787395D02*
+D03*
+D423*
+X39370Y196851D02*
+D03*
+D424*
+Y433072D02*
+D03*
+D425*
+Y472442D02*
+D03*
+D426*
+Y511812D02*
+D03*
+D427*
+Y551182D02*
+D03*
+D428*
+Y590552D02*
+D03*
+D429*
+Y393702D02*
+D03*
+D430*
+Y354332D02*
+D03*
+D431*
+Y314962D02*
+D03*
+D432*
+Y275591D02*
+D03*
+D433*
+Y236221D02*
+D03*
+D434*
+Y708662D02*
+D03*
+D435*
+Y669292D02*
+D03*
+D436*
+Y629922D02*
+D03*
+D437*
+Y3543302D02*
+D03*
+D438*
+Y3582671D02*
+D03*
+D439*
+Y3622041D02*
+D03*
+D440*
+Y3661412D02*
+D03*
+D441*
+Y3700782D02*
+D03*
+D442*
+Y3740151D02*
+D03*
+D443*
+Y3149602D02*
+D03*
+D444*
+Y3188972D02*
+D03*
+D445*
+Y3228341D02*
+D03*
+D446*
+Y3267711D02*
+D03*
+D447*
+Y3307081D02*
+D03*
+D448*
+Y3503932D02*
+D03*
+D449*
+Y3464561D02*
+D03*
+D450*
+Y3425191D02*
+D03*
+D451*
+Y3385822D02*
+D03*
+D452*
+Y3346452D02*
+D03*
+D453*
+Y2755901D02*
+D03*
+D454*
+Y2795271D02*
+D03*
+D455*
+Y2834642D02*
+D03*
+D456*
+Y2874012D02*
+D03*
+D457*
+Y2913381D02*
+D03*
+D458*
+Y3110231D02*
+D03*
+D459*
+Y3070861D02*
+D03*
+D460*
+Y3031492D02*
+D03*
+D461*
+Y2992122D02*
+D03*
+D462*
+Y2952751D02*
+D03*
+D463*
+Y2362202D02*
+D03*
+D464*
+Y2401572D02*
+D03*
+D465*
+Y2440941D02*
+D03*
+D466*
+Y2480311D02*
+D03*
+D467*
+Y2519682D02*
+D03*
+D468*
+Y2716532D02*
+D03*
+D469*
+Y2677162D02*
+D03*
+D470*
+Y2637791D02*
+D03*
+D471*
+Y2598421D02*
+D03*
+D472*
+Y2559052D02*
+D03*
+D473*
+Y1968502D02*
+D03*
+D474*
+Y2007871D02*
+D03*
+D475*
+Y2047242D02*
+D03*
+D476*
+Y2086611D02*
+D03*
+D477*
+Y2125981D02*
+D03*
+D478*
+Y2322831D02*
+D03*
+D479*
+Y2283461D02*
+D03*
+D480*
+Y2244091D02*
+D03*
+D481*
+Y2204722D02*
+D03*
+D482*
+Y2165352D02*
+D03*
+D483*
+Y1574802D02*
+D03*
+D484*
+Y1614171D02*
+D03*
+D485*
+Y1653542D02*
+D03*
+D486*
+Y1692911D02*
+D03*
+D487*
+Y1732282D02*
+D03*
+D488*
+Y1929131D02*
+D03*
+D489*
+Y1889762D02*
+D03*
+D490*
+Y1850391D02*
+D03*
+D491*
+Y1811022D02*
+D03*
+D492*
+Y1771651D02*
+D03*
+D493*
+Y1181101D02*
+D03*
+D494*
+Y1220472D02*
+D03*
+D495*
+Y1259841D02*
+D03*
+D496*
+Y1299211D02*
+D03*
+D497*
+Y1338582D02*
+D03*
+D498*
+Y1535431D02*
+D03*
+D499*
+Y1496062D02*
+D03*
+D500*
+Y1456691D02*
+D03*
+D501*
+Y1417322D02*
+D03*
+D502*
+Y1377951D02*
+D03*
+D503*
+Y984251D02*
+D03*
+D504*
+Y1023621D02*
+D03*
+D505*
+Y1062992D02*
+D03*
+D506*
+Y1102361D02*
+D03*
+D507*
+Y1141732D02*
+D03*
+D508*
+Y944881D02*
+D03*
+D509*
+Y905511D02*
+D03*
+D510*
+Y866141D02*
+D03*
+D511*
+Y826771D02*
+D03*
+D512*
+Y748032D02*
+D03*
+D513*
+Y787402D02*
+D03*
+D514*
+X10393701Y3149606D02*
+D03*
+D515*
+Y3188976D02*
+D03*
+D516*
+Y3110236D02*
+D03*
+D517*
+Y3070866D02*
+D03*
+D518*
+Y3031496D02*
+D03*
+D519*
+Y2992126D02*
+D03*
+D520*
+Y2795276D02*
+D03*
+D521*
+Y2834646D02*
+D03*
+D522*
+Y2874016D02*
+D03*
+D523*
+Y2913386D02*
+D03*
+D524*
+Y2952756D02*
+D03*
+D525*
+Y2559056D02*
+D03*
+D526*
+Y2519686D02*
+D03*
+D527*
+Y2480316D02*
+D03*
+D528*
+Y2440946D02*
+D03*
+D529*
+Y2401576D02*
+D03*
+D530*
+Y2598426D02*
+D03*
+D531*
+Y2637796D02*
+D03*
+D532*
+Y2677166D02*
+D03*
+D533*
+Y2716536D02*
+D03*
+D534*
+Y2755906D02*
+D03*
+D535*
+Y2165356D02*
+D03*
+D536*
+Y2125986D02*
+D03*
+D537*
+Y2086616D02*
+D03*
+D538*
+Y2047246D02*
+D03*
+D539*
+Y2007876D02*
+D03*
+D540*
+Y2204726D02*
+D03*
+D541*
+Y2244096D02*
+D03*
+D542*
+Y2283466D02*
+D03*
+D543*
+Y2322836D02*
+D03*
+D544*
+Y2362206D02*
+D03*
+D545*
+Y1771656D02*
+D03*
+D546*
+Y1732286D02*
+D03*
+D547*
+Y1692916D02*
+D03*
+D548*
+Y1653546D02*
+D03*
+D549*
+Y1614176D02*
+D03*
+D550*
+Y1811026D02*
+D03*
+D551*
+Y1850396D02*
+D03*
+D552*
+Y1889766D02*
+D03*
+D553*
+Y1929136D02*
+D03*
+D554*
+Y1968506D02*
+D03*
+D555*
+Y1377956D02*
+D03*
+D556*
+Y1338586D02*
+D03*
+D557*
+Y1299216D02*
+D03*
+D558*
+Y1259846D02*
+D03*
+D559*
+Y1220476D02*
+D03*
+D560*
+Y1417326D02*
+D03*
+D561*
+Y1456696D02*
+D03*
+D562*
+Y1496066D02*
+D03*
+D563*
+Y1535436D02*
+D03*
+D564*
+Y1574806D02*
+D03*
+D565*
+Y984256D02*
+D03*
+D566*
+Y944886D02*
+D03*
+D567*
+Y905516D02*
+D03*
+D568*
+Y866146D02*
+D03*
+D569*
+Y826776D02*
+D03*
+D570*
+Y1023626D02*
+D03*
+D571*
+Y1062996D02*
+D03*
+D572*
+Y1102366D02*
+D03*
+D573*
+Y1141736D02*
+D03*
+D574*
+Y1181106D02*
+D03*
+D575*
+Y590556D02*
+D03*
+D576*
+Y551186D02*
+D03*
+D577*
+Y511816D02*
+D03*
+D578*
+Y472446D02*
+D03*
+D579*
+Y433076D02*
+D03*
+D580*
+Y629926D02*
+D03*
+D581*
+Y669296D02*
+D03*
+D582*
+Y708666D02*
+D03*
+D583*
+Y748036D02*
+D03*
+D584*
+Y787406D02*
+D03*
+D585*
+Y196856D02*
+D03*
+D586*
+Y236226D02*
+D03*
+D587*
+Y275596D02*
+D03*
+D588*
+Y314966D02*
+D03*
+D589*
+Y354336D02*
+D03*
+D590*
+Y393706D02*
+D03*
+D591*
+Y3307086D02*
+D03*
+D592*
+Y3267716D02*
+D03*
+D593*
+Y3228346D02*
+D03*
+D594*
+Y3700786D02*
+D03*
+D595*
+Y3661416D02*
+D03*
+D596*
+Y3622046D02*
+D03*
+D597*
+Y3582676D02*
+D03*
+D598*
+Y3543306D02*
+D03*
+D599*
+Y3346456D02*
+D03*
+D600*
+Y3385826D02*
+D03*
+D601*
+Y3425196D02*
+D03*
+D602*
+Y3464566D02*
+D03*
+D603*
+Y3503936D02*
+D03*
+D604*
+Y3740156D02*
+D03*
+D605*
+X2755905Y5866142D02*
+D03*
+D606*
+X2716535D02*
+D03*
+D607*
+X2795276D02*
+D03*
+D608*
+X2834646D02*
+D03*
+D609*
+X2874015D02*
+D03*
+D610*
+X2913385D02*
+D03*
+D611*
+X3110235D02*
+D03*
+D612*
+X3070865D02*
+D03*
+D613*
+X3031495D02*
+D03*
+D614*
+X2992126D02*
+D03*
+D615*
+X2952756D02*
+D03*
+D616*
+X3346456D02*
+D03*
+D617*
+X3385825D02*
+D03*
+D618*
+X3425195D02*
+D03*
+D619*
+X3464566D02*
+D03*
+D620*
+X3503936D02*
+D03*
+D621*
+X3307086D02*
+D03*
+D622*
+X3267715D02*
+D03*
+D623*
+X3228345D02*
+D03*
+D624*
+X3188976D02*
+D03*
+D625*
+X3149606D02*
+D03*
+D626*
+X3740155D02*
+D03*
+D627*
+X3779526D02*
+D03*
+D628*
+X3818896D02*
+D03*
+D629*
+X3858265D02*
+D03*
+D630*
+X3897635D02*
+D03*
+D631*
+X3700785D02*
+D03*
+D632*
+X3661416D02*
+D03*
+D633*
+X3622046D02*
+D03*
+D634*
+X3582675D02*
+D03*
+D635*
+X3543305D02*
+D03*
+D636*
+X4133855D02*
+D03*
+D637*
+X4173225D02*
+D03*
+D638*
+X4212596D02*
+D03*
+D639*
+X4251966D02*
+D03*
+D640*
+X4291336D02*
+D03*
+D641*
+X4094485D02*
+D03*
+D642*
+X4055115D02*
+D03*
+D643*
+X4015745D02*
+D03*
+D644*
+X3976376D02*
+D03*
+D645*
+X3937006D02*
+D03*
+D646*
+X4527556D02*
+D03*
+D647*
+X4566926D02*
+D03*
+D648*
+X4606296D02*
+D03*
+D649*
+X4645666D02*
+D03*
+D650*
+X4685035D02*
+D03*
+D651*
+X4488185D02*
+D03*
+D652*
+X4448815D02*
+D03*
+D653*
+X4409445D02*
+D03*
+D654*
+X4370075D02*
+D03*
+D655*
+X4330706D02*
+D03*
+D656*
+X4921256D02*
+D03*
+D657*
+X4960626D02*
+D03*
+D658*
+X4999995D02*
+D03*
+D659*
+X5039365D02*
+D03*
+D660*
+X5078735D02*
+D03*
+D661*
+X4881886D02*
+D03*
+D662*
+X4842516D02*
+D03*
+D663*
+X4803145D02*
+D03*
+D664*
+X4763775D02*
+D03*
+D665*
+X4724405D02*
+D03*
+D666*
+X5314956D02*
+D03*
+D667*
+X5354325D02*
+D03*
+D668*
+X5393695D02*
+D03*
+D669*
+X5433065D02*
+D03*
+D670*
+X5472435D02*
+D03*
+D671*
+X5275586D02*
+D03*
+D672*
+X5236216D02*
+D03*
+D673*
+X5196846D02*
+D03*
+D674*
+X5157475D02*
+D03*
+D675*
+X5118105D02*
+D03*
+D676*
+X5708655D02*
+D03*
+D677*
+X5669285D02*
+D03*
+D678*
+X5629916D02*
+D03*
+D679*
+X5590546D02*
+D03*
+D680*
+X5551176D02*
+D03*
+D681*
+X5511806D02*
+D03*
+D682*
+X2598425D02*
+D03*
+D683*
+X2637796D02*
+D03*
+D684*
+X2677166D02*
+D03*
+D685*
+X2204726D02*
+D03*
+D686*
+X2244095D02*
+D03*
+D687*
+X2283465D02*
+D03*
+D688*
+X2322836D02*
+D03*
+D689*
+X2362206D02*
+D03*
+D690*
+X2559055D02*
+D03*
+D691*
+X2519686D02*
+D03*
+D692*
+X2480316D02*
+D03*
+D693*
+X2440945D02*
+D03*
+D694*
+X2401575D02*
+D03*
+D695*
+X2007876D02*
+D03*
+D696*
+X2047245D02*
+D03*
+D697*
+X2086615D02*
+D03*
+D698*
+X2125985D02*
+D03*
+D699*
+X2165356D02*
+D03*
+D700*
+X1968505D02*
+D03*
+D701*
+X1929136D02*
+D03*
+D702*
+X1889765D02*
+D03*
+D703*
+X1850396D02*
+D03*
+D704*
+X1771656D02*
+D03*
+D705*
+X1811025D02*
+D03*
+D706*
+X1653545D02*
+D03*
+D707*
+X1692916D02*
+D03*
+D708*
+X1732285D02*
+D03*
+D709*
+X1259845D02*
+D03*
+D710*
+X1299216D02*
+D03*
+D711*
+X1338585D02*
+D03*
+D712*
+X1377956D02*
+D03*
+D713*
+X1417325D02*
+D03*
+D714*
+X1614176D02*
+D03*
+D715*
+X1574805D02*
+D03*
+D716*
+X1535436D02*
+D03*
+D717*
+X1496065D02*
+D03*
+D718*
+X1456696D02*
+D03*
+D719*
+X1062995D02*
+D03*
+D720*
+X1102366D02*
+D03*
+D721*
+X1141736D02*
+D03*
+D722*
+X1181105D02*
+D03*
+D723*
+X1220476D02*
+D03*
+D724*
+X1023625D02*
+D03*
+D725*
+X984255D02*
+D03*
+D726*
+X944885D02*
+D03*
+D727*
+X905515D02*
+D03*
+D728*
+X826775D02*
+D03*
+D729*
+X866145D02*
+D03*
+D730*
+X708665D02*
+D03*
+D731*
+X748035D02*
+D03*
+D732*
+X787405D02*
+D03*
+D733*
+X314966D02*
+D03*
+D734*
+X354336D02*
+D03*
+D735*
+X393705D02*
+D03*
+D736*
+X433075D02*
+D03*
+D737*
+X472445D02*
+D03*
+D738*
+X669295D02*
+D03*
+D739*
+X629926D02*
+D03*
+D740*
+X590556D02*
+D03*
+D741*
+X551186D02*
+D03*
+D742*
+X511815D02*
+D03*
+D743*
+X196856D02*
+D03*
+D744*
+X236226D02*
+D03*
+D745*
+X275596D02*
+D03*
+D746*
+X5629916Y39370D02*
+D03*
+D747*
+X5669286D02*
+D03*
+D748*
+X5708656D02*
+D03*
+D749*
+X5393696D02*
+D03*
+D750*
+X5354326D02*
+D03*
+D751*
+X5314956D02*
+D03*
+D752*
+X5275586D02*
+D03*
+D753*
+X5236216D02*
+D03*
+D754*
+X5433066D02*
+D03*
+D755*
+X5472436D02*
+D03*
+D756*
+X5511806D02*
+D03*
+D757*
+X5551176D02*
+D03*
+D758*
+X5590546D02*
+D03*
+D759*
+X5118106D02*
+D03*
+D760*
+X5157476D02*
+D03*
+D761*
+X5196846D02*
+D03*
+D762*
+X5039366D02*
+D03*
+D763*
+X5078736D02*
+D03*
+D764*
+X4999996D02*
+D03*
+D765*
+X4960626D02*
+D03*
+D766*
+X4921256D02*
+D03*
+D767*
+X4881886D02*
+D03*
+D768*
+X4685036D02*
+D03*
+D769*
+X4724406D02*
+D03*
+D770*
+X4763776D02*
+D03*
+D771*
+X4803146D02*
+D03*
+D772*
+X4842516D02*
+D03*
+D773*
+X4448816D02*
+D03*
+D774*
+X4409446D02*
+D03*
+D775*
+X4370076D02*
+D03*
+D776*
+X4330706D02*
+D03*
+D777*
+X4291336D02*
+D03*
+D778*
+X4488186D02*
+D03*
+D779*
+X4527556D02*
+D03*
+D780*
+X4566926D02*
+D03*
+D781*
+X4606296D02*
+D03*
+D782*
+X4645666D02*
+D03*
+D783*
+X4173226D02*
+D03*
+D784*
+X4212596D02*
+D03*
+D785*
+X4251966D02*
+D03*
+D786*
+X4094486D02*
+D03*
+D787*
+X4133856D02*
+D03*
+D788*
+X4055116D02*
+D03*
+D789*
+X4015746D02*
+D03*
+D790*
+X3976376D02*
+D03*
+D791*
+X3937006D02*
+D03*
+D792*
+X3740156D02*
+D03*
+D793*
+X3779526D02*
+D03*
+D794*
+X3818896D02*
+D03*
+D795*
+X3858266D02*
+D03*
+D796*
+X3897636D02*
+D03*
+D797*
+X3503936D02*
+D03*
+D798*
+X3464566D02*
+D03*
+D799*
+X3425196D02*
+D03*
+D800*
+X3385826D02*
+D03*
+D801*
+X3346456D02*
+D03*
+D802*
+X3543306D02*
+D03*
+D803*
+X3582676D02*
+D03*
+D804*
+X3622046D02*
+D03*
+D805*
+X3661416D02*
+D03*
+D806*
+X3700786D02*
+D03*
+D807*
+X3228346D02*
+D03*
+D808*
+X3267716D02*
+D03*
+D809*
+X3307086D02*
+D03*
+D810*
+X393706D02*
+D03*
+D811*
+X354336D02*
+D03*
+D812*
+X314966D02*
+D03*
+D813*
+X275596D02*
+D03*
+D814*
+X236226D02*
+D03*
+D815*
+X196856D02*
+D03*
+D816*
+X787406D02*
+D03*
+D817*
+X748036D02*
+D03*
+D818*
+X708666D02*
+D03*
+D819*
+X669296D02*
+D03*
+D820*
+X629926D02*
+D03*
+D821*
+X433076D02*
+D03*
+D822*
+X472446D02*
+D03*
+D823*
+X511816D02*
+D03*
+D824*
+X551186D02*
+D03*
+D825*
+X590556D02*
+D03*
+D826*
+X1181106D02*
+D03*
+D827*
+X1141736D02*
+D03*
+D828*
+X1102366D02*
+D03*
+D829*
+X1062996D02*
+D03*
+D830*
+X1023626D02*
+D03*
+D831*
+X826776D02*
+D03*
+D832*
+X866146D02*
+D03*
+D833*
+X905516D02*
+D03*
+D834*
+X944886D02*
+D03*
+D835*
+X984256D02*
+D03*
+D836*
+X1574806D02*
+D03*
+D837*
+X1535436D02*
+D03*
+D838*
+X1496066D02*
+D03*
+D839*
+X1456696D02*
+D03*
+D840*
+X1417326D02*
+D03*
+D841*
+X1220476D02*
+D03*
+D842*
+X1259846D02*
+D03*
+D843*
+X1299216D02*
+D03*
+D844*
+X1338586D02*
+D03*
+D845*
+X1377956D02*
+D03*
+D846*
+X1968506D02*
+D03*
+D847*
+X1929136D02*
+D03*
+D848*
+X1889766D02*
+D03*
+D849*
+X1850396D02*
+D03*
+D850*
+X1811026D02*
+D03*
+D851*
+X1614176D02*
+D03*
+D852*
+X1653546D02*
+D03*
+D853*
+X1692916D02*
+D03*
+D854*
+X1732286D02*
+D03*
+D855*
+X1771656D02*
+D03*
+D856*
+X2362206D02*
+D03*
+D857*
+X2322836D02*
+D03*
+D858*
+X2283466D02*
+D03*
+D859*
+X2244096D02*
+D03*
+D860*
+X2204726D02*
+D03*
+D861*
+X2007876D02*
+D03*
+D862*
+X2047246D02*
+D03*
+D863*
+X2086616D02*
+D03*
+D864*
+X2125986D02*
+D03*
+D865*
+X2165356D02*
+D03*
+D866*
+X2755906D02*
+D03*
+D867*
+X2716536D02*
+D03*
+D868*
+X2677166D02*
+D03*
+D869*
+X2637796D02*
+D03*
+D870*
+X2598426D02*
+D03*
+D871*
+X2401576D02*
+D03*
+D872*
+X2440946D02*
+D03*
+D873*
+X2480316D02*
+D03*
+D874*
+X2519686D02*
+D03*
+D875*
+X2559056D02*
+D03*
+D876*
+X2952756D02*
+D03*
+D877*
+X2913386D02*
+D03*
+D878*
+X2874016D02*
+D03*
+D879*
+X2834646D02*
+D03*
+D880*
+X2795276D02*
+D03*
+D881*
+X2992126D02*
+D03*
+D882*
+X3031496D02*
+D03*
+D883*
+X3070866D02*
+D03*
+D884*
+X3110236D02*
+D03*
+D885*
+X3188976D02*
+D03*
+D886*
+X3149606D02*
+D03*
+D887*
+X10314961Y118110D02*
+D03*
+D888*
+Y5787402D02*
+D03*
+D889*
+X118110D02*
+D03*
+D890*
+Y118110D02*
+D03*
+D891*
+X3540122Y2755905D02*
+D03*
+D892*
+Y4330709D02*
+D03*
+D893*
+X6689728Y2755905D02*
+D03*
+D894*
+Y4330709D02*
+D03*
+D895*
+X6161417Y4218307D02*
+D03*
+X3955000Y4820000D02*
+D03*
+X4906221Y4144764D02*
+D03*
+X6397638Y3118307D02*
+D03*
+Y2918307D02*
+D03*
+X8940000Y3231102D02*
+D03*
+X9021654Y3838583D02*
+D03*
+X8143193Y4429134D02*
+D03*
+X7792799Y3248032D02*
+D03*
+Y3838583D02*
+D03*
+Y4429134D02*
+D03*
+X9645709Y2566929D02*
+D03*
+Y3157480D02*
+D03*
+X3622047Y3818307D02*
+D03*
+X9716575Y3153898D02*
+D03*
+X3622047Y3868307D02*
+D03*
+X9645709Y3748032D02*
+D03*
+X3622047Y3918307D02*
+D03*
+X9716575Y3744449D02*
+D03*
+X3622047Y3968307D02*
+D03*
+X9645709Y4338583D02*
+D03*
+X3622047Y4018307D02*
+D03*
+X9716575Y4335000D02*
+D03*
+X3622047Y4068307D02*
+D03*
+X9716575Y2563346D02*
+D03*
+X9773661Y2606299D02*
+D03*
+X9600000Y2738346D02*
+D03*
+X9663425D02*
+D03*
+X9773661Y2708661D02*
+D03*
+X9681142Y2565298D02*
+D03*
+X10078740Y2606299D02*
+D03*
+Y2631890D02*
+D03*
+Y2657480D02*
+D03*
+X9773661Y3196850D02*
+D03*
+X9600000Y3328898D02*
+D03*
+X9663425D02*
+D03*
+X9773661Y3299213D02*
+D03*
+X9681142Y3155849D02*
+D03*
+X10078740Y3196850D02*
+D03*
+Y3222441D02*
+D03*
+Y3248032D02*
+D03*
+Y3838583D02*
+D03*
+Y3812992D02*
+D03*
+Y3787402D02*
+D03*
+X9681142Y3746401D02*
+D03*
+X9773661Y3889764D02*
+D03*
+X9663425Y3919449D02*
+D03*
+X9600000D02*
+D03*
+X9773661Y3787402D02*
+D03*
+Y4377953D02*
+D03*
+X9600000Y4510000D02*
+D03*
+X9663425D02*
+D03*
+X9773661Y4480315D02*
+D03*
+X9681142Y4336952D02*
+D03*
+X10078740Y4377953D02*
+D03*
+Y4403543D02*
+D03*
+Y4429134D02*
+D03*
+X5148819Y5436539D02*
+D03*
+X4948819D02*
+D03*
+X5733071D02*
+D03*
+X5048819D02*
+D03*
+X4848819D02*
+D03*
+X5248819D02*
+D03*
+X5633071D02*
+D03*
+X4173228Y4168307D02*
+D03*
+X4020095Y5381382D02*
+D03*
+X6161417Y4018307D02*
+D03*
+Y4068307D02*
+D03*
+Y4118307D02*
+D03*
+Y3968307D02*
+D03*
+Y3918307D02*
+D03*
+Y3868307D02*
+D03*
+Y3768307D02*
+D03*
+Y3818307D02*
+D03*
+Y4168307D02*
+D03*
+X1532957Y2710000D02*
+D03*
+X3799213Y2868307D02*
+D03*
+X3153953Y5381382D02*
+D03*
+X3104740D02*
+D03*
+X3006315D02*
+D03*
+X1809449Y2772894D02*
+D03*
+X1880906Y3873032D02*
+D03*
+Y4109252D02*
+D03*
+X1141732Y3387795D02*
+D03*
+Y3425197D02*
+D03*
+X1714173Y5436539D02*
+D03*
+X1023622Y5314961D02*
+D03*
+X548705Y2731457D02*
+D03*
+X469965Y3937008D02*
+D03*
+X1574803Y3352362D02*
+D03*
+Y3498032D02*
+D03*
+X1141732Y3462599D02*
+D03*
+X1098425Y3352362D02*
+D03*
+X590551D02*
+D03*
+Y3498032D02*
+D03*
+X712712Y3937008D02*
+D03*
+X1114173Y5145000D02*
+D03*
+X8801181Y3317406D02*
+D03*
+X6397638Y2968307D02*
+D03*
+X8952248Y4446063D02*
+D03*
+Y3855512D02*
+D03*
+X8801181Y4498508D02*
+D03*
+Y3907957D02*
+D03*
+X6161417Y3518307D02*
+D03*
+Y3568307D02*
+D03*
+X2637795Y3076772D02*
+D03*
+Y3864173D02*
+D03*
+X8897638Y3319571D02*
+D03*
+X2062484Y4111417D02*
+D03*
+Y3875197D02*
+D03*
+X7655118Y3339256D02*
+D03*
+Y3929807D02*
+D03*
+Y4520358D02*
+D03*
+X789878Y2731457D02*
+D03*
+X8744504Y5433071D02*
+D03*
+X8793717D02*
+D03*
+X8941354D02*
+D03*
+X8892142D02*
+D03*
+X8842929D02*
+D03*
+X6397638Y3368307D02*
+D03*
+X6161417D02*
+D03*
+X5387126Y3397126D02*
+D03*
+X6161417Y3268307D02*
+D03*
+X6397638Y3418307D02*
+D03*
+X6161417Y3218307D02*
+D03*
+Y3168307D02*
+D03*
+Y3318307D02*
+D03*
+X5206221Y4144764D02*
+D03*
+X5078661D02*
+D03*
+X7740567Y5433071D02*
+D03*
+X7789779D02*
+D03*
+X7838992D02*
+D03*
+X7691354D02*
+D03*
+X7642142D02*
+D03*
+X3799213Y2818307D02*
+D03*
+X4035433Y4068307D02*
+D03*
+Y3568307D02*
+D03*
+Y3618307D02*
+D03*
+Y3668307D02*
+D03*
+X6161417D02*
+D03*
+X6133071Y5436539D02*
+D03*
+X5833071D02*
+D03*
+X6397638Y4218307D02*
+D03*
+Y4268307D02*
+D03*
+X5933071Y5436539D02*
+D03*
+X6033071D02*
+D03*
+X3799213Y3418307D02*
+D03*
+X7619882Y3227264D02*
+D03*
+X6397638Y3318307D02*
+D03*
+Y3468307D02*
+D03*
+X6161417Y3618307D02*
+D03*
+Y3068307D02*
+D03*
+Y3118307D02*
+D03*
+X2280315Y5336539D02*
+D03*
+X2214173Y5436539D02*
+D03*
+X2114173D02*
+D03*
+X2014173D02*
+D03*
+X1914173D02*
+D03*
+X1814173Y5436539D02*
+D03*
+X3055528Y5381382D02*
+D03*
+X3970882D02*
+D03*
+X3921669D02*
+D03*
+X3872457D02*
+D03*
+X9167323Y4429134D02*
+D03*
+X9021654D02*
+D03*
+X9167323Y3838583D02*
+D03*
+X7619882Y4408366D02*
+D03*
+Y3817815D02*
+D03*
+X1634842Y804587D02*
+D03*
+X1600394Y393701D02*
+D03*
+X1398622Y804587D02*
+D03*
+X1364173Y393701D02*
+D03*
+X1162402Y804587D02*
+D03*
+X1127953Y393701D02*
+D03*
+X926181Y804587D02*
+D03*
+X891732Y393701D02*
+D03*
+X689961Y804587D02*
+D03*
+X655512Y393701D02*
+D03*
+X453740Y804587D02*
+D03*
+X419291Y393701D02*
+D03*
+X217520Y804587D02*
+D03*
+X183071Y393701D02*
+D03*
+X6397638Y4018307D02*
+D03*
+Y3968307D02*
+D03*
+Y3918307D02*
+D03*
+Y3868307D02*
+D03*
+Y3818307D02*
+D03*
+Y3768307D02*
+D03*
+Y3718307D02*
+D03*
+X4035433Y3268307D02*
+D03*
+X3799213Y3118307D02*
+D03*
+Y3318307D02*
+D03*
+X3622047Y2968307D02*
+D03*
+Y3018307D02*
+D03*
+X4035433Y2918307D02*
+D03*
+X6161417Y2818307D02*
+D03*
+Y2868307D02*
+D03*
+Y2968307D02*
+D03*
+Y3018307D02*
+D03*
+Y3418307D02*
+D03*
+Y3468307D02*
+D03*
+Y3718307D02*
+D03*
+X6397638Y4168307D02*
+D03*
+Y3668307D02*
+D03*
+Y3618307D02*
+D03*
+Y3568307D02*
+D03*
+Y3518307D02*
+D03*
+Y3268307D02*
+D03*
+Y3218307D02*
+D03*
+Y3168307D02*
+D03*
+Y3068307D02*
+D03*
+Y3018307D02*
+D03*
+Y2868307D02*
+D03*
+X3622047D02*
+D03*
+X4035433Y3468307D02*
+D03*
+Y3518307D02*
+D03*
+Y4268307D02*
+D03*
+Y4218307D02*
+D03*
+X3622047D02*
+D03*
+Y4168307D02*
+D03*
+Y4118307D02*
+D03*
+X3799213Y3768307D02*
+D03*
+Y3718307D02*
+D03*
+X3622047Y3668307D02*
+D03*
+Y3618307D02*
+D03*
+X3799213Y3568307D02*
+D03*
+Y3518307D02*
+D03*
+Y3468307D02*
+D03*
+Y3368307D02*
+D03*
+Y2968307D02*
+D03*
+Y3018307D02*
+D03*
+Y3068307D02*
+D03*
+Y3168307D02*
+D03*
+Y3218307D02*
+D03*
+Y3268307D02*
+D03*
+X6397638Y4068307D02*
+D03*
+X4035433Y3068307D02*
+D03*
+Y3118307D02*
+D03*
+Y3168307D02*
+D03*
+Y3218307D02*
+D03*
+Y3318307D02*
+D03*
+Y3368307D02*
+D03*
+Y3418307D02*
+D03*
+Y3718307D02*
+D03*
+Y3768307D02*
+D03*
+Y3818307D02*
+D03*
+Y3868307D02*
+D03*
+Y3918307D02*
+D03*
+Y3968307D02*
+D03*
+Y4018307D02*
+D03*
+X9653149Y1425000D02*
+D03*
+X8406496Y804587D02*
+D03*
+X8642717D02*
+D03*
+X8878937D02*
+D03*
+X9115157D02*
+D03*
+X9351378D02*
+D03*
+X9587598D02*
+D03*
+X9823819D02*
+D03*
+X8372047Y393701D02*
+D03*
+X8608268D02*
+D03*
+X8844488D02*
+D03*
+X9080709D02*
+D03*
+X9316929D02*
+D03*
+X10025591D02*
+D03*
+X9453149Y1425000D02*
+D03*
+X9753149D02*
+D03*
+X9853149D02*
+D03*
+X9953149D02*
+D03*
+X10053149D02*
+D03*
+X10153149D02*
+D03*
+X8517716Y393701D02*
+D03*
+X8753937D02*
+D03*
+X8990157D02*
+D03*
+X9226378D02*
+D03*
+X9698819D02*
+D03*
+X9935039D02*
+D03*
+X10171260D02*
+D03*
+X9553149Y1425000D02*
+D03*
+X9462598Y393701D02*
+D03*
+X9553150D02*
+D03*
+X9789370D02*
+D03*
+X10060039Y804587D02*
+D03*
+X8429528Y1023622D02*
+D03*
+X9453149D02*
+D03*
+X8385827Y838740D02*
+D03*
+X8621260D02*
+D03*
+X8857480D02*
+D03*
+X9093701D02*
+D03*
+X9329921D02*
+D03*
+X9566142D02*
+D03*
+X9802362D02*
+D03*
+X10038583D02*
+D03*
+X7605905Y1425000D02*
+D03*
+X6359252Y804587D02*
+D03*
+X6595472D02*
+D03*
+X6831693D02*
+D03*
+X7067913D02*
+D03*
+X7304134D02*
+D03*
+X7540354D02*
+D03*
+X7776575D02*
+D03*
+X6324803Y393701D02*
+D03*
+X6561024D02*
+D03*
+X6797244D02*
+D03*
+X7033465D02*
+D03*
+X7269685D02*
+D03*
+X7978346D02*
+D03*
+X7405905Y1425000D02*
+D03*
+X7705905D02*
+D03*
+X7805905D02*
+D03*
+X7905905D02*
+D03*
+X8005905D02*
+D03*
+X8105905D02*
+D03*
+X6470472Y393701D02*
+D03*
+X6706693D02*
+D03*
+X6942913D02*
+D03*
+X7179134D02*
+D03*
+X7651575D02*
+D03*
+X7887795D02*
+D03*
+X8124016D02*
+D03*
+X7505905Y1425000D02*
+D03*
+X7415354Y393701D02*
+D03*
+X7505905D02*
+D03*
+X7742126D02*
+D03*
+X8012795Y804587D02*
+D03*
+X6382283Y1023622D02*
+D03*
+X7405905D02*
+D03*
+X6338583Y838740D02*
+D03*
+X6574016D02*
+D03*
+X6810236D02*
+D03*
+X7046457D02*
+D03*
+X7282677D02*
+D03*
+X7518898D02*
+D03*
+X7755118D02*
+D03*
+X7991338D02*
+D03*
+X5944094D02*
+D03*
+X5707874D02*
+D03*
+X5471654D02*
+D03*
+X5235433D02*
+D03*
+X4999212D02*
+D03*
+X4762992D02*
+D03*
+X4526772D02*
+D03*
+X4291338D02*
+D03*
+X5358661Y1023622D02*
+D03*
+X4335039D02*
+D03*
+X5965551Y804587D02*
+D03*
+X5694882Y393701D02*
+D03*
+X5458661D02*
+D03*
+X5368110D02*
+D03*
+X5458661Y1425000D02*
+D03*
+X6076771Y393701D02*
+D03*
+X5840551D02*
+D03*
+X5604331D02*
+D03*
+X5131890D02*
+D03*
+X4895669D02*
+D03*
+X4659449D02*
+D03*
+X4423228D02*
+D03*
+X6058661Y1425000D02*
+D03*
+X5958661D02*
+D03*
+X5858661D02*
+D03*
+X5758661D02*
+D03*
+X5658661D02*
+D03*
+X5358661D02*
+D03*
+X5931102Y393701D02*
+D03*
+X5222441D02*
+D03*
+X4986220D02*
+D03*
+X4750000D02*
+D03*
+X4513779D02*
+D03*
+X4277559D02*
+D03*
+X5729331Y804587D02*
+D03*
+X5493110D02*
+D03*
+X5256890D02*
+D03*
+X5020669D02*
+D03*
+X4784449D02*
+D03*
+X4548228D02*
+D03*
+X4312008D02*
+D03*
+X5558661Y1425000D02*
+D03*
+X3511417D02*
+D03*
+X2264764Y804587D02*
+D03*
+X2500984D02*
+D03*
+X2737205D02*
+D03*
+X2973425D02*
+D03*
+X3209646D02*
+D03*
+X3445866D02*
+D03*
+X3682087D02*
+D03*
+X2230315Y393701D02*
+D03*
+X2466535D02*
+D03*
+X2702756D02*
+D03*
+X2938976D02*
+D03*
+X3175197D02*
+D03*
+X3883858D02*
+D03*
+X3311417Y1425000D02*
+D03*
+X3611417D02*
+D03*
+X3711417D02*
+D03*
+X3811417D02*
+D03*
+X3911417D02*
+D03*
+X4011417D02*
+D03*
+X2375984Y393701D02*
+D03*
+X2612205D02*
+D03*
+X2848425D02*
+D03*
+X3084646D02*
+D03*
+X3557087D02*
+D03*
+X3793307D02*
+D03*
+X4029528D02*
+D03*
+X3411417Y1425000D02*
+D03*
+X3320866Y393701D02*
+D03*
+X3411417D02*
+D03*
+X3647638D02*
+D03*
+X3918307Y804587D02*
+D03*
+X2287795Y1023622D02*
+D03*
+X3311417D02*
+D03*
+X2244095Y838740D02*
+D03*
+X2479528D02*
+D03*
+X2715748D02*
+D03*
+X2951968D02*
+D03*
+X3188189D02*
+D03*
+X3424410D02*
+D03*
+X3660630D02*
+D03*
+X3896850D02*
+D03*
+X1849606D02*
+D03*
+X1613386D02*
+D03*
+X1377165D02*
+D03*
+X1140945D02*
+D03*
+X904724D02*
+D03*
+X668504D02*
+D03*
+X432284D02*
+D03*
+X196850D02*
+D03*
+X1264173Y1023622D02*
+D03*
+X240551D02*
+D03*
+X1871063Y804587D02*
+D03*
+X1273622Y393701D02*
+D03*
+X1364173Y1425000D02*
+D03*
+X1982283Y393701D02*
+D03*
+X1746063D02*
+D03*
+X1509842D02*
+D03*
+X1037401D02*
+D03*
+X801181D02*
+D03*
+X564961D02*
+D03*
+X328740D02*
+D03*
+X1964173Y1425000D02*
+D03*
+X1864173D02*
+D03*
+X1764173D02*
+D03*
+X1664173D02*
+D03*
+X1564173D02*
+D03*
+X1464173D02*
+D03*
+X1264173D02*
+D03*
+X1836614Y393701D02*
+D03*
+%TF.MD5,4edaa103920299196e75024f7809b2a9*%
+M02*

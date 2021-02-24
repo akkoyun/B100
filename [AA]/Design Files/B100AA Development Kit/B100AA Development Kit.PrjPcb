@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for B100AA Development Kit
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -751,57 +751,495 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document43]
+DocumentPath=Output\Output Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document44]
+DocumentPath=B100AA DevKit R1.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=B100AA DevKit R1 18.02.2021 10-34-38.WAS
+DocumentPath=Output\Gerber Output\NC Drill\B100AA DevKit R1-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Output\Gerber Output\NC Drill\B100AA DevKit R1-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Output\Gerber Output\NC Drill\B100AA DevKit R1-SquareHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Output\Gerber Output\NC Drill\B100AA DevKit R1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Output\Gerber Output\NC Drill\B100AA DevKit R1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Output\Gerber Output\ODB\B100AA DevKit R1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Output\Gerber Output\Gerber\B100AA DevKit R1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Output\3D Body\B100AA DevKit R1.step
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Drawing_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Drawing_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Drawing_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Drawing_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Drawing_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Drillmap_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Drillmap_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Drillmap_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Drillmap_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Drillmap_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Mechanical_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Mechanical_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Mechanical_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Mechanical_7.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Mechanical_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Mechanical_40.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Plated_Drill_2_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Plated_Drill_2_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Plated_Drill_4_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_uVias_Drill_1_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Output\Gerber Output\GerberX2\B100AA DevKit R1_uVias_Drill_4_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=B100AA DevKit R1 18.02.2021 10-34-38.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Output\BOM\Bill of Materials-B100AA Development Kit.csv
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument78]
 DocumentPath=Project Outputs for B100AA Development Kit\Design Rule Check - B100AA DevKit R1.html
 DItemRevisionGUID=
 
+[GeneratedDocument79]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\bottom_3d_body\features
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\mechanical_13\features
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\mechanical_15\features
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\mechanical_16\features
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\power\features
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\signal\features
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\top_3d_body\features
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\top_assembly\features
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\top_courtyard\features
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Output\Gerber Output\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Output\Pick & Place Output\Pick Place for B100AA DevKit R1.txt
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Revision_
-Value=B100AA Dev Kit
+Name=Address1_
+Value=Necip Fazýl Mah. Ortaýrmak Sok.
 
 [Parameter2]
-Name=Organization_
-Value=Ovoo Electronics
+Name=Address2_
+Value=Birgül Apt. No: 19/6
 
 [Parameter3]
-Name=link
-Value=http://www.ovoo.me
+Name=Address3_
+Value=Meram / Konya
 
 [Parameter4]
-Name=Engineer_
-Value=Mehmet Günce Akkoyun
+Name=Address4_
+Value=Turkiye
 
 [Parameter5]
-Name=DocumentNumber_Prototype_
-Value=AA001_Prototype
+Name=DocumentNumber_
+Value=AA001
 
 [Parameter6]
 Name=DocumentNumber_Bulk_
 Value=AA001_Bulk
 
 [Parameter7]
-Name=DocumentNumber_
-Value=AA001
+Name=DocumentNumber_Prototype_
+Value=AA001_Prototype
 
 [Parameter8]
-Name=Address4_
-Value=Turkiye
+Name=Engineer_
+Value=Mehmet Günce Akkoyun
 
 [Parameter9]
-Name=Address3_
-Value=Meram / Konya
+Name=link
+Value=http://www.ovoo.me
 
 [Parameter10]
-Name=Address2_
-Value=Birgül Apt. No: 19/6
+Name=Organization_
+Value=Ovoo Electronics
 
 [Parameter11]
-Name=Address1_
-Value=Necip Fazýl Mah. Ortaýrmak Sok.
+Name=Revision_
+Value=B100AA Dev Kit
 
 [Configuration1]
 Name=Sources
@@ -812,6 +1250,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for B100AA Development Kit
 
 [OutputGroup1]
 Name=Netlist Outputs

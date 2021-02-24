@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:55:53 On 24.02.2021
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [B100AA Development Kit.PrjPcb]
+   Generated File[Bill of Materials-B100AA Development Kit.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:55:54 On 24.02.2021
