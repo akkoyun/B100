@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Altium Projects\B100\[AA]\Design Files\B100AA\B100AA PCB R1.PcbDoc
-Date     : 22.02.2021
-Time     : 11:29:19
+Date     : 26.02.2021
+Time     : 16:27:58
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
@@ -60,4 +60,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:11
+Time Elapsed        : 00:00:08
