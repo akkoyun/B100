@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Release]
-ReleaseTarget=2
+ReleaseTarget=1
 ReleaseFolderPath=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\Release
 ReleaseZipPath=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\Release
 
@@ -3095,9 +3095,7 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=1
-DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=Output Job.OutJob
+OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 LocalReleaseTarget=B100AA
@@ -3121,9 +3119,7 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=Prototype
-OutputJobsCount=1
-DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=Output Job.OutJob
+OutputJobsCount=0
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
 
@@ -3133,9 +3129,7 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=Bulk Production
-OutputJobsCount=1
-DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=Output Job.OutJob
+OutputJobsCount=0
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
 
@@ -3145,9 +3139,7 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=1
-DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=Output Job.OutJob
+OutputJobsCount=0
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
 
