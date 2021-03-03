@@ -3102,7 +3102,7 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
-LocalReleaseTarget=B100AA
+LocalReleaseTarget=Release
 
 [Configuration2]
 Name=Fabrication
