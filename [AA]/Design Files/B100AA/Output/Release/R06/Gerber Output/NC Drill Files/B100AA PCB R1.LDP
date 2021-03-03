@@ -1,0 +1,7 @@
+Layer Pairs Export File for PCB: C:\Users\Mehmet Günce Akkoyun\AppData\Local\Temp\Releases\Snapshot\3\B100AA PCB R1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=b100aa pcb r1.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Mid1_Mid2_Buried_Vias|DrillFile=b100aa pcb r1.tx2|DrillLayers=g1,g2
+LayersSetName=Mid1_Mid4_Buried_Vias|DrillFile=b100aa pcb r1.tx3|DrillLayers=g1,g2,g3,g4
+LayersSetName=Mid3_Mid4_Buried_Vias|DrillFile=b100aa pcb r1.tx4|DrillLayers=g3,g4
+LayersSetName=Top_Mid1_Blind_Vias|DrillFile=b100aa pcb r1.tx6|DrillLayers=gtl,g1
+LayersSetName=Mid4_Bot_Blind_Vias|DrillFile=b100aa pcb r1.tx10|DrillLayers=g4,gbl
