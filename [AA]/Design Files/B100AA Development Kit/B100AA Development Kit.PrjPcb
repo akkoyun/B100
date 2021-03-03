@@ -28,14 +28,19 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for B100AA Development Kit
-LogFolderPath=
+OutputPath=Output
+LogFolderPath=Output\ECO Log
 ManagedProjectGUID=
 IncludeDesignInRelease=0
 
 [Preferences]
 PrefsVaultGUID=
 PrefsRevisionGUID=
+
+[Release]
+ReleaseTarget=1
+ReleaseFolderPath=[OutputPath]
+ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
 DocumentPath=Schematic\Block Diagram.SchDoc
@@ -1198,48 +1203,48 @@ DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Address1_
-Value=Necip Fazýl Mah. Ortaýrmak Sok.
+Name=Revision_
+Value=B100AA Dev Kit
 
 [Parameter2]
-Name=Address2_
-Value=Birgül Apt. No: 19/6
+Name=Organization_
+Value=Ovoo Electronics
 
 [Parameter3]
-Name=Address3_
-Value=Meram / Konya
+Name=link
+Value=http://www.ovoo.me
 
 [Parameter4]
-Name=Address4_
-Value=Turkiye
+Name=Engineer_
+Value=Mehmet Günce Akkoyun
 
 [Parameter5]
-Name=DocumentNumber_
-Value=AA001
+Name=DocumentNumber_Prototype_
+Value=AA001_Prototype
 
 [Parameter6]
 Name=DocumentNumber_Bulk_
 Value=AA001_Bulk
 
 [Parameter7]
-Name=DocumentNumber_Prototype_
-Value=AA001_Prototype
+Name=DocumentNumber_
+Value=AA001
 
 [Parameter8]
-Name=Engineer_
-Value=Mehmet Günce Akkoyun
+Name=Address4_
+Value=Turkiye
 
 [Parameter9]
-Name=link
-Value=http://www.ovoo.me
+Name=Address3_
+Value=Meram / Konya
 
 [Parameter10]
-Name=Organization_
-Value=Ovoo Electronics
+Name=Address2_
+Value=Birgül Apt. No: 19/6
 
 [Parameter11]
-Name=Revision_
-Value=B100AA Dev Kit
+Name=Address1_
+Value=Necip Fazýl Mah. Ortaýrmak Sok.
 
 [Configuration1]
 Name=Sources
@@ -1251,8 +1256,28 @@ OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
 [Generic_EDE]
-OutputDir=Project Outputs for B100AA Development Kit
+OutputDir=Output
 
 [OutputGroup1]
 Name=Netlist Outputs
