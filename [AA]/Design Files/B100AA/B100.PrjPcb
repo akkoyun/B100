@@ -1,4 +1,4 @@
-[Design]
+ï»¿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -23,14 +23,19 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=Output
 LogFolderPath=Output\ECO Log
-ManagedProjectGUID=
+ManagedProjectGUID=BAA0EBAE-4DC3-417A-A0E3-C9C8AB4DEAAF
+VaultGUID=DE170FD1-2A08-4E77-A892-2ECD092DB9CE
+ReleaseVaultName=Mehmet Gunce Akkoyun
+ItemGUID=BAA0EBAE-4DC3-417A-A0E3-C9C8AB4DEAAF
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -1890,1208 +1895,640 @@ Variation147=Designator=R57|UniqueId=\IKIEZWXB\JIXRDJPI\YNEWRFWZ|Kind=1|Alternat
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Output\Gerber Output\NC Drill\B100AA PCB R1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Output\Gerber Output\NC Drill Files\B100AA PCB R1.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument3]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.G1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.G1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.G2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument5]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.G2
 DItemRevisionGUID=
 
-[GeneratedDocument11]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.G3
-DItemRevisionGUID=
-
-[GeneratedDocument12]
+[GeneratedDocument6]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.G3
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.G4
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument7]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.G4
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument8]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument9]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument10]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument11]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument12]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GD2
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument13]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GD2
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GD3
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument14]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GD3
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GD4
-DItemRevisionGUID=
-
-[GeneratedDocument30]
+[GeneratedDocument15]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GD4
 DItemRevisionGUID=
 
-[GeneratedDocument31]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GD5
-DItemRevisionGUID=
-
-[GeneratedDocument32]
+[GeneratedDocument16]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GD5
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GD6
-DItemRevisionGUID=
-
-[GeneratedDocument34]
+[GeneratedDocument17]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GD6
 DItemRevisionGUID=
 
-[GeneratedDocument35]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument36]
+[GeneratedDocument18]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument37]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GG2
-DItemRevisionGUID=
-
-[GeneratedDocument38]
+[GeneratedDocument19]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GG2
 DItemRevisionGUID=
 
-[GeneratedDocument39]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GG3
-DItemRevisionGUID=
-
-[GeneratedDocument40]
+[GeneratedDocument20]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GG3
 DItemRevisionGUID=
 
-[GeneratedDocument41]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GG4
-DItemRevisionGUID=
-
-[GeneratedDocument42]
+[GeneratedDocument21]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GG4
 DItemRevisionGUID=
 
-[GeneratedDocument43]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GG5
-DItemRevisionGUID=
-
-[GeneratedDocument44]
+[GeneratedDocument22]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GG5
 DItemRevisionGUID=
 
-[GeneratedDocument45]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GG6
-DItemRevisionGUID=
-
-[GeneratedDocument46]
+[GeneratedDocument23]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GG6
 DItemRevisionGUID=
 
-[GeneratedDocument47]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument48]
+[GeneratedDocument24]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument49]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument50]
+[GeneratedDocument25]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument51]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument52]
+[GeneratedDocument26]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument53]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument54]
+[GeneratedDocument27]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument55]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument56]
+[GeneratedDocument28]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GM5
 DItemRevisionGUID=
 
-[GeneratedDocument57]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GM6
-DItemRevisionGUID=
-
-[GeneratedDocument58]
+[GeneratedDocument29]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GM6
 DItemRevisionGUID=
 
-[GeneratedDocument59]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument60]
+[GeneratedDocument30]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GM7
 DItemRevisionGUID=
 
-[GeneratedDocument61]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument62]
+[GeneratedDocument31]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument63]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument64]
+[GeneratedDocument32]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument65]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument66]
+[GeneratedDocument33]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GM16
 DItemRevisionGUID=
 
-[GeneratedDocument67]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GM40
-DItemRevisionGUID=
-
-[GeneratedDocument68]
+[GeneratedDocument34]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GM40
 DItemRevisionGUID=
 
-[GeneratedDocument69]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument70]
+[GeneratedDocument35]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument71]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument72]
+[GeneratedDocument36]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument73]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument74]
+[GeneratedDocument37]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument75]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument76]
+[GeneratedDocument38]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument77]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument78]
+[GeneratedDocument39]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument79]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument80]
+[GeneratedDocument40]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument81]
-DocumentPath=Output\Gerber Output\NC Drill\B100AA PCB R1.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument82]
+[GeneratedDocument41]
 DocumentPath=Output\Gerber Output\NC Drill Files\B100AA PCB R1.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument83]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument84]
+[GeneratedDocument42]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument85]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument86]
+[GeneratedDocument43]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument87]
+[GeneratedDocument44]
 DocumentPath=Output\Gerber Output\ODB++ Files\B100AA PCB R1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument88]
-DocumentPath=Output\Gerber Output\ODB\B100AA PCB R1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument89]
-DocumentPath=Output\Gerber Output\Gerber\B100AA PCB R1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument90]
+[GeneratedDocument45]
 DocumentPath=Output\Gerber Output\Gerber Files\B100AA PCB R1.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument91]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument92]
+[GeneratedDocument46]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument93]
+[GeneratedDocument47]
 DocumentPath=Output\3D Body\B100AA PCB R1.step
 DItemRevisionGUID=
 
-[GeneratedDocument94]
-DocumentPath=Output\Gerber Output\NC Drill\B100AA PCB R1.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument95]
+[GeneratedDocument48]
 DocumentPath=Output\Gerber Output\NC Drill Files\B100AA PCB R1.TX2
 DItemRevisionGUID=
 
-[GeneratedDocument96]
-DocumentPath=Output\Gerber Output\NC Drill\B100AA PCB R1.TX3
-DItemRevisionGUID=
-
-[GeneratedDocument97]
+[GeneratedDocument49]
 DocumentPath=Output\Gerber Output\NC Drill Files\B100AA PCB R1.TX3
 DItemRevisionGUID=
 
-[GeneratedDocument98]
-DocumentPath=Output\Gerber Output\NC Drill\B100AA PCB R1.TX4
-DItemRevisionGUID=
-
-[GeneratedDocument99]
+[GeneratedDocument50]
 DocumentPath=Output\Gerber Output\NC Drill Files\B100AA PCB R1.TX4
 DItemRevisionGUID=
 
-[GeneratedDocument100]
-DocumentPath=Output\Gerber Output\NC Drill\B100AA PCB R1.TX6
-DItemRevisionGUID=
-
-[GeneratedDocument101]
+[GeneratedDocument51]
 DocumentPath=Output\Gerber Output\NC Drill Files\B100AA PCB R1.TX6
 DItemRevisionGUID=
 
-[GeneratedDocument102]
-DocumentPath=Output\Gerber Output\NC Drill\B100AA PCB R1.TX10
-DItemRevisionGUID=
-
-[GeneratedDocument103]
+[GeneratedDocument52]
 DocumentPath=Output\Gerber Output\NC Drill Files\B100AA PCB R1.TX10
 DItemRevisionGUID=
 
-[GeneratedDocument104]
-DocumentPath=Output\Gerber Output\NC Drill\B100AA PCB R1.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument105]
+[GeneratedDocument53]
 DocumentPath=Output\Gerber Output\NC Drill Files\B100AA PCB R1.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument106]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Copper_Signal_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument107]
+[GeneratedDocument54]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument108]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Copper_Signal_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument109]
+[GeneratedDocument55]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument110]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Copper_Signal_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument111]
+[GeneratedDocument56]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Copper_Signal_3.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument112]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Copper_Signal_4.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument113]
+[GeneratedDocument57]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Copper_Signal_4.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument114]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument115]
+[GeneratedDocument58]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument116]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument117]
+[GeneratedDocument59]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument118]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Drawing_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument119]
+[GeneratedDocument60]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Drawing_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument120]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Drawing_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument121]
+[GeneratedDocument61]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Drawing_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument122]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Drawing_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument123]
+[GeneratedDocument62]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Drawing_3.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument124]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Drawing_4.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument125]
+[GeneratedDocument63]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Drawing_4.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument126]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Drawing_5.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument127]
+[GeneratedDocument64]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Drawing_5.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument128]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Drawing_6.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument129]
+[GeneratedDocument65]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Drawing_6.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument130]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Drillmap_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument131]
+[GeneratedDocument66]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Drillmap_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument132]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Drillmap_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument133]
+[GeneratedDocument67]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Drillmap_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument134]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Drillmap_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument135]
+[GeneratedDocument68]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Drillmap_3.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument136]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Drillmap_4.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument137]
+[GeneratedDocument69]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Drillmap_4.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument138]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Drillmap_5.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument139]
+[GeneratedDocument70]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Drillmap_5.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument140]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Drillmap_6.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument141]
+[GeneratedDocument71]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Drillmap_6.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument142]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument143]
+[GeneratedDocument72]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument144]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument145]
+[GeneratedDocument73]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument146]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Mechanical_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument147]
+[GeneratedDocument74]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Mechanical_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument148]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Mechanical_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument149]
+[GeneratedDocument75]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Mechanical_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument150]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Mechanical_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument151]
+[GeneratedDocument76]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Mechanical_3.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument152]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Mechanical_4.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument153]
+[GeneratedDocument77]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Mechanical_4.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument154]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Mechanical_5.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument155]
+[GeneratedDocument78]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Mechanical_5.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument156]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Mechanical_6.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument157]
+[GeneratedDocument79]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Mechanical_6.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument158]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Mechanical_7.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument159]
+[GeneratedDocument80]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Mechanical_7.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument160]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Mechanical_13.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument161]
+[GeneratedDocument81]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Mechanical_13.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument162]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Mechanical_15.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument163]
+[GeneratedDocument82]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Mechanical_15.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument164]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Mechanical_16.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument165]
+[GeneratedDocument83]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Mechanical_16.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument166]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Mechanical_40.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument167]
+[GeneratedDocument84]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Mechanical_40.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument168]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Pads_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument169]
+[GeneratedDocument85]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument170]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Pads_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument171]
+[GeneratedDocument86]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument172]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument173]
+[GeneratedDocument87]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument174]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument175]
+[GeneratedDocument88]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument176]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Plated_Drill_2_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument177]
+[GeneratedDocument89]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Plated_Drill_2_3.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument178]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Plated_Drill_2_5.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument179]
+[GeneratedDocument90]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Plated_Drill_2_5.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument180]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Plated_Drill_4_5.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument181]
+[GeneratedDocument91]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Plated_Drill_4_5.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument182]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument183]
+[GeneratedDocument92]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument184]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument185]
+[GeneratedDocument93]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument186]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument187]
+[GeneratedDocument94]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument188]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument189]
+[GeneratedDocument95]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_Soldermask_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument190]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_uVias_Drill_1_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument191]
+[GeneratedDocument96]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_uVias_Drill_1_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument192]
-DocumentPath=Output\Gerber Output\GerberX2\B100AA PCB R1_uVias_Drill_5_6.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument193]
+[GeneratedDocument97]
 DocumentPath=Output\Gerber Output\Gerber X2 Files\B100AA PCB R1_uVias_Drill_5_6.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument194]
+[GeneratedDocument98]
 DocumentPath=Output\Bill of Materials\Bill of Materials-B100.csv
 DItemRevisionGUID=
 
-[GeneratedDocument195]
-DocumentPath=Output\BOM\Bill of Materials-B100.csv
-DItemRevisionGUID=
-
-[GeneratedDocument196]
+[GeneratedDocument99]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
-[GeneratedDocument197]
+[GeneratedDocument100]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
-[GeneratedDocument198]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument199]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument200]
+[GeneratedDocument101]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument201]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument202]
+[GeneratedDocument102]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\bottom_3d_body\features
 DItemRevisionGUID=
 
-[GeneratedDocument203]
+[GeneratedDocument103]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\bottom_assembly\features
 DItemRevisionGUID=
 
-[GeneratedDocument204]
+[GeneratedDocument104]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\bottom_courtyard\features
 DItemRevisionGUID=
 
-[GeneratedDocument205]
+[GeneratedDocument105]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument206]
+[GeneratedDocument106]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument207]
+[GeneratedDocument107]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument208]
+[GeneratedDocument108]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument209]
+[GeneratedDocument109]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
-[GeneratedDocument210]
+[GeneratedDocument110]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument211]
+[GeneratedDocument111]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\dimensions\features
 DItemRevisionGUID=
 
-[GeneratedDocument212]
+[GeneratedDocument112]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\drill1\features
 DItemRevisionGUID=
 
-[GeneratedDocument213]
+[GeneratedDocument113]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\drill2\features
 DItemRevisionGUID=
 
-[GeneratedDocument214]
+[GeneratedDocument114]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\drill3\features
 DItemRevisionGUID=
 
-[GeneratedDocument215]
+[GeneratedDocument115]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\drill4\features
 DItemRevisionGUID=
 
-[GeneratedDocument216]
+[GeneratedDocument116]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\drill5\features
 DItemRevisionGUID=
 
-[GeneratedDocument217]
+[GeneratedDocument117]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument218]
+[GeneratedDocument118]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument219]
+[GeneratedDocument119]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\mechanical_13\features
 DItemRevisionGUID=
 
-[GeneratedDocument220]
+[GeneratedDocument120]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\mechanical_15\features
 DItemRevisionGUID=
 
-[GeneratedDocument221]
+[GeneratedDocument121]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\mechanical_16\features
 DItemRevisionGUID=
 
-[GeneratedDocument222]
+[GeneratedDocument122]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\mid_layer_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument223]
+[GeneratedDocument123]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\mid_layer_2\features
 DItemRevisionGUID=
 
-[GeneratedDocument224]
+[GeneratedDocument124]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\mid_layer_3\features
 DItemRevisionGUID=
 
-[GeneratedDocument225]
+[GeneratedDocument125]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\mid_layer_4\features
 DItemRevisionGUID=
 
-[GeneratedDocument226]
+[GeneratedDocument126]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\top_3d_body\features
 DItemRevisionGUID=
 
-[GeneratedDocument227]
+[GeneratedDocument127]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\top_assembly\features
 DItemRevisionGUID=
 
-[GeneratedDocument228]
+[GeneratedDocument128]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\top_courtyard\features
 DItemRevisionGUID=
 
-[GeneratedDocument229]
+[GeneratedDocument129]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument230]
+[GeneratedDocument130]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument231]
+[GeneratedDocument131]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument232]
+[GeneratedDocument132]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument233]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\bottom_3d_body\features
-DItemRevisionGUID=
-
-[GeneratedDocument234]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\bottom_assembly\features
-DItemRevisionGUID=
-
-[GeneratedDocument235]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\bottom_courtyard\features
-DItemRevisionGUID=
-
-[GeneratedDocument236]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument237]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument238]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument239]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument240]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument241]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument242]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\dimensions\features
-DItemRevisionGUID=
-
-[GeneratedDocument243]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill1\features
-DItemRevisionGUID=
-
-[GeneratedDocument244]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill2\features
-DItemRevisionGUID=
-
-[GeneratedDocument245]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill3\features
-DItemRevisionGUID=
-
-[GeneratedDocument246]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill4\features
-DItemRevisionGUID=
-
-[GeneratedDocument247]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill5\features
-DItemRevisionGUID=
-
-[GeneratedDocument248]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument249]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument250]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\mechanical_13\features
-DItemRevisionGUID=
-
-[GeneratedDocument251]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\mechanical_15\features
-DItemRevisionGUID=
-
-[GeneratedDocument252]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\mechanical_16\features
-DItemRevisionGUID=
-
-[GeneratedDocument253]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\mid_layer_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument254]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\mid_layer_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument255]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\mid_layer_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument256]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\mid_layer_4\features
-DItemRevisionGUID=
-
-[GeneratedDocument257]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\top_3d_body\features
-DItemRevisionGUID=
-
-[GeneratedDocument258]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\top_assembly\features
-DItemRevisionGUID=
-
-[GeneratedDocument259]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\top_courtyard\features
-DItemRevisionGUID=
-
-[GeneratedDocument260]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument261]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument262]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument263]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument264]
+[GeneratedDocument133]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument265]
-DocumentPath=Output\Gerber Output\ODB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument266]
+[GeneratedDocument134]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument267]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument268]
+[GeneratedDocument135]
 DocumentPath=Output\Pick & Place Output\Pick Place for B100AA PCB R1.txt
 DItemRevisionGUID=
 
-[GeneratedDocument269]
-DocumentPath=..\..\..\..\..\Users\MEHMET~1\AppData\Local\Temp\Pro81E3.xls
-DItemRevisionGUID=
-
-[GeneratedDocument270]
+[GeneratedDocument136]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument271]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument272]
+[GeneratedDocument137]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument273]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument274]
+[GeneratedDocument138]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\drill1\tools
 DItemRevisionGUID=
 
-[GeneratedDocument275]
+[GeneratedDocument139]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\drill2\tools
 DItemRevisionGUID=
 
-[GeneratedDocument276]
+[GeneratedDocument140]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\drill3\tools
 DItemRevisionGUID=
 
-[GeneratedDocument277]
+[GeneratedDocument141]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\drill4\tools
 DItemRevisionGUID=
 
-[GeneratedDocument278]
+[GeneratedDocument142]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\drill5\tools
 DItemRevisionGUID=
 
-[GeneratedDocument279]
+[GeneratedDocument143]
 DocumentPath=Output\Gerber Output\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
-[GeneratedDocument280]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill1\tools
-DItemRevisionGUID=
-
-[GeneratedDocument281]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill2\tools
-DItemRevisionGUID=
-
-[GeneratedDocument282]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill3\tools
-DItemRevisionGUID=
-
-[GeneratedDocument283]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill4\tools
-DItemRevisionGUID=
-
-[GeneratedDocument284]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill5\tools
-DItemRevisionGUID=
-
-[GeneratedDocument285]
-DocumentPath=Output\Gerber Output\ODB\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
 [Parameter1]
-Name=Version_
-Value=AA
+Name=Address1_
+Value=Necip FazÄ±l Mah. OrtaÄ±rmak Sok.
 
 [Parameter2]
-Name=Title_
-Value=Power Source Segment Block Diagram
+Name=Address2_
+Value=BirgÃ¼l Apt. No: 19/6
 
 [Parameter3]
-Name=Revision_
-Value=R06
-
-[Parameter4]
-Name=Product_ID_
-Value=-
-
-[Parameter5]
-Name=Product_Desc_
-Value=GSM Iot Based Plug&Play SOM
-
-[Parameter6]
-Name=Phone_
-Value=+90 506 7444300
-
-[Parameter7]
-Name=Organization_
-Value=Ovoo Electronics
-
-[Parameter8]
-Name=Module_ID_
-Value=B100
-
-[Parameter9]
-Name=link_
-Value=http://www.ovoo.me
-
-[Parameter10]
-Name=Git_Repo_Address_
-Value=https://www.github.com/akkoyun/B100
-
-[Parameter11]
-Name=Engineer_
-Value=Mehmet Günce Akkoyun
-
-[Parameter12]
-Name=Customer_
-Value=-
-
-[Parameter13]
-Name=Address4_
-Value=Turkiye
-
-[Parameter14]
 Name=Address3_
 Value=Meram / Konya
 
+[Parameter4]
+Name=Address4_
+Value=Turkiye
+
+[Parameter5]
+Name=Customer_
+Value=-
+
+[Parameter6]
+Name=Engineer_
+Value=Mehmet GÃ¼nce Akkoyun
+
+[Parameter7]
+Name=Git_Repo_Address_
+Value=https://www.github.com/akkoyun/B100
+
+[Parameter8]
+Name=link_
+Value=http://www.ovoo.me
+
+[Parameter9]
+Name=Module_ID_
+Value=B100
+
+[Parameter10]
+Name=Organization_
+Value=Ovoo Electronics
+
+[Parameter11]
+Name=Phone_
+Value=+90 506 7444300
+
+[Parameter12]
+Name=Product_Desc_
+Value=GSM Iot Based Plug&Play SOM
+
+[Parameter13]
+Name=Product_ID_
+Value=-
+
+[Parameter14]
+Name=Revision_
+Value=R06
+
 [Parameter15]
-Name=Address2_
-Value=Birgül Apt. No: 19/6
+Name=Title_
+Value=Power Source Segment Block Diagram
 
 [Parameter16]
-Name=Address1_
-Value=Necip Fazýl Mah. Ortaýrmak Sok.
+Name=Version_
+Value=AA
 
 [Configuration1]
 Name=Sources
@@ -3255,12 +2692,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=XSpice Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=FS-1135MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -3576,78 +3023,6 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType18=Text Print
-OutputName18=Text Print
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType19=Text Print
-OutputName19=Text Print
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType20=Text Print
-OutputName20=Text Print
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType21=Text Print
-OutputName21=Text Print
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType22=Text Print
-OutputName22=Text Print
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType23=Text Print
-OutputName23=Text Print
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
-PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType24=Text Print
-OutputName24=Text Print
-OutputDocumentPath24=
-OutputVariantName24=
-OutputDefault24=0
-PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType25=Text Print
-OutputName25=Text Print
-OutputDocumentPath25=
-OutputVariantName25=
-OutputDefault25=0
-PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType26=Text Print
-OutputName26=Text Print
-OutputDocumentPath26=
-OutputVariantName26=
-OutputDefault26=0
-PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType27=Text Print
-OutputName27=Text Print
-OutputDocumentPath27=
-OutputVariantName27=
-OutputDefault27=0
-PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType28=Text Print
-OutputName28=Text Print
-OutputDocumentPath28=
-OutputVariantName28=
-OutputDefault28=0
-PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType29=Text Print
-OutputName29=Text Print
-OutputDocumentPath29=
-OutputVariantName29=
-OutputDefault29=0
-PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup8]
 Name=Validation Outputs
@@ -3753,36 +3128,6 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -4109,6 +3454,9 @@ Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
+Type123=1
+Type124=1
+Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -4195,12 +3543,12 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
