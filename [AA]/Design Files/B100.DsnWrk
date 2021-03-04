@@ -3,6 +3,8 @@ Version=1.0
 [Project1]
 ProjectPath=..\..\..\Ovoo_Library\Ovoo_Library.LibPkg
 [Project2]
-ProjectPath=B100AA\B100.PrjPcb
+ProjectPath=B100AA\B100AA.PrjPcb
 [Project3]
 ProjectPath=B100AA Development Kit\B100AA Development Kit.PrjPcb
+[Project4]
+ProjectPath=B100BA\B100BA.PrjPcb
