@@ -1587,7 +1587,7 @@ Value=R01
 
 [Parameter3]
 Name=Product_ID_
-Value=-
+Value=B100BA
 
 [Parameter4]
 Name=Product_Desc_
@@ -1615,25 +1615,29 @@ Value=https://www.github.com/akkoyun/B100
 
 [Parameter10]
 Name=Engineer_
-Value=Mehmet Günce Akkoyun
+Value=M. Günce Akkoyun
 
 [Parameter11]
 Name=Customer_
-Value=-
+Value=Ovoo Electronics
 
 [Parameter12]
+Name=Copyright_
+Value=© 2021 All rights reserved. [Commercial Secret]
+
+[Parameter13]
 Name=Address4_
 Value=Turkiye
 
-[Parameter13]
+[Parameter14]
 Name=Address3_
 Value=Meram / Konya
 
-[Parameter14]
+[Parameter15]
 Name=Address2_
 Value=Birgül Apt. No: 19/6
 
-[Parameter15]
+[Parameter16]
 Name=Address1_
 Value=Necip Fazıl Mah. Ortaırmak Sok.
 
