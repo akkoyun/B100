@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=
 Description=
-TargetOutputMedium=3D Body
+TargetOutputMedium=PCB Images
 VariantName=[No Variations]
 VariantScope=2
 CurrentConfigurationName=Fabrication
-TargetPrinter=FS-1135MFP
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -63,7 +63,7 @@ OutputEnabled1_OutputMedium9=0
 OutputEnabled1_OutputMedium10=0
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16777220~1,16777221~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908294~1,16908295~1,16908301~1,16908303~1,16908304~1,16908328~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16777220~1,16777221~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908294~1,16908295~1,16908301~1,16908303~1,16908304~1,16908328~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Altium Projects\B100\[AA]\Design Files\B100AA\B100AA PCB R1.PcbDoc
 OutputType2=Gerber X2
 OutputName2=Gerber X2 Files
 OutputCategory2=Fabrication
@@ -82,7 +82,7 @@ OutputEnabled2_OutputMedium9=0
 OutputEnabled2_OutputMedium10=0
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPair0_Backdrill=False|PlotBlindViasPair0_DrillType=Regular|PlotBlindViasPair0_HighLayer=Mid Layer 2|PlotBlindViasPair0_LowLayer=Mid Layer 1|PlotBlindViasPair1_Backdrill=False|PlotBlindViasPair1_DrillType=Regular|PlotBlindViasPair1_HighLayer=Mid Layer 4|PlotBlindViasPair1_LowLayer=Mid Layer 1|PlotBlindViasPair2_Backdrill=False|PlotBlindViasPair2_DrillType=Regular|PlotBlindViasPair2_HighLayer=Mid Layer 4|PlotBlindViasPair2_LowLayer=Mid Layer 3|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair1_Backdrill=False|PlotDrillDrawingPair1_DrillType=MicroViaDrill|PlotDrillDrawingPair1_HighLayer=Mid Layer 1|PlotDrillDrawingPair1_LowLayer=Top Layer|PlotDrillDrawingPair2_Backdrill=False|PlotDrillDrawingPair2_DrillType=Regular|PlotDrillDrawingPair2_HighLayer=Mid Layer 2|PlotDrillDrawingPair2_LowLayer=Mid Layer 1|PlotDrillDrawingPair3_Backdrill=False|PlotDrillDrawingPair3_DrillType=Regular|PlotDrillDrawingPair3_HighLayer=Mid Layer 4|PlotDrillDrawingPair3_LowLayer=Mid Layer 1|PlotDrillDrawingPair4_Backdrill=False|PlotDrillDrawingPair4_DrillType=Regular|PlotDrillDrawingPair4_HighLayer=Mid Layer 4|PlotDrillDrawingPair4_LowLayer=Mid Layer 3|PlotDrillDrawingPair5_Backdrill=False|PlotDrillDrawingPair5_DrillType=MicroViaDrill|PlotDrillDrawingPair5_HighLayer=Bottom Layer|PlotDrillDrawingPair5_LowLayer=Mid Layer 4|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair1_Backdrill=False|PlotDrillGuidePair1_DrillType=MicroViaDrill|PlotDrillGuidePair1_HighLayer=Mid Layer 1|PlotDrillGuidePair1_LowLayer=Top Layer|PlotDrillGuidePair2_Backdrill=False|PlotDrillGuidePair2_DrillType=Regular|PlotDrillGuidePair2_HighLayer=Mid Layer 2|PlotDrillGuidePair2_LowLayer=Mid Layer 1|PlotDrillGuidePair3_Backdrill=False|PlotDrillGuidePair3_DrillType=Regular|PlotDrillGuidePair3_HighLayer=Mid Layer 4|PlotDrillGuidePair3_LowLayer=Mid Layer 1|PlotDrillGuidePair4_Backdrill=False|PlotDrillGuidePair4_DrillType=Regular|PlotDrillGuidePair4_HighLayer=Mid Layer 4|PlotDrillGuidePair4_LowLayer=Mid Layer 3|PlotDrillGuidePair5_Backdrill=False|PlotDrillGuidePair5_DrillType=MicroViaDrill|PlotDrillGuidePair5_HighLayer=Bottom Layer|PlotDrillGuidePair5_LowLayer=Mid Layer 4|PlotDrillGuidePairs=False|PlotMicroViasPair0_Backdrill=False|PlotMicroViasPair0_DrillType=MicroViaDrill|PlotMicroViasPair0_HighLayer=Mid Layer 1|PlotMicroViasPair0_LowLayer=Top Layer|PlotMicroViasPair1_Backdrill=False|PlotMicroViasPair1_DrillType=MicroViaDrill|PlotMicroViasPair1_HighLayer=Bottom Layer|PlotMicroViasPair1_LowLayer=Mid Layer 4|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16908292~1,16908290~1,16777221~1,16908328~1,16973833~1,16908304~1,16908289~1,16908291~1,16908295~1,16908303~1,16973848~1,16908301~1,16777219~1,16973831~1,16973849~1,16908294~1,16777220~1,16973835~1,16973830~1,16973832~1,16842751~1,16908293~1,16973834~1,16777218~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
+Configuration2_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPair0_Backdrill=False|PlotBlindViasPair0_DrillType=Regular|PlotBlindViasPair0_HighLayer=Mid Layer 2|PlotBlindViasPair0_LowLayer=Mid Layer 1|PlotBlindViasPair1_Backdrill=False|PlotBlindViasPair1_DrillType=Regular|PlotBlindViasPair1_HighLayer=Mid Layer 4|PlotBlindViasPair1_LowLayer=Mid Layer 1|PlotBlindViasPair2_Backdrill=False|PlotBlindViasPair2_DrillType=Regular|PlotBlindViasPair2_HighLayer=Mid Layer 4|PlotBlindViasPair2_LowLayer=Mid Layer 3|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair1_Backdrill=False|PlotDrillDrawingPair1_DrillType=MicroViaDrill|PlotDrillDrawingPair1_HighLayer=Mid Layer 1|PlotDrillDrawingPair1_LowLayer=Top Layer|PlotDrillDrawingPair2_Backdrill=False|PlotDrillDrawingPair2_DrillType=Regular|PlotDrillDrawingPair2_HighLayer=Mid Layer 2|PlotDrillDrawingPair2_LowLayer=Mid Layer 1|PlotDrillDrawingPair3_Backdrill=False|PlotDrillDrawingPair3_DrillType=Regular|PlotDrillDrawingPair3_HighLayer=Mid Layer 4|PlotDrillDrawingPair3_LowLayer=Mid Layer 1|PlotDrillDrawingPair4_Backdrill=False|PlotDrillDrawingPair4_DrillType=Regular|PlotDrillDrawingPair4_HighLayer=Mid Layer 4|PlotDrillDrawingPair4_LowLayer=Mid Layer 3|PlotDrillDrawingPair5_Backdrill=False|PlotDrillDrawingPair5_DrillType=MicroViaDrill|PlotDrillDrawingPair5_HighLayer=Bottom Layer|PlotDrillDrawingPair5_LowLayer=Mid Layer 4|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair1_Backdrill=False|PlotDrillGuidePair1_DrillType=MicroViaDrill|PlotDrillGuidePair1_HighLayer=Mid Layer 1|PlotDrillGuidePair1_LowLayer=Top Layer|PlotDrillGuidePair2_Backdrill=False|PlotDrillGuidePair2_DrillType=Regular|PlotDrillGuidePair2_HighLayer=Mid Layer 2|PlotDrillGuidePair2_LowLayer=Mid Layer 1|PlotDrillGuidePair3_Backdrill=False|PlotDrillGuidePair3_DrillType=Regular|PlotDrillGuidePair3_HighLayer=Mid Layer 4|PlotDrillGuidePair3_LowLayer=Mid Layer 1|PlotDrillGuidePair4_Backdrill=False|PlotDrillGuidePair4_DrillType=Regular|PlotDrillGuidePair4_HighLayer=Mid Layer 4|PlotDrillGuidePair4_LowLayer=Mid Layer 3|PlotDrillGuidePair5_Backdrill=False|PlotDrillGuidePair5_DrillType=MicroViaDrill|PlotDrillGuidePair5_HighLayer=Bottom Layer|PlotDrillGuidePair5_LowLayer=Mid Layer 4|PlotDrillGuidePairs=False|PlotMicroViasPair0_Backdrill=False|PlotMicroViasPair0_DrillType=MicroViaDrill|PlotMicroViasPair0_HighLayer=Mid Layer 1|PlotMicroViasPair0_LowLayer=Top Layer|PlotMicroViasPair1_Backdrill=False|PlotMicroViasPair1_DrillType=MicroViaDrill|PlotMicroViasPair1_HighLayer=Bottom Layer|PlotMicroViasPair1_LowLayer=Mid Layer 4|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16908292~1,16908290~1,16777221~1,16908328~1,16973833~1,16908304~1,16908289~1,16908291~1,16908295~1,16908303~1,16973848~1,16908301~1,16777219~1,16973831~1,16973849~1,16908294~1,16777220~1,16973835~1,16973830~1,16973832~1,16842751~1,16908293~1,16973834~1,16777218~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|DocumentPath=C:\Altium Projects\B100\[AA]\Design Files\B100AA\B100AA PCB R1.PcbDoc
 OutputType3=ODB
 OutputName3=ODB++ Files
 OutputCategory3=Fabrication
@@ -101,7 +101,7 @@ OutputEnabled3_OutputMedium9=0
 OutputEnabled3_OutputMedium10=0
 OutputDefault3=0
 Configuration3_Name1=OutputConfigurationParameter1
-Configuration3_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Board=False|AddToAllPlots_Bottom 3D Body=False|AddToAllPlots_Bottom Assembly=False|AddToAllPlots_Bottom Courtyard=False|AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=False|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 9=False|AddToAllPlots_Top 3D Body=False|AddToAllPlots_Top Assembly=False|AddToAllPlots_Top Courtyard=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set= |MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|Plot_V7_1=True|Plot_V7_1_name=Mechanical Layer 40|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=True|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=True|PlotMechanical4Plot=True|PlotMechanical5Plot=True|PlotMechanical6Plot=True|PlotMechanical7Plot=True|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
+Configuration3_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Board=False|AddToAllPlots_Bottom 3D Body=False|AddToAllPlots_Bottom Assembly=False|AddToAllPlots_Bottom Courtyard=False|AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=False|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 9=False|AddToAllPlots_Top 3D Body=False|AddToAllPlots_Top Assembly=False|AddToAllPlots_Top Courtyard=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set= |MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|Plot_V7_1=True|Plot_V7_1_name=Mechanical Layer 40|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=True|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=True|PlotMechanical4Plot=True|PlotMechanical5Plot=True|PlotMechanical6Plot=True|PlotMechanical7Plot=True|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView|DocumentPath=C:\Altium Projects\B100\[AA]\Design Files\B100AA\B100AA PCB R1.PcbDoc
 OutputType4=NC Drill
 OutputName4=NC Drill Files
 OutputCategory4=Fabrication
@@ -120,7 +120,7 @@ OutputEnabled4_OutputMedium9=0
 OutputEnabled4_OutputMedium10=0
 OutputDefault4=0
 Configuration4_Name1=OutputConfigurationParameter1
-Configuration4_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+Configuration4_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Altium Projects\B100\[AA]\Design Files\B100AA\B100AA PCB R1.PcbDoc
 OutputType5=Pick Place
 OutputName5=Generates pick and place files
 OutputCategory5=Assembly
@@ -213,7 +213,7 @@ OutputName9=Top
 OutputCategory9=Documentation
 OutputDocumentPath9=B100AA PCB R1.PcbDoc
 OutputVariantName9=
-OutputEnabled9=0
+OutputEnabled9=1
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=0
 OutputEnabled9_OutputMedium3=0
@@ -233,7 +233,7 @@ OutputName10=Bottom
 OutputCategory10=Documentation
 OutputDocumentPath10=B100AA PCB R1.PcbDoc
 OutputVariantName10=
-OutputEnabled10=0
+OutputEnabled10=1
 OutputEnabled10_OutputMedium1=0
 OutputEnabled10_OutputMedium2=0
 OutputEnabled10_OutputMedium3=0
@@ -376,7 +376,7 @@ OutputName15=Export STEP
 OutputCategory15=Export
 OutputDocumentPath15=B100AA PCB R1.PcbDoc
 OutputVariantName15=
-OutputEnabled15=1
+OutputEnabled15=0
 OutputEnabled15_OutputMedium1=0
 OutputEnabled15_OutputMedium2=0
 OutputEnabled15_OutputMedium3=0
@@ -389,15 +389,15 @@ OutputEnabled15_OutputMedium9=0
 OutputEnabled15_OutputMedium10=1
 OutputDefault15=0
 Configuration15_Name1=OutputConfigurationParameter1
-Configuration15_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=0|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False
+Configuration15_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=0|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=C:\Altium Projects\B100\[AA]\Design Files\B100AA\B100AA PCB R1.PcbDoc
 
 [PublishSettings]
 OutputFilePath2=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\Gerber Output\
 ReleaseManaged2=1
-OutputBasePath2=
+OutputBasePath2=Output
 OutputPathMedia2=[Media Name]
 OutputPathMediaValue2=
-OutputPathOutputer2=[Output Name]
+OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
 OutputFileName2=
@@ -447,7 +447,7 @@ PDFACompliance4=Disabled
 PDFVersion4=Default
 OutputFilePath5=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\Bill of Materials\
 ReleaseManaged5=1
-OutputBasePath5=
+OutputBasePath5=Output
 OutputPathMedia5=[Media Name]
 OutputPathMediaValue5=
 OutputPathOutputer5=
@@ -485,7 +485,7 @@ ShowComponentParameters6=1
 GlobalBookmarks6=0
 PDFACompliance6=Disabled
 PDFVersion6=Default
-OutputFilePath7=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\
+OutputFilePath7=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\PCB Images\
 ReleaseManaged7=1
 OutputBasePath7=
 OutputPathMedia7=[Media Name]
@@ -568,7 +568,7 @@ PDFACompliance9=Disabled
 PDFVersion9=Default
 OutputFilePath10=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\3D Body\
 ReleaseManaged10=1
-OutputBasePath10=
+OutputBasePath10=Output
 OutputPathMedia10=[Media Name]
 OutputPathMediaValue10=
 OutputPathOutputer10=
@@ -615,7 +615,7 @@ OpenIPCOutput5=0
 EnableReload5=0
 RelativeOutputPath6=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\Draftsman\R06.PDF
 OpenOutputs6=0
-RelativeOutputPath7=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\
+RelativeOutputPath7=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\PCB Images\
 OpenOutputs7=0
 RelativeOutputPath8=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\
 OpenOutputs8=0
