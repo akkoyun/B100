@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<ProjectConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Config>OP_Analysis=False|TRAN_Analysis=True|DC_Analysis=False|AC_Analysis=False|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|TRAN_FourierAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source=|TF_Reference=0|PZ_Enabled=False|PZ_Node1=|PZ_Node2=0|PZ_Node3=|PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_PrimarySource=|DC_PrimaryStart=|DC_PrimaryStop=|DC_PrimaryStep=|DC_EnableSecondary=False|DC_SecondarySource=|DC_SecondaryStart=|DC_SecondaryStop=|DC_SecondaryStep=|AC_StartFrequency=1K|AC_StopFrequency=1G|AC_TestPoints=10|AC_SweepType=DEC|Noise_Enabled=False|Noise_Source=|Noise_Output=|Noise_Reference=0|Noise_Start=1K|Noise_Stop=1G|Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|TRAN_StartTime=0|TRAN_StopTime=1m|TRAN_StepTime=10u|TRAN_MaxStepTime=10u|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq=10|TRAN_FourierNumHarmonics=10|TRAN_AlwaysSetDefaults=False|TempSweep_Start=-10|TempSweep_Stop=60|TempSweep_Step=10|ParamSweep_Parameter1=|ParamSweep_Type1=LIN|ParamSweep_Start1=|ParamSweep_Stop1=|ParamSweep_Step1=|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2=|ParamSweep_Type2=LIN|ParamSweep_Start2=|ParamSweep_Stop2=|ParamSweep_Step2=|ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_CapacitorTolerance=10%|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_DVCC=5|OPTION_DVDD=15|SheetsToNetlist=0</Config>
+  <Documents>
+    <DocumentConfig>
+      <Name>Power Source.SchDoc</Name>
+      <Id>PNDWDZAH</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>5V Buck Boost Converter.SchDoc</Name>
+      <Id>QIJYMJOL</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>3V3 LDO Regulator.SchDoc</Name>
+      <Id>AAJXMSUG</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Main Power Switch.SchDoc</Name>
+      <Id>IJVSJTHL</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>3V8 Buck Boost Converter.SchDoc</Name>
+      <Id>YJBVQTUO</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>GSM IoT.SchDoc</Name>
+      <Id>EWNSUNHV</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>B100 Block Diagram.SchDoc</Name>
+      <Id>LFFMGMAY</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Bidirectional Voltage Translator.SchDoc</Name>
+      <Id>NDACCZGK</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Master MicroController.SchDoc</Name>
+      <Id>JWCRJWQJ</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Master MicroController LED.SchDoc</Name>
+      <Id>DQUBBBMG</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>MicroController.SchDoc</Name>
+      <Id>ZSXUCQWH</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Module Output Sockets.SchDoc</Name>
+      <Id>VYDIUNMA</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>FOTA MicroController Power Switch.SchDoc</Name>
+      <Id>INSLSUQO</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>FOTA MicroController.SchDoc</Name>
+      <Id>UJGQWKGV</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>SD Card.SchDoc</Name>
+      <Id>OHKRGYZS</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>ICSP Burn Buffer.SchDoc</Name>
+      <Id>GLKRNDBB</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Buzzer.SchDoc</Name>
+      <Id>UFXGICOH</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>I2C Network.SchDoc</Name>
+      <Id>BBXRGYST</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Master MicroController Core.SchDoc</Name>
+      <Id>FVWGUDTC</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Master MicroController Port E.SchDoc</Name>
+      <Id>GLEHMNBX</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Master MicroController Port G.SchDoc</Name>
+      <Id>RJNAWJPJ</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Master MicroController Port H.SchDoc</Name>
+      <Id>PSGXRAIT</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Master MicroController Serial Communication Port.SchDoc</Name>
+      <Id>LHKALNER</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>I2C Multiplexer.SchDoc</Name>
+      <Id>HFQMZPHF</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Real Time Clock.SchDoc</Name>
+      <Id>NSOXRQXS</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Serial ID EEPROM.SchDoc</Name>
+      <Id>RKEUYMWA</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>EEPROM.SchDoc</Name>
+      <Id>JILZEKUJ</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Analog Digital Converter.SchDoc</Name>
+      <Id>KCSMWQYF</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Filter Capacitors - Port K.SchDoc</Name>
+      <Id>ADFDCMHL</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Filter Capacitors - Master ICSP.SchDoc</Name>
+      <Id>BGMCPXZM</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Filter Capacitors - Port C.SchDoc</Name>
+      <Id>CABOBYWI</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Filter Capacitors - Port L.SchDoc</Name>
+      <Id>MCIMMUDA</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Filter Capacitors - FOTA ICSP.SchDoc</Name>
+      <Id>PNJAVMVJ</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Filter Capacitors - External SIM.SchDoc</Name>
+      <Id>IQWGNATE</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Filter Capacitors - Signal IoT.SchDoc</Name>
+      <Id>KNQXBJWN</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Filter Capacitors - Port A.SchDoc</Name>
+      <Id>UMCPUJKR</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Filter Capacitors - FOTA Digital ICSP.SchDoc</Name>
+      <Id>PRKSDUOO</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Filter Capacitors - IoT UART.SchDoc</Name>
+      <Id>TOOHLTAJ</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Filter Capacitors - Port F.SchDoc</Name>
+      <Id>BOIPLQMV</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Filter Capacitors - Serial Communication.SchDoc</Name>
+      <Id>UNKUGBMI</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Filter Capacitors - ADC Sensor.SchDoc</Name>
+      <Id>HCSWPDXR</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>Filter Capacitors - I2C.SchDoc</Name>
+      <Id>FMMXMOBD</Id>
+      <Results />
+    </DocumentConfig>
+    <DocumentConfig>
+      <Name>FOTA LED Indicators.SchDoc</Name>
+      <Id>RNCRMDKI</Id>
+      <Results />
+    </DocumentConfig>
+  </Documents>
+  <Results />
+</ProjectConfig>
