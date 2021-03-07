@@ -1136,23 +1136,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document65]
-DocumentPath=Schematics\GSM Power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UPZHBRJO
-
-[Document66]
 DocumentPath=Schematics\3V3 LDO Regulator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1169,7 +1152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAJXMSUG
 
-[Document67]
+[Document66]
 DocumentPath=Schematics\3V8 Buck Boost Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1186,7 +1169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YJBVQTUO
 
-[Document68]
+[Document67]
 DocumentPath=Schematics\5V Buck Boost Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1203,7 +1186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QIJYMJOL
 
-[Document69]
+[Document68]
 DocumentPath=Output\Output Job.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1220,7 +1203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document70]
+[Document69]
 DocumentPath=Schematics\FOTA LED Indicators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1262,68 +1245,68 @@ Variation8=Designator=L?|UniqueId=\JSIKZNNB\CHZMTDRV|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Version_
-Value=BA
+Name=Address1_
+Value=Necip Fazıl Mah. Ortaırmak Sok.
 
 [Parameter2]
-Name=Revision_
-Value=R01
-
-[Parameter3]
-Name=Product_ID_
-Value=B100BA
-
-[Parameter4]
-Name=Product_Desc_
-Value=GSM Iot Based Plug&Play SOM
-
-[Parameter5]
-Name=Phone_
-Value=+90 506 7444300
-
-[Parameter6]
-Name=Organization_
-Value=Ovoo Electronics
-
-[Parameter7]
-Name=Module_ID_
-Value=B100
-
-[Parameter8]
-Name=link_
-Value=http://www.ovoo.me
-
-[Parameter9]
-Name=Git_Repo_Address_
-Value=https://www.github.com/akkoyun/B100
-
-[Parameter10]
-Name=Engineer_
-Value=M. Günce Akkoyun
-
-[Parameter11]
-Name=Customer_
-Value=Ovoo Electronics
-
-[Parameter12]
-Name=Copyright_
-Value=© 2021 All rights reserved. [Commercial Secret]
-
-[Parameter13]
-Name=Address4_
-Value=Turkiye
-
-[Parameter14]
-Name=Address3_
-Value=Meram / Konya
-
-[Parameter15]
 Name=Address2_
 Value=Birgül Apt. No: 19/6
 
+[Parameter3]
+Name=Address3_
+Value=Meram / Konya
+
+[Parameter4]
+Name=Address4_
+Value=Turkiye
+
+[Parameter5]
+Name=Copyright_
+Value=© 2021 All rights reserved. [Commercial Secret]
+
+[Parameter6]
+Name=Customer_
+Value=Ovoo Electronics
+
+[Parameter7]
+Name=Engineer_
+Value=M. Günce Akkoyun
+
+[Parameter8]
+Name=Git_Repo_Address_
+Value=https://www.github.com/akkoyun/B100
+
+[Parameter9]
+Name=link_
+Value=http://www.ovoo.me
+
+[Parameter10]
+Name=Module_ID_
+Value=B100
+
+[Parameter11]
+Name=Organization_
+Value=Ovoo Electronics
+
+[Parameter12]
+Name=Phone_
+Value=+90 506 7444300
+
+[Parameter13]
+Name=Product_Desc_
+Value=GSM Iot Based Plug&Play SOM
+
+[Parameter14]
+Name=Product_ID_
+Value=B100BA
+
+[Parameter15]
+Name=Revision_
+Value=R01
+
 [Parameter16]
-Name=Address1_
-Value=Necip Fazıl Mah. Ortaırmak Sok.
+Name=Version_
+Value=BA
 
 [Configuration1]
 Name=Sources
@@ -2336,34 +2319,10 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Ovoo_Library.IntLib
-ComponentDesignItemID0=Capacitor - 100nF [0402-6V3]
-ComponentSymbolReference0=Capacitor - 100nF [0402-6V3]
+ComponentDesignItemID0=IC - TPS63020DSJR
+ComponentSymbolReference0=IC - TPS63020DSJR
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Ovoo_Library.IntLib
-ComponentDesignItemID1=Capacitor - 33pF [0402-6V3]
-ComponentSymbolReference1=Capacitor - 33pF [0402-6V3]
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Ovoo_Library.IntLib
-ComponentDesignItemID2=Capacitor - 39uF [Can-16V]
-ComponentSymbolReference2=Capacitor - 39uF [Can-16V]
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Ovoo_Library.IntLib
-ComponentDesignItemID3=IC - ATMEGA2560V-8AU
-ComponentSymbolReference3=IC - ATMEGA2560V-8AU
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=Ovoo_Library.IntLib
-ComponentDesignItemID4=IC - TPS63020DSJR
-ComponentSymbolReference4=IC - TPS63020DSJR
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -2393,124 +2352,97 @@ ParameterName6=ComponentLink2URL
 ParameterUpdate6=1
 ParameterName7=Description
 ParameterUpdate7=1
-ParameterName8=Dielectric
+ParameterName8=Height
 ParameterUpdate8=1
-ParameterName9=ESR
+ParameterName9=Library Reference
 ParameterUpdate9=1
-ParameterName10=Height
+ParameterName10=Manufacturer Name
 ParameterUpdate10=1
-ParameterName11=Leakage Current
+ParameterName11=Manufacturer Part Number
 ParameterUpdate11=1
-ParameterName12=Library Reference
+ParameterName12=Maximum Operating Temperature
 ParameterUpdate12=1
-ParameterName13=Manufacturer Name
+ParameterName13=Minimum Operating Temperature
 ParameterUpdate13=1
-ParameterName14=Manufacturer Part Number
+ParameterName14=ROHS
 ParameterUpdate14=1
-ParameterName15=Maximum Operating Temperature
+ParameterName15=Supplier 1
 ParameterUpdate15=1
-ParameterName16=Minimum Operating Temperature
+ParameterName16=Supplier 10
 ParameterUpdate16=1
-ParameterName17=Mouser Part Number
+ParameterName17=Supplier 11
 ParameterUpdate17=1
-ParameterName18=ROHS
+ParameterName18=Supplier 12
 ParameterUpdate18=1
-ParameterName19=Supplier 1
+ParameterName19=Supplier 13
 ParameterUpdate19=1
-ParameterName20=Supplier 10
+ParameterName20=Supplier 14
 ParameterUpdate20=1
-ParameterName21=Supplier 11
+ParameterName21=Supplier 15
 ParameterUpdate21=1
-ParameterName22=Supplier 12
+ParameterName22=Supplier 16
 ParameterUpdate22=1
-ParameterName23=Supplier 13
+ParameterName23=Supplier 17
 ParameterUpdate23=1
-ParameterName24=Supplier 14
+ParameterName24=Supplier 18
 ParameterUpdate24=1
-ParameterName25=Supplier 15
+ParameterName25=Supplier 2
 ParameterUpdate25=1
-ParameterName26=Supplier 16
+ParameterName26=Supplier 3
 ParameterUpdate26=1
-ParameterName27=Supplier 17
+ParameterName27=Supplier 4
 ParameterUpdate27=1
-ParameterName28=Supplier 18
+ParameterName28=Supplier 5
 ParameterUpdate28=1
-ParameterName29=Supplier 2
+ParameterName29=Supplier 6
 ParameterUpdate29=1
-ParameterName30=Supplier 3
+ParameterName30=Supplier 7
 ParameterUpdate30=1
-ParameterName31=Supplier 4
+ParameterName31=Supplier 8
 ParameterUpdate31=1
-ParameterName32=Supplier 5
+ParameterName32=Supplier 9
 ParameterUpdate32=1
-ParameterName33=Supplier 6
+ParameterName33=Supplier Part Number 1
 ParameterUpdate33=1
-ParameterName34=Supplier 7
+ParameterName34=Supplier Part Number 10
 ParameterUpdate34=1
-ParameterName35=Supplier 8
+ParameterName35=Supplier Part Number 11
 ParameterUpdate35=1
-ParameterName36=Supplier 9
+ParameterName36=Supplier Part Number 12
 ParameterUpdate36=1
-ParameterName37=Supplier Part Number 1
+ParameterName37=Supplier Part Number 13
 ParameterUpdate37=1
-ParameterName38=Supplier Part Number 10
+ParameterName38=Supplier Part Number 14
 ParameterUpdate38=1
-ParameterName39=Supplier Part Number 11
+ParameterName39=Supplier Part Number 15
 ParameterUpdate39=1
-ParameterName40=Supplier Part Number 12
+ParameterName40=Supplier Part Number 16
 ParameterUpdate40=1
-ParameterName41=Supplier Part Number 13
+ParameterName41=Supplier Part Number 17
 ParameterUpdate41=1
-ParameterName42=Supplier Part Number 14
+ParameterName42=Supplier Part Number 18
 ParameterUpdate42=1
-ParameterName43=Supplier Part Number 15
+ParameterName43=Supplier Part Number 2
 ParameterUpdate43=1
-ParameterName44=Supplier Part Number 16
+ParameterName44=Supplier Part Number 3
 ParameterUpdate44=1
-ParameterName45=Supplier Part Number 17
+ParameterName45=Supplier Part Number 4
 ParameterUpdate45=1
-ParameterName46=Supplier Part Number 18
+ParameterName46=Supplier Part Number 5
 ParameterUpdate46=1
-ParameterName47=Supplier Part Number 2
+ParameterName47=Supplier Part Number 6
 ParameterUpdate47=1
-ParameterName48=Supplier Part Number 3
+ParameterName48=Supplier Part Number 7
 ParameterUpdate48=1
-ParameterName49=Supplier Part Number 4
+ParameterName49=Supplier Part Number 8
 ParameterUpdate49=1
-ParameterName50=Supplier Part Number 5
+ParameterName50=Supplier Part Number 9
 ParameterUpdate50=1
-ParameterName51=Supplier Part Number 6
-ParameterUpdate51=1
-ParameterName52=Supplier Part Number 7
-ParameterUpdate52=1
-ParameterName53=Supplier Part Number 8
-ParameterUpdate53=1
-ParameterName54=Supplier Part Number 9
-ParameterUpdate54=1
-ParameterName55=Supply Voltage - Max
-ParameterUpdate55=1
-ParameterName56=Supply Voltage - Min
-ParameterUpdate56=1
-ParameterName57=Tolerance
-ParameterUpdate57=1
-ParameterName58=Value
-ParameterUpdate58=1
-ParameterName59=Voltage
-ParameterUpdate59=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=CAPACITOR_0402
+ModelName0=VSON-14
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=CAPACITOR_CAN-B6
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=TQFP100
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=VSON-14
-ModelUpdate3=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
