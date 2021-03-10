@@ -967,23 +967,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document55]
-DocumentPath=Schematics\Master MicroController Port A.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document56]
 DocumentPath=Schematics\Master MicroController Port C.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1000,24 +983,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
-DocumentPath=Schematics\Master MicroController Port F.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document58]
+[Document56]
 DocumentPath=Schematics\Master MicroController Port K.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1034,24 +1000,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
-DocumentPath=Schematics\Master MicroController Port L.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document60]
+[Document57]
 DocumentPath=Schematics\Master MicroController Core.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1068,7 +1017,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document58]
 DocumentPath=Schematics\FOTA MicroController Core.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1085,7 +1034,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document59]
 DocumentPath=Schematics\MicroController.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1102,7 +1051,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document60]
 DocumentPath=Schematics\FOTA Burn Buffer.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1119,7 +1068,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document64]
+[Document61]
 DocumentPath=Schematics\GSM IoT Block Diagram.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1136,7 +1085,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document65]
+[Document62]
 DocumentPath=Schematics\Serial to USB Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1153,7 +1102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBBLRSAR
 
-[Document66]
+[Document63]
 DocumentPath=Schematics\Serial to USB Converter.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
