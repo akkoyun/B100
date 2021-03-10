@@ -1153,6 +1153,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBBLRSAR
 
+[Document66]
+DocumentPath=Schematics\Serial to USB Converter.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=69DDD6C2-E93F-4F9E-9EAE-A5443ED2E44C
 Description=Prototype
