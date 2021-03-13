@@ -44,7 +44,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Release]
-ReleaseTarget=1
+ReleaseTarget=3
 ReleaseFolderPath=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\Release
 ReleaseZipPath=C:\Altium Projects\B100\[AA]\Design Files\B100AA\Output\Release
 
@@ -1229,9 +1229,11 @@ Value=BA
 Name=Sources
 ParameterCount=0
 ConstraintFileCount=0
-ReleaseItemId=
+ReleaseItemId=505E49F0-80D9-4CBF-B071-3BC9D01660F0
 Variant=[No Variations]
-OutputJobsCount=0
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Documentation.OutJob
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 LocalReleaseTarget=Release
