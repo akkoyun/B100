@@ -1884,68 +1884,68 @@ Variation146=Designator=R57|UniqueId=\IKIEZWXB\JIXRDJPI\YNEWRFWZ|Kind=1|Alternat
 ParamVariationCount=0
 
 [Parameter1]
-Name=Address1_
-Value=Necip Fazıl Mah. Ortaırmak Sok.
+Name=Version_
+Value=AA
 
 [Parameter2]
-Name=Address2_
-Value=Birgül Apt. No: 19/6
-
-[Parameter3]
-Name=Address3_
-Value=Meram / Konya
-
-[Parameter4]
-Name=Address4_
-Value=Turkiye
-
-[Parameter5]
-Name=Customer_
-Value=-
-
-[Parameter6]
-Name=Engineer_
-Value=Mehmet Günce Akkoyun
-
-[Parameter7]
-Name=Git_Repo_Address_
-Value=https://www.github.com/akkoyun/B100
-
-[Parameter8]
-Name=link_
-Value=http://www.ovoo.me
-
-[Parameter9]
-Name=Module_ID_
-Value=B100
-
-[Parameter10]
-Name=Organization_
-Value=Ovoo Electronics
-
-[Parameter11]
-Name=Phone_
-Value=+90 506 7444300
-
-[Parameter12]
-Name=Product_Desc_
-Value=GSM Iot Based Plug&Play SOM
-
-[Parameter13]
-Name=Product_ID_
-Value=-
-
-[Parameter14]
-Name=Revision_
-Value=R06
-
-[Parameter15]
 Name=Title_
 Value=Power Source Segment Block Diagram
 
+[Parameter3]
+Name=Revision_
+Value=R06
+
+[Parameter4]
+Name=Product_ID_
+Value=-
+
+[Parameter5]
+Name=Product_Desc_
+Value=GSM Iot Based Plug&Play SOM
+
+[Parameter6]
+Name=Phone_
+Value=+90 506 7444300
+
+[Parameter7]
+Name=Organization_
+Value=Ovoo Electronics
+
+[Parameter8]
+Name=Module_ID_
+Value=B100
+
+[Parameter9]
+Name=link_
+Value=http://www.ovoo.me
+
+[Parameter10]
+Name=Git_Repo_Address_
+Value=https://www.github.com/akkoyun/B100
+
+[Parameter11]
+Name=Engineer_
+Value=Mehmet Günce Akkoyun
+
+[Parameter12]
+Name=Customer_
+Value=-
+
+[Parameter13]
+Name=Address4_
+Value=Turkiye
+
+[Parameter14]
+Name=Address3_
+Value=Meram / Konya
+
+[Parameter15]
+Name=Address2_
+Value=Birgül Apt. No: 19/6
+
 [Parameter16]
-Name=Version_
-Value=AA
+Name=Address1_
+Value=Necip Fazıl Mah. Ortaırmak Sok.
 
 [Configuration1]
 Name=Sources
